@@ -1,0 +1,1120 @@
+Paar,Einstieg,Art,Ausstieg_A,Grund_A,Gewinn_A,Ausstieg_B,Grund_B,Gewinn_B,Einordnung
+BTC/USDT,2025-01-01 09:35:00+00:00,Trade nur im Original,2025-01-01 14:00:00+00:00,roi,1.00104597,,,,erste Kippstelle dieses Paares
+BTC/USDT,2025-01-01 09:40:00+00:00,Trade nur in der Variante,,,,2025-01-01 14:00:00+00:00,roi,1.00098131,moegliche Folgewirkung
+BTC/USDT,2025-01-02 14:10:00+00:00,Trade nur im Original,2025-01-02 16:35:00+00:00,roi,1.00098166,,,,moegliche Folgewirkung
+BTC/USDT,2025-01-02 14:15:00+00:00,Trade nur in der Variante,,,,2025-01-02 16:30:00+00:00,roi,1.00104276,moegliche Folgewirkung
+BTC/USDT,2025-01-03 08:05:00+00:00,Trade nur im Original,2025-01-03 15:45:00+00:00,roi,1.00096131,,,,moegliche Folgewirkung
+BTC/USDT,2025-01-03 08:10:00+00:00,Trade nur in der Variante,,,,2025-01-03 15:45:00+00:00,roi,1.00101634,moegliche Folgewirkung
+BTC/USDT,2025-01-05 09:15:00+00:00,Trade nur im Original,2025-01-06 02:05:00+00:00,roi,1.00097839,,,,moegliche Folgewirkung
+BTC/USDT,2025-01-05 09:20:00+00:00,Trade nur in der Variante,,,,2025-01-06 02:05:00+00:00,roi,1.00095928,moegliche Folgewirkung
+BTC/USDT,2025-01-07 12:00:00+00:00,Trade nur im Original,2025-01-13 12:00:00+00:00,stop_loss,-10.18989089,,,,moegliche Folgewirkung
+BTC/USDT,2025-01-07 12:05:00+00:00,Trade nur in der Variante,,,,2025-01-13 12:00:00+00:00,stop_loss,-10.18989087,moegliche Folgewirkung
+BTC/USDT,2025-01-13 12:10:00+00:00,Trade nur im Original,2025-01-13 14:55:00+00:00,roi,1.00097934,,,,moegliche Folgewirkung
+BTC/USDT,2025-01-13 12:15:00+00:00,Trade nur in der Variante,,,,2025-01-13 14:50:00+00:00,roi,1.00099455,moegliche Folgewirkung
+BTC/USDT,2025-01-16 09:00:00+00:00,Trade nur im Original,2025-01-16 17:35:00+00:00,roi,1.00101515,,,,moegliche Folgewirkung
+BTC/USDT,2025-01-16 09:05:00+00:00,Trade nur in der Variante,,,,2025-01-16 17:30:00+00:00,roi,1.00101246,moegliche Folgewirkung
+BTC/USDT,2025-01-18 04:35:00+00:00,Trade nur im Original,2025-01-18 15:35:00+00:00,roi,1.0010165,,,,moegliche Folgewirkung
+BTC/USDT,2025-01-18 04:40:00+00:00,Trade nur in der Variante,,,,2025-01-18 15:35:00+00:00,roi,1.00098149,moegliche Folgewirkung
+BTC/USDT,2025-01-19 09:30:00+00:00,Trade nur im Original,2025-01-19 14:25:00+00:00,roi,1.00095084,,,,moegliche Folgewirkung
+BTC/USDT,2025-01-19 09:35:00+00:00,Trade nur in der Variante,,,,2025-01-19 14:25:00+00:00,roi,1.00100437,moegliche Folgewirkung
+BTC/USDT,2025-01-19 22:15:00+00:00,Trade nur im Original,2025-01-20 06:45:00+00:00,roi,1.00095109,,,,moegliche Folgewirkung
+BTC/USDT,2025-01-19 22:20:00+00:00,Trade nur in der Variante,,,,2025-01-20 06:45:00+00:00,roi,1.00099819,moegliche Folgewirkung
+BTC/USDT,2025-01-20 16:20:00+00:00,Trade nur im Original,2025-01-21 16:10:00+00:00,roi,1.00099306,,,,moegliche Folgewirkung
+BTC/USDT,2025-01-20 16:25:00+00:00,Trade nur in der Variante,,,,2025-01-21 16:10:00+00:00,roi,1.00095775,moegliche Folgewirkung
+BTC/USDT,2025-01-21 23:10:00+00:00,Trade nur im Original,2025-02-03 01:20:00+00:00,stop_loss,-10.18991084,,,,moegliche Folgewirkung
+BTC/USDT,2025-01-21 23:15:00+00:00,Trade nur in der Variante,,,,2025-01-24 18:05:00+00:00,roi,1.00098737,moegliche Folgewirkung
+BTC/USDT,2025-01-24 21:00:00+00:00,Trade nur in der Variante,,,,2025-01-30 14:50:00+00:00,roi,1.00096954,moegliche Folgewirkung
+BTC/USDT,2025-01-31 00:30:00+00:00,Trade nur in der Variante,,,,2025-02-03 01:40:00+00:00,stop_loss,-10.18996071,moegliche Folgewirkung
+BTC/USDT,2025-02-03 02:00:00+00:00,Trade nur im Original,2025-02-03 03:10:00+00:00,roi,1.00104426,,,,moegliche Folgewirkung
+BTC/USDT,2025-02-03 02:05:00+00:00,Trade nur in der Variante,,,,2025-02-03 03:05:00+00:00,roi,1.00098045,moegliche Folgewirkung
+BTC/USDT,2025-02-04 04:20:00+00:00,Trade nur im Original,2025-02-25 07:10:00+00:00,stop_loss,-10.18988888,,,,moegliche Folgewirkung
+BTC/USDT,2025-02-04 04:25:00+00:00,Trade nur in der Variante,,,,2025-02-25 07:10:00+00:00,stop_loss,-10.18989944,moegliche Folgewirkung
+BTC/USDT,2025-02-25 08:05:00+00:00,Trade nur im Original,2025-02-28 02:30:00+00:00,stop_loss,-10.18988351,,,,moegliche Folgewirkung
+BTC/USDT,2025-02-25 08:10:00+00:00,Trade nur in der Variante,,,,2025-02-28 02:30:00+00:00,stop_loss,-10.18992193,moegliche Folgewirkung
+BTC/USDT,2025-02-28 03:00:00+00:00,Trade nur im Original,2025-02-28 14:00:00+00:00,roi,1.00098908,,,,moegliche Folgewirkung
+BTC/USDT,2025-02-28 03:05:00+00:00,Trade nur in der Variante,,,,2025-02-28 14:05:00+00:00,roi,1.00099323,moegliche Folgewirkung
+BTC/USDT,2025-03-03 07:10:00+00:00,Trade nur im Original,2025-03-03 11:05:00+00:00,roi,1.00101019,,,,moegliche Folgewirkung
+BTC/USDT,2025-03-03 07:15:00+00:00,Trade nur in der Variante,,,,2025-03-03 12:00:00+00:00,roi,1.0010437,moegliche Folgewirkung
+BTC/USDT,2025-03-03 15:15:00+00:00,Trade nur im Original,2025-03-06 01:45:00+00:00,roi,1.00097556,,,,moegliche Folgewirkung
+BTC/USDT,2025-03-03 15:20:00+00:00,Trade nur in der Variante,,,,2025-03-06 01:45:00+00:00,roi,1.00095372,moegliche Folgewirkung
+BTC/USDT,2025-03-06 08:10:00+00:00,Trade nur im Original,2025-03-09 17:20:00+00:00,stop_loss,-10.18993964,,,,moegliche Folgewirkung
+BTC/USDT,2025-03-06 08:15:00+00:00,Trade nur in der Variante,,,,2025-03-09 17:20:00+00:00,stop_loss,-10.1899283,moegliche Folgewirkung
+BTC/USDT,2025-03-09 22:20:00+00:00,Trade nur im Original,2025-03-10 05:00:00+00:00,roi,1.00095675,,,,moegliche Folgewirkung
+BTC/USDT,2025-03-09 22:25:00+00:00,Trade nur in der Variante,,,,2025-03-10 02:35:00+00:00,roi,1.00096248,moegliche Folgewirkung
+BTC/USDT,2025-03-10 14:25:00+00:00,Trade nur im Original,2025-03-11 08:45:00+00:00,roi,1.00094299,,,,moegliche Folgewirkung
+BTC/USDT,2025-03-10 14:30:00+00:00,Trade nur in der Variante,,,,2025-03-10 15:30:00+00:00,roi,1.0009505,moegliche Folgewirkung
+BTC/USDT,2025-03-11 01:05:00+00:00,Trade nur in der Variante,,,,2025-03-11 01:40:00+00:00,roi,2.00197186,moegliche Folgewirkung
+BTC/USDT,2025-03-12 04:55:00+00:00,Trade nur im Original,2025-03-12 08:10:00+00:00,roi,1.00095144,,,,moegliche Folgewirkung
+BTC/USDT,2025-03-12 05:00:00+00:00,Trade nur in der Variante,,,,2025-03-12 08:10:00+00:00,roi,1.00094049,moegliche Folgewirkung
+BTC/USDT,2025-03-12 14:55:00+00:00,Trade nur im Original,2025-03-12 17:20:00+00:00,roi,1.00099531,,,,moegliche Folgewirkung
+BTC/USDT,2025-03-12 15:00:00+00:00,Trade nur in der Variante,,,,2025-03-12 17:10:00+00:00,roi,1.0010235,moegliche Folgewirkung
+BTC/USDT,2025-03-13 15:45:00+00:00,Trade nur im Original,2025-03-14 07:40:00+00:00,roi,1.00100536,,,,moegliche Folgewirkung
+BTC/USDT,2025-03-13 15:50:00+00:00,Trade nur in der Variante,,,,2025-03-14 07:40:00+00:00,roi,1.00099022,moegliche Folgewirkung
+BTC/USDT,2025-03-15 07:40:00+00:00,Trade nur im Original,2025-03-16 16:05:00+00:00,roi,1.00093575,,,,moegliche Folgewirkung
+BTC/USDT,2025-03-15 07:45:00+00:00,Trade nur in der Variante,,,,2025-03-16 16:05:00+00:00,roi,1.00093551,moegliche Folgewirkung
+BTC/USDT,2025-03-16 23:15:00+00:00,Trade nur im Original,2025-03-17 01:00:00+00:00,roi,1.00103466,,,,moegliche Folgewirkung
+BTC/USDT,2025-03-16 23:20:00+00:00,Trade nur in der Variante,,,,2025-03-17 01:45:00+00:00,roi,1.00104247,moegliche Folgewirkung
+BTC/USDT,2025-03-17 06:40:00+00:00,Trade nur im Original,2025-03-17 12:00:00+00:00,roi,1.0010537,,,,moegliche Folgewirkung
+BTC/USDT,2025-03-17 06:45:00+00:00,Trade nur in der Variante,,,,2025-03-17 17:30:00+00:00,roi,1.00100493,moegliche Folgewirkung
+BTC/USDT,2025-03-18 02:00:00+00:00,Trade nur im Original,2025-03-19 13:15:00+00:00,roi,1.00095832,,,,moegliche Folgewirkung
+BTC/USDT,2025-03-18 02:05:00+00:00,Trade nur in der Variante,,,,2025-03-19 13:15:00+00:00,roi,1.00105019,moegliche Folgewirkung
+BTC/USDT,2025-03-20 10:35:00+00:00,Trade nur im Original,2025-03-20 14:15:00+00:00,roi,1.00103706,,,,moegliche Folgewirkung
+BTC/USDT,2025-03-20 10:40:00+00:00,Trade nur in der Variante,,,,2025-03-20 14:15:00+00:00,roi,1.0010082,moegliche Folgewirkung
+BTC/USDT,2025-03-20 17:05:00+00:00,Trade nur im Original,2025-03-23 13:55:00+00:00,roi,1.00095311,,,,moegliche Folgewirkung
+BTC/USDT,2025-03-20 17:10:00+00:00,Trade nur in der Variante,,,,2025-03-23 14:00:00+00:00,roi,1.00100247,moegliche Folgewirkung
+BTC/USDT,2025-03-24 23:00:00+00:00,Trade nur im Original,2025-03-25 20:05:00+00:00,roi,1.00096181,,,,moegliche Folgewirkung
+BTC/USDT,2025-03-24 23:05:00+00:00,Trade nur in der Variante,,,,2025-03-25 20:05:00+00:00,roi,1.00100923,moegliche Folgewirkung
+BTC/USDT,2025-03-26 03:20:00+00:00,Trade nur im Original,2025-04-02 20:15:00+00:00,roi,1.00102217,,,,moegliche Folgewirkung
+BTC/USDT,2025-03-26 03:25:00+00:00,Trade nur in der Variante,,,,2025-04-02 20:15:00+00:00,roi,1.00097375,moegliche Folgewirkung
+BTC/USDT,2025-04-02 21:25:00+00:00,Trade nur im Original,2025-04-07 06:15:00+00:00,stop_loss,-10.18984199,,,,moegliche Folgewirkung
+BTC/USDT,2025-04-02 21:30:00+00:00,Trade nur in der Variante,,,,2025-04-07 06:15:00+00:00,stop_loss,-10.18995029,moegliche Folgewirkung
+BTC/USDT,2025-04-07 07:15:00+00:00,Trade nur im Original,2025-04-07 08:20:00+00:00,roi,1.00100493,,,,moegliche Folgewirkung
+BTC/USDT,2025-04-07 07:20:00+00:00,Trade nur in der Variante,,,,2025-04-07 08:20:00+00:00,roi,1.00100277,moegliche Folgewirkung
+BTC/USDT,2025-04-08 15:35:00+00:00,Trade nur im Original,2025-04-09 17:20:00+00:00,roi,1.00104722,,,,moegliche Folgewirkung
+BTC/USDT,2025-04-08 15:40:00+00:00,Trade nur in der Variante,,,,2025-04-09 17:20:00+00:00,roi,1.00098776,moegliche Folgewirkung
+BTC/USDT,2025-04-10 03:40:00+00:00,Trade nur im Original,2025-04-11 10:20:00+00:00,roi,1.00104074,,,,moegliche Folgewirkung
+BTC/USDT,2025-04-10 03:45:00+00:00,Trade nur in der Variante,,,,2025-04-11 10:15:00+00:00,roi,1.00101463,moegliche Folgewirkung
+BTC/USDT,2025-04-12 03:10:00+00:00,Trade nur im Original,2025-04-12 08:10:00+00:00,roi,1.00095173,,,,moegliche Folgewirkung
+BTC/USDT,2025-04-12 03:15:00+00:00,Trade nur in der Variante,,,,2025-04-12 08:10:00+00:00,roi,1.0009622,moegliche Folgewirkung
+BTC/USDT,2025-04-13 14:05:00+00:00,Trade nur im Original,2025-04-13 17:20:00+00:00,roi,1.0009396,,,,moegliche Folgewirkung
+BTC/USDT,2025-04-13 14:10:00+00:00,Trade nur in der Variante,,,,2025-04-13 17:20:00+00:00,roi,1.00102965,moegliche Folgewirkung
+BTC/USDT,2025-04-15 18:10:00+00:00,Trade nur im Original,2025-04-19 15:30:00+00:00,roi,1.00102666,,,,moegliche Folgewirkung
+BTC/USDT,2025-04-15 18:15:00+00:00,Trade nur in der Variante,,,,2025-04-16 17:20:00+00:00,roi,1.00095367,moegliche Folgewirkung
+BTC/USDT,2025-04-17 00:10:00+00:00,Trade nur in der Variante,,,,2025-04-17 07:30:00+00:00,roi,1.00095652,moegliche Folgewirkung
+BTC/USDT,2025-04-17 14:50:00+00:00,Trade nur in der Variante,,,,2025-04-17 17:35:00+00:00,roi,1.00102985,moegliche Folgewirkung
+BTC/USDT,2025-04-18 04:35:00+00:00,Trade nur in der Variante,,,,2025-04-21 00:25:00+00:00,roi,1.00097694,moegliche Folgewirkung
+BTC/USDT,2025-04-20 07:15:00+00:00,Trade nur im Original,2025-04-21 00:25:00+00:00,roi,1.00099478,,,,moegliche Folgewirkung
+BTC/USDT,2025-04-21 11:45:00+00:00,Trade nur im Original,2025-04-21 14:20:00+00:00,roi,1.00101943,,,,moegliche Folgewirkung
+BTC/USDT,2025-04-21 11:50:00+00:00,Trade nur in der Variante,,,,2025-04-21 14:20:00+00:00,roi,1.00102876,moegliche Folgewirkung
+BTC/USDT,2025-04-23 15:35:00+00:00,Trade nur im Original,2025-04-23 16:35:00+00:00,roi,1.00098119,,,,moegliche Folgewirkung
+BTC/USDT,2025-04-23 15:40:00+00:00,Trade nur in der Variante,,,,2025-04-23 17:00:00+00:00,roi,1.0009433,moegliche Folgewirkung
+BTC/USDT,2025-04-23 19:35:00+00:00,Trade nur im Original,2025-04-25 01:10:00+00:00,roi,1.00096779,,,,moegliche Folgewirkung
+BTC/USDT,2025-04-23 19:40:00+00:00,Trade nur in der Variante,,,,2025-04-25 01:10:00+00:00,roi,1.00097897,moegliche Folgewirkung
+BTC/USDT,2025-04-25 03:10:00+00:00,Trade nur im Original,2025-04-25 11:30:00+00:00,roi,1.0009912,,,,moegliche Folgewirkung
+BTC/USDT,2025-04-25 03:15:00+00:00,Trade nur in der Variante,,,,2025-04-25 11:30:00+00:00,roi,1.00097746,moegliche Folgewirkung
+BTC/USDT,2025-04-26 09:10:00+00:00,Trade nur im Original,2025-04-28 11:25:00+00:00,roi,1.00094143,,,,moegliche Folgewirkung
+BTC/USDT,2025-04-26 09:15:00+00:00,Trade nur in der Variante,,,,2025-04-28 11:25:00+00:00,roi,1.00103929,moegliche Folgewirkung
+BTC/USDT,2025-04-28 14:05:00+00:00,Trade nur im Original,2025-05-01 09:35:00+00:00,roi,1.00098275,,,,moegliche Folgewirkung
+BTC/USDT,2025-04-28 14:10:00+00:00,Trade nur in der Variante,,,,2025-05-01 09:50:00+00:00,roi,1.00100871,moegliche Folgewirkung
+BTC/USDT,2025-05-02 19:55:00+00:00,Trade nur im Original,2025-05-08 01:00:00+00:00,roi,1.00097682,,,,moegliche Folgewirkung
+BTC/USDT,2025-05-02 20:00:00+00:00,Trade nur in der Variante,,,,2025-05-08 01:00:00+00:00,roi,1.00101789,moegliche Folgewirkung
+BTC/USDT,2025-05-10 16:05:00+00:00,Trade nur im Original,2025-05-10 23:15:00+00:00,roi,1.00104442,,,,moegliche Folgewirkung
+BTC/USDT,2025-05-10 16:10:00+00:00,Trade nur in der Variante,,,,2025-05-10 23:15:00+00:00,roi,1.00095793,moegliche Folgewirkung
+BTC/USDT,2025-05-12 15:10:00+00:00,Trade nur im Original,2025-05-13 16:10:00+00:00,roi,1.00094901,,,,moegliche Folgewirkung
+BTC/USDT,2025-05-12 15:15:00+00:00,Trade nur in der Variante,,,,2025-05-13 16:10:00+00:00,roi,1.00100341,moegliche Folgewirkung
+BTC/USDT,2025-05-14 02:15:00+00:00,Trade nur im Original,2025-05-18 14:35:00+00:00,roi,1.00103139,,,,moegliche Folgewirkung
+BTC/USDT,2025-05-14 02:20:00+00:00,Trade nur in der Variante,,,,2025-05-18 14:35:00+00:00,roi,1.0009538,moegliche Folgewirkung
+BTC/USDT,2025-05-18 18:25:00+00:00,Trade nur im Original,2025-05-18 22:55:00+00:00,roi,1.00104025,,,,moegliche Folgewirkung
+BTC/USDT,2025-05-18 18:30:00+00:00,Trade nur in der Variante,,,,2025-05-18 22:55:00+00:00,roi,1.00096336,moegliche Folgewirkung
+BTC/USDT,2025-05-19 04:15:00+00:00,Trade nur im Original,2025-05-19 15:35:00+00:00,roi,1.0010213,,,,moegliche Folgewirkung
+BTC/USDT,2025-05-19 04:20:00+00:00,Trade nur in der Variante,,,,2025-05-19 15:10:00+00:00,roi,1.00102571,moegliche Folgewirkung
+BTC/USDT,2025-05-20 13:55:00+00:00,Trade nur im Original,2025-05-20 17:10:00+00:00,roi,1.00097628,,,,moegliche Folgewirkung
+BTC/USDT,2025-05-20 14:00:00+00:00,Trade nur in der Variante,,,,2025-05-20 17:05:00+00:00,roi,1.00100699,moegliche Folgewirkung
+BTC/USDT,2025-05-21 18:00:00+00:00,Trade nur im Original,2025-05-21 19:35:00+00:00,roi,1.00102456,,,,moegliche Folgewirkung
+BTC/USDT,2025-05-21 18:05:00+00:00,Trade nur in der Variante,,,,2025-05-21 19:35:00+00:00,roi,1.00103103,moegliche Folgewirkung
+BTC/USDT,2025-05-23 04:50:00+00:00,Trade nur im Original,2025-06-22 14:20:00+00:00,stop_loss,-10.18989609,,,,moegliche Folgewirkung
+BTC/USDT,2025-05-23 04:55:00+00:00,Trade nur in der Variante,,,,2025-06-22 14:20:00+00:00,stop_loss,-10.18990389,moegliche Folgewirkung
+BTC/USDT,2025-06-22 14:55:00+00:00,Trade nur im Original,2025-06-22 22:40:00+00:00,roi,1.00099805,,,,moegliche Folgewirkung
+BTC/USDT,2025-06-22 15:00:00+00:00,Trade nur in der Variante,,,,2025-06-22 22:40:00+00:00,roi,1.00099522,moegliche Folgewirkung
+BTC/USDT,2025-06-23 10:50:00+00:00,Trade nur im Original,2025-06-23 17:35:00+00:00,roi,1.0010171,,,,moegliche Folgewirkung
+BTC/USDT,2025-06-23 10:55:00+00:00,Trade nur in der Variante,,,,2025-06-23 17:35:00+00:00,roi,1.00095207,moegliche Folgewirkung
+BTC/USDT,2025-06-24 08:25:00+00:00,Trade nur im Original,2025-06-24 16:55:00+00:00,roi,1.00101826,,,,moegliche Folgewirkung
+BTC/USDT,2025-06-24 08:30:00+00:00,Trade nur in der Variante,,,,2025-06-25 00:10:00+00:00,roi,1.00101053,moegliche Folgewirkung
+BTC/USDT,2025-06-27 01:15:00+00:00,Trade nur im Original,2025-06-29 10:20:00+00:00,roi,1.00104246,,,,moegliche Folgewirkung
+BTC/USDT,2025-06-27 01:20:00+00:00,Trade nur in der Variante,,,,2025-06-29 10:05:00+00:00,roi,1.00103485,moegliche Folgewirkung
+BTC/USDT,2025-06-29 17:00:00+00:00,Trade nur im Original,2025-07-02 16:00:00+00:00,roi,1.00097869,,,,moegliche Folgewirkung
+BTC/USDT,2025-06-29 17:05:00+00:00,Trade nur in der Variante,,,,2025-07-02 16:00:00+00:00,roi,1.00097869,moegliche Folgewirkung
+BTC/USDT,2025-07-03 02:50:00+00:00,Trade nur im Original,2025-07-03 09:20:00+00:00,roi,1.00095751,,,,moegliche Folgewirkung
+BTC/USDT,2025-07-03 02:55:00+00:00,Trade nur in der Variante,,,,2025-07-03 09:20:00+00:00,roi,1.00103625,moegliche Folgewirkung
+BTC/USDT,2025-07-03 12:55:00+00:00,Trade nur im Original,2025-07-03 13:55:00+00:00,roi,1.00100007,,,,moegliche Folgewirkung
+BTC/USDT,2025-07-03 13:00:00+00:00,Trade nur in der Variante,,,,2025-07-03 14:00:00+00:00,roi,1.0009971,moegliche Folgewirkung
+BTC/USDT,2025-07-04 02:50:00+00:00,Trade nur im Original,2025-07-06 14:05:00+00:00,exit_signal,-0.60073031,,,,moegliche Folgewirkung
+BTC/USDT,2025-07-04 02:55:00+00:00,Trade nur in der Variante,,,,2025-07-06 14:10:00+00:00,exit_signal,-0.48591881,moegliche Folgewirkung
+BTC/USDT,2025-07-07 07:15:00+00:00,Trade nur im Original,2025-07-09 19:20:00+00:00,roi,1.00101091,,,,moegliche Folgewirkung
+BTC/USDT,2025-07-07 07:20:00+00:00,Trade nur in der Variante,,,,2025-07-09 19:20:00+00:00,roi,1.00099562,moegliche Folgewirkung
+BTC/USDT,2025-07-10 10:55:00+00:00,Trade nur im Original,2025-07-10 16:25:00+00:00,roi,1.0009771,,,,moegliche Folgewirkung
+BTC/USDT,2025-07-10 11:00:00+00:00,Trade nur in der Variante,,,,2025-07-10 16:25:00+00:00,roi,1.00094675,moegliche Folgewirkung
+BTC/USDT,2025-07-11 16:25:00+00:00,Trade nur im Original,2025-07-13 12:50:00+00:00,roi,1.00097044,,,,moegliche Folgewirkung
+BTC/USDT,2025-07-11 16:30:00+00:00,Trade nur in der Variante,,,,2025-07-13 13:45:00+00:00,roi,1.00097771,moegliche Folgewirkung
+BTC/USDT,2025-07-14 16:00:00+00:00,Trade nur im Original,2025-08-11 02:20:00+00:00,roi,1.00097583,,,,moegliche Folgewirkung
+BTC/USDT,2025-07-14 16:05:00+00:00,Trade nur in der Variante,,,,2025-08-11 02:10:00+00:00,roi,1.00098218,moegliche Folgewirkung
+BTC/USDT,2025-08-11 09:45:00+00:00,Trade nur im Original,2025-08-13 20:45:00+00:00,roi,1.00098386,,,,moegliche Folgewirkung
+BTC/USDT,2025-08-11 09:50:00+00:00,Trade nur in der Variante,,,,2025-08-13 20:45:00+00:00,roi,1.00096767,moegliche Folgewirkung
+BTC/USDT,2025-08-14 06:35:00+00:00,Trade nur im Original,2025-08-25 20:30:00+00:00,stop_loss,-10.18988765,,,,moegliche Folgewirkung
+BTC/USDT,2025-08-14 06:40:00+00:00,Trade nur in der Variante,,,,2025-08-25 20:30:00+00:00,stop_loss,-10.18995258,moegliche Folgewirkung
+BTC/USDT,2025-08-25 20:35:00+00:00,Trade nur in der Variante,,,,2025-08-26 18:40:00+00:00,roi,1.00096791,moegliche Folgewirkung
+BTC/USDT,2025-08-25 20:45:00+00:00,Trade nur im Original,2025-08-26 20:15:00+00:00,roi,1.00097587,,,,moegliche Folgewirkung
+BTC/USDT,2025-08-27 07:35:00+00:00,Trade nur im Original,2025-08-27 14:30:00+00:00,roi,1.00095833,,,,moegliche Folgewirkung
+BTC/USDT,2025-08-27 07:40:00+00:00,Trade nur in der Variante,,,,2025-08-27 14:25:00+00:00,roi,1.00100345,moegliche Folgewirkung
+BTC/USDT,2025-08-29 01:45:00+00:00,Trade nur im Original,2025-09-01 08:35:00+00:00,exit_signal,-2.12336188,,,,moegliche Folgewirkung
+BTC/USDT,2025-08-29 01:50:00+00:00,Trade nur in der Variante,,,,2025-09-01 08:40:00+00:00,exit_signal,-2.06903789,moegliche Folgewirkung
+BTC/USDT,2025-09-01 10:55:00+00:00,Trade nur im Original,2025-09-02 02:50:00+00:00,roi,1.0010112,,,,moegliche Folgewirkung
+BTC/USDT,2025-09-01 11:00:00+00:00,Trade nur in der Variante,,,,2025-09-02 02:50:00+00:00,roi,1.00099226,moegliche Folgewirkung
+BTC/USDT,2025-09-02 13:05:00+00:00,Trade nur im Original,2025-09-02 14:00:00+00:00,roi,2.00200338,,,,moegliche Folgewirkung
+BTC/USDT,2025-09-02 13:10:00+00:00,Trade nur in der Variante,,,,2025-09-02 14:10:00+00:00,roi,1.55485168,moegliche Folgewirkung
+BTC/USDT,2025-09-04 05:30:00+00:00,Trade nur im Original,2025-09-05 07:00:00+00:00,roi,1.00097993,,,,moegliche Folgewirkung
+BTC/USDT,2025-09-04 05:35:00+00:00,Trade nur in der Variante,,,,2025-09-05 07:00:00+00:00,roi,1.00097321,moegliche Folgewirkung
+BTC/USDT,2025-09-05 15:20:00+00:00,Trade nur im Original,2025-09-08 10:00:00+00:00,roi,1.00104083,,,,moegliche Folgewirkung
+BTC/USDT,2025-09-05 15:25:00+00:00,Trade nur in der Variante,,,,2025-09-08 13:05:00+00:00,roi,1.00098401,moegliche Folgewirkung
+BTC/USDT,2025-09-09 00:50:00+00:00,Trade nur im Original,2025-09-09 06:50:00+00:00,roi,1.00097049,,,,moegliche Folgewirkung
+BTC/USDT,2025-09-09 00:55:00+00:00,Trade nur in der Variante,,,,2025-09-09 06:45:00+00:00,roi,1.00097628,moegliche Folgewirkung
+BTC/USDT,2025-09-09 12:05:00+00:00,Trade nur im Original,2025-09-10 13:40:00+00:00,roi,1.00104095,,,,moegliche Folgewirkung
+BTC/USDT,2025-09-09 12:10:00+00:00,Trade nur in der Variante,,,,2025-09-10 13:45:00+00:00,roi,1.00097125,moegliche Folgewirkung
+BTC/USDT,2025-09-12 08:15:00+00:00,Trade nur im Original,2025-09-12 18:35:00+00:00,roi,1.00096452,,,,moegliche Folgewirkung
+BTC/USDT,2025-09-12 08:20:00+00:00,Trade nur in der Variante,,,,2025-09-12 18:30:00+00:00,roi,1.0009655,moegliche Folgewirkung
+BTC/USDT,2025-09-13 14:20:00+00:00,Trade nur im Original,2025-09-17 06:55:00+00:00,roi,1.00097514,,,,moegliche Folgewirkung
+BTC/USDT,2025-09-13 14:25:00+00:00,Trade nur in der Variante,,,,2025-09-18 03:05:00+00:00,roi,1.0010003,moegliche Folgewirkung
+BTC/USDT,2025-09-17 11:00:00+00:00,Trade nur im Original,2025-09-18 03:20:00+00:00,roi,1.00100375,,,,moegliche Folgewirkung
+BTC/USDT,2025-09-18 23:30:00+00:00,Trade nur im Original,2025-09-28 21:05:00+00:00,exit_signal,-5.32439689,,,,moegliche Folgewirkung
+BTC/USDT,2025-09-18 23:35:00+00:00,Trade nur in der Variante,,,,2025-09-28 21:10:00+00:00,exit_signal,-5.38819281,moegliche Folgewirkung
+BTC/USDT,2025-09-30 08:50:00+00:00,Trade nur im Original,2025-10-01 08:20:00+00:00,roi,1.00095644,,,,moegliche Folgewirkung
+BTC/USDT,2025-09-30 08:55:00+00:00,Trade nur in der Variante,,,,2025-10-01 08:20:00+00:00,roi,1.00098073,moegliche Folgewirkung
+BTC/USDT,2025-10-02 15:10:00+00:00,Trade nur im Original,2025-10-02 18:50:00+00:00,roi,1.00098268,,,,moegliche Folgewirkung
+BTC/USDT,2025-10-02 15:15:00+00:00,Trade nur in der Variante,,,,2025-10-02 18:55:00+00:00,roi,1.00100395,moegliche Folgewirkung
+BTC/USDT,2025-10-03 07:50:00+00:00,Trade nur im Original,2025-10-03 15:15:00+00:00,roi,1.0009768,,,,moegliche Folgewirkung
+BTC/USDT,2025-10-03 07:55:00+00:00,Trade nur in der Variante,,,,2025-10-03 15:15:00+00:00,roi,1.0009771,moegliche Folgewirkung
+BTC/USDT,2025-10-04 02:00:00+00:00,Trade nur im Original,2025-10-05 02:30:00+00:00,roi,1.00102956,,,,moegliche Folgewirkung
+BTC/USDT,2025-10-04 02:05:00+00:00,Trade nur in der Variante,,,,2025-10-05 02:30:00+00:00,roi,1.00098797,moegliche Folgewirkung
+BTC/USDT,2025-10-05 10:20:00+00:00,Trade nur im Original,2025-10-06 11:30:00+00:00,roi,1.0009684,,,,moegliche Folgewirkung
+BTC/USDT,2025-10-05 10:25:00+00:00,Trade nur in der Variante,,,,2025-10-06 11:30:00+00:00,roi,1.00098262,moegliche Folgewirkung
+BTC/USDT,2025-10-06 21:40:00+00:00,Trade nur im Original,2025-10-10 21:10:00+00:00,stop_loss,-10.18996693,,,,moegliche Folgewirkung
+BTC/USDT,2025-10-06 21:45:00+00:00,Trade nur in der Variante,,,,2025-10-10 21:10:00+00:00,stop_loss,-10.18980241,moegliche Folgewirkung
+BTC/USDT,2025-10-11 08:20:00+00:00,Trade nur im Original,2025-10-11 10:20:00+00:00,roi,1.00101258,,,,moegliche Folgewirkung
+BTC/USDT,2025-10-11 08:25:00+00:00,Trade nur in der Variante,,,,2025-10-11 10:25:00+00:00,roi,1.00101294,moegliche Folgewirkung
+BTC/USDT,2025-10-11 19:50:00+00:00,Trade nur im Original,2025-10-12 14:50:00+00:00,roi,1.00097452,,,,moegliche Folgewirkung
+BTC/USDT,2025-10-11 19:55:00+00:00,Trade nur in der Variante,,,,2025-10-12 14:45:00+00:00,roi,1.00100177,moegliche Folgewirkung
+BTC/USDT,2025-10-13 11:35:00+00:00,Trade nur im Original,2025-10-13 13:30:00+00:00,roi,1.00102165,,,,moegliche Folgewirkung
+BTC/USDT,2025-10-13 11:40:00+00:00,Trade nur in der Variante,,,,2025-10-13 13:30:00+00:00,roi,1.0009992,moegliche Folgewirkung
+BTC/USDT,2025-10-14 00:15:00+00:00,Trade nur im Original,2025-10-17 10:20:00+00:00,stop_loss,-10.18988794,,,,moegliche Folgewirkung
+BTC/USDT,2025-10-14 00:20:00+00:00,Trade nur in der Variante,,,,2025-10-17 10:20:00+00:00,stop_loss,-10.18996841,moegliche Folgewirkung
+BTC/USDT,2025-10-18 00:20:00+00:00,Trade nur im Original,2025-10-19 09:45:00+00:00,roi,1.00096165,,,,moegliche Folgewirkung
+BTC/USDT,2025-10-18 00:25:00+00:00,Trade nur in der Variante,,,,2025-10-19 09:45:00+00:00,roi,1.0009563,moegliche Folgewirkung
+BTC/USDT,2025-10-19 23:55:00+00:00,Trade nur im Original,2025-10-20 03:50:00+00:00,roi,1.00098503,,,,moegliche Folgewirkung
+BTC/USDT,2025-10-20 00:00:00+00:00,Trade nur in der Variante,,,,2025-10-20 03:50:00+00:00,roi,1.00100032,moegliche Folgewirkung
+BTC/USDT,2025-10-21 00:20:00+00:00,Trade nur im Original,2025-10-21 14:55:00+00:00,roi,1.00103397,,,,moegliche Folgewirkung
+BTC/USDT,2025-10-21 00:25:00+00:00,Trade nur in der Variante,,,,2025-10-21 14:55:00+00:00,roi,1.00098951,moegliche Folgewirkung
+BTC/USDT,2025-10-21 20:40:00+00:00,Trade nur im Original,2025-10-26 09:20:00+00:00,roi,1.00102899,,,,moegliche Folgewirkung
+BTC/USDT,2025-10-21 20:45:00+00:00,Trade nur in der Variante,,,,2025-10-26 09:20:00+00:00,roi,1.00097895,moegliche Folgewirkung
+BTC/USDT,2025-10-26 21:35:00+00:00,Trade nur im Original,2025-10-26 22:45:00+00:00,roi,1.00099544,,,,moegliche Folgewirkung
+BTC/USDT,2025-10-26 21:40:00+00:00,Trade nur in der Variante,,,,2025-10-26 22:50:00+00:00,roi,1.00099272,moegliche Folgewirkung
+BTC/USDT,2025-10-27 21:35:00+00:00,Trade nur im Original,2025-10-28 14:10:00+00:00,roi,1.00098785,,,,moegliche Folgewirkung
+BTC/USDT,2025-10-27 21:40:00+00:00,Trade nur in der Variante,,,,2025-10-28 14:10:00+00:00,roi,1.00103055,moegliche Folgewirkung
+BTC/USDT,2025-10-28 19:40:00+00:00,Trade nur im Original,2025-11-04 16:20:00+00:00,stop_loss,-10.18988644,,,,moegliche Folgewirkung
+BTC/USDT,2025-10-28 19:45:00+00:00,Trade nur in der Variante,,,,2025-11-04 16:20:00+00:00,stop_loss,-10.1899573,moegliche Folgewirkung
+BTC/USDT,2025-11-04 17:35:00+00:00,Trade nur im Original,2025-11-05 13:40:00+00:00,roi,1.00103543,,,,moegliche Folgewirkung
+BTC/USDT,2025-11-04 17:40:00+00:00,Trade nur in der Variante,,,,2025-11-05 13:40:00+00:00,roi,1.00100367,moegliche Folgewirkung
+BTC/USDT,2025-11-06 01:35:00+00:00,Trade nur im Original,2025-11-09 18:45:00+00:00,roi,1.00099395,,,,moegliche Folgewirkung
+BTC/USDT,2025-11-06 01:40:00+00:00,Trade nur in der Variante,,,,2025-11-09 18:55:00+00:00,roi,1.00099513,moegliche Folgewirkung
+BTC/USDT,2025-11-10 15:05:00+00:00,Trade nur im Original,2025-11-11 01:15:00+00:00,roi,1.00102831,,,,moegliche Folgewirkung
+BTC/USDT,2025-11-10 15:10:00+00:00,Trade nur in der Variante,,,,2025-11-11 01:15:00+00:00,roi,1.00098579,moegliche Folgewirkung
+BTC/USDT,2025-11-11 05:30:00+00:00,Trade nur im Original,2025-11-13 06:45:00+00:00,exit_signal,-2.17686541,,,,moegliche Folgewirkung
+BTC/USDT,2025-11-11 05:35:00+00:00,Trade nur in der Variante,,,,2025-11-13 06:50:00+00:00,exit_signal,-1.88301073,moegliche Folgewirkung
+BTC/USDT,2025-11-13 13:45:00+00:00,Trade nur im Original,2025-11-17 19:15:00+00:00,stop_loss,-10.18986448,,,,moegliche Folgewirkung
+BTC/USDT,2025-11-13 13:50:00+00:00,Trade nur in der Variante,,,,2025-11-17 19:05:00+00:00,stop_loss,-10.18988639,moegliche Folgewirkung
+BTC/USDT,2025-11-17 20:20:00+00:00,Trade nur im Original,2025-11-18 15:20:00+00:00,roi,1.00101622,,,,moegliche Folgewirkung
+BTC/USDT,2025-11-17 20:25:00+00:00,Trade nur in der Variante,,,,2025-11-18 16:05:00+00:00,roi,1.00102088,moegliche Folgewirkung
+BTC/USDT,2025-11-19 04:55:00+00:00,Trade nur im Original,2025-11-20 01:35:00+00:00,roi,1.00104677,,,,moegliche Folgewirkung
+BTC/USDT,2025-11-19 05:00:00+00:00,Trade nur in der Variante,,,,2025-11-19 15:05:00+00:00,roi,1.00104583,moegliche Folgewirkung
+BTC/USDT,2025-11-19 16:20:00+00:00,Trade nur in der Variante,,,,2025-11-19 21:20:00+00:00,roi,1.00101636,moegliche Folgewirkung
+BTC/USDT,2025-11-20 07:00:00+00:00,Trade nur im Original,2025-11-21 07:30:00+00:00,stop_loss,-10.18992185,,,,moegliche Folgewirkung
+BTC/USDT,2025-11-20 07:05:00+00:00,Trade nur in der Variante,,,,2025-11-21 07:30:00+00:00,stop_loss,-10.18986082,moegliche Folgewirkung
+BTC/USDT,2025-11-21 07:45:00+00:00,Trade nur im Original,2025-11-21 14:50:00+00:00,roi,1.00105221,,,,moegliche Folgewirkung
+BTC/USDT,2025-11-21 07:50:00+00:00,Trade nur in der Variante,,,,2025-11-21 14:35:00+00:00,roi,1.00104418,moegliche Folgewirkung
+BTC/USDT,2025-11-23 07:15:00+00:00,Trade nur im Original,2025-11-23 13:50:00+00:00,roi,1.00098483,,,,moegliche Folgewirkung
+BTC/USDT,2025-11-23 07:20:00+00:00,Trade nur in der Variante,,,,2025-11-23 12:15:00+00:00,roi,1.00099011,moegliche Folgewirkung
+BTC/USDT,2025-11-24 00:30:00+00:00,Trade nur im Original,2025-11-24 02:00:00+00:00,roi,1.00095623,,,,moegliche Folgewirkung
+BTC/USDT,2025-11-24 00:35:00+00:00,Trade nur in der Variante,,,,2025-11-24 02:05:00+00:00,roi,1.00094013,moegliche Folgewirkung
+BTC/USDT,2025-11-24 09:40:00+00:00,Trade nur im Original,2025-11-24 16:00:00+00:00,roi,1.00101986,,,,moegliche Folgewirkung
+BTC/USDT,2025-11-24 09:45:00+00:00,Trade nur in der Variante,,,,2025-11-24 16:00:00+00:00,roi,1.00095314,moegliche Folgewirkung
+BTC/USDT,2025-11-25 00:35:00+00:00,Trade nur im Original,2025-11-26 17:35:00+00:00,roi,1.00097923,,,,moegliche Folgewirkung
+BTC/USDT,2025-11-25 00:40:00+00:00,Trade nur in der Variante,,,,2025-11-26 17:35:00+00:00,roi,1.00096589,moegliche Folgewirkung
+BTC/USDT,2025-11-27 13:30:00+00:00,Trade nur im Original,2025-11-27 18:45:00+00:00,roi,1.00103283,,,,moegliche Folgewirkung
+BTC/USDT,2025-11-27 13:35:00+00:00,Trade nur in der Variante,,,,2025-11-27 18:35:00+00:00,roi,1.00101976,moegliche Folgewirkung
+BTC/USDT,2025-11-28 08:05:00+00:00,Trade nur im Original,2025-11-28 13:45:00+00:00,roi,1.00097331,,,,moegliche Folgewirkung
+BTC/USDT,2025-11-28 08:10:00+00:00,Trade nur in der Variante,,,,2025-11-28 13:45:00+00:00,roi,1.00100699,moegliche Folgewirkung
+BTC/USDT,2025-11-28 17:50:00+00:00,Trade nur im Original,2025-11-30 09:15:00+00:00,roi,1.00097619,,,,moegliche Folgewirkung
+BTC/USDT,2025-11-28 17:55:00+00:00,Trade nur in der Variante,,,,2025-11-30 13:20:00+00:00,roi,1.00095392,moegliche Folgewirkung
+BTC/USDT,2025-11-30 23:45:00+00:00,Trade nur im Original,2025-12-02 17:20:00+00:00,roi,1.00097951,,,,moegliche Folgewirkung
+BTC/USDT,2025-11-30 23:50:00+00:00,Trade nur in der Variante,,,,2025-12-02 17:20:00+00:00,roi,1.0010028,moegliche Folgewirkung
+BTC/USDT,2025-12-04 15:05:00+00:00,Trade nur im Original,2025-12-09 16:10:00+00:00,roi,1.00096388,,,,moegliche Folgewirkung
+BTC/USDT,2025-12-04 15:10:00+00:00,Trade nur in der Variante,,,,2025-12-09 16:10:00+00:00,roi,1.00100845,moegliche Folgewirkung
+BTC/USDT,2025-12-09 22:00:00+00:00,Trade nur im Original,2025-12-10 20:10:00+00:00,roi,1.00101248,,,,moegliche Folgewirkung
+BTC/USDT,2025-12-09 22:05:00+00:00,Trade nur in der Variante,,,,2025-12-10 20:10:00+00:00,roi,1.00099033,moegliche Folgewirkung
+BTC/USDT,2025-12-11 00:55:00+00:00,Trade nur im Original,2025-12-11 21:10:00+00:00,roi,1.00097181,,,,moegliche Folgewirkung
+BTC/USDT,2025-12-11 01:00:00+00:00,Trade nur in der Variante,,,,2025-12-11 21:10:00+00:00,roi,1.00095333,moegliche Folgewirkung
+BTC/USDT,2025-12-12 16:30:00+00:00,Trade nur im Original,2026-01-01 00:00:00+00:00,force_exit,-3.25210228,,,,moegliche Folgewirkung
+BTC/USDT,2025-12-12 16:35:00+00:00,Trade nur in der Variante,,,,2026-01-01 00:00:00+00:00,force_exit,-2.7474849,moegliche Folgewirkung
+ETH/USDT,2025-01-01 05:05:00+00:00,Trade nur im Original,2025-01-02 00:25:00+00:00,roi,1.00094071,,,,erste Kippstelle dieses Paares
+ETH/USDT,2025-01-01 05:10:00+00:00,Trade nur in der Variante,,,,2025-01-02 00:25:00+00:00,roi,1.00109744,moegliche Folgewirkung
+ETH/USDT,2025-01-02 14:10:00+00:00,Trade nur im Original,2025-01-03 14:10:00+00:00,roi,1.00108472,,,,moegliche Folgewirkung
+ETH/USDT,2025-01-02 14:15:00+00:00,Trade nur in der Variante,,,,2025-01-03 14:15:00+00:00,roi,1.00092253,moegliche Folgewirkung
+ETH/USDT,2025-01-05 08:30:00+00:00,Trade nur im Original,2025-01-06 02:05:00+00:00,roi,1.00098102,,,,moegliche Folgewirkung
+ETH/USDT,2025-01-05 08:35:00+00:00,Trade nur in der Variante,,,,2025-01-06 02:05:00+00:00,roi,1.0009849,moegliche Folgewirkung
+ETH/USDT,2025-01-07 12:35:00+00:00,Trade nur im Original,2025-01-08 17:10:00+00:00,stop_loss,-10.18969708,,,,moegliche Folgewirkung
+ETH/USDT,2025-01-07 12:40:00+00:00,Trade nur in der Variante,,,,2025-01-08 17:10:00+00:00,stop_loss,-10.18970972,moegliche Folgewirkung
+ETH/USDT,2025-01-08 17:55:00+00:00,Trade nur im Original,2025-01-08 18:25:00+00:00,roi,2.0020494,,,,moegliche Folgewirkung
+ETH/USDT,2025-01-08 18:00:00+00:00,Trade nur in der Variante,,,,2025-01-08 19:05:00+00:00,roi,1.00104454,moegliche Folgewirkung
+ETH/USDT,2025-01-09 07:40:00+00:00,Trade nur im Original,2025-01-13 00:35:00+00:00,roi,1.00097438,,,,moegliche Folgewirkung
+ETH/USDT,2025-01-09 07:45:00+00:00,Trade nur in der Variante,,,,2025-01-09 15:50:00+00:00,roi,1.00097583,moegliche Folgewirkung
+ETH/USDT,2025-01-09 20:40:00+00:00,Trade nur in der Variante,,,,2025-01-09 21:40:00+00:00,roi,1.2238077,moegliche Folgewirkung
+ETH/USDT,2025-01-10 14:00:00+00:00,Trade nur in der Variante,,,,2025-01-10 17:25:00+00:00,roi,1.00089617,moegliche Folgewirkung
+ETH/USDT,2025-01-12 07:00:00+00:00,Trade nur in der Variante,,,,2025-01-13 00:25:00+00:00,roi,1.00086198,moegliche Folgewirkung
+ETH/USDT,2025-01-13 05:45:00+00:00,Trade nur im Original,2025-01-15 13:30:00+00:00,roi,1.00109604,,,,moegliche Folgewirkung
+ETH/USDT,2025-01-13 05:50:00+00:00,Trade nur in der Variante,,,,2025-01-14 09:50:00+00:00,roi,1.00109329,moegliche Folgewirkung
+ETH/USDT,2025-01-15 10:10:00+00:00,Trade nur in der Variante,,,,2025-01-15 13:30:00+00:00,roi,1.00099542,moegliche Folgewirkung
+ETH/USDT,2025-01-16 03:15:00+00:00,Trade nur im Original,2025-01-17 10:10:00+00:00,roi,1.00093492,,,,moegliche Folgewirkung
+ETH/USDT,2025-01-16 03:20:00+00:00,Trade nur in der Variante,,,,2025-01-17 08:55:00+00:00,roi,1.00085632,moegliche Folgewirkung
+ETH/USDT,2025-01-18 04:40:00+00:00,Trade nur im Original,2025-01-19 15:00:00+00:00,roi,1.00111901,,,,moegliche Folgewirkung
+ETH/USDT,2025-01-18 04:45:00+00:00,Trade nur in der Variante,,,,2025-01-19 15:00:00+00:00,roi,1.00098441,moegliche Folgewirkung
+ETH/USDT,2025-01-19 22:15:00+00:00,Trade nur im Original,2025-01-20 04:45:00+00:00,roi,1.0008811,,,,moegliche Folgewirkung
+ETH/USDT,2025-01-19 22:20:00+00:00,Trade nur in der Variante,,,,2025-01-20 06:35:00+00:00,roi,1.00093915,moegliche Folgewirkung
+ETH/USDT,2025-01-20 22:10:00+00:00,Trade nur im Original,2025-01-21 12:15:00+00:00,roi,1.00095701,,,,moegliche Folgewirkung
+ETH/USDT,2025-01-20 22:15:00+00:00,Trade nur in der Variante,,,,2025-01-21 14:20:00+00:00,roi,1.00086632,moegliche Folgewirkung
+ETH/USDT,2025-01-22 08:10:00+00:00,Trade nur im Original,2025-01-22 12:00:00+00:00,roi,1.00084362,,,,moegliche Folgewirkung
+ETH/USDT,2025-01-22 08:15:00+00:00,Trade nur in der Variante,,,,2025-01-23 23:00:00+00:00,roi,1.00110892,moegliche Folgewirkung
+ETH/USDT,2025-01-22 14:15:00+00:00,Trade nur im Original,2025-01-23 22:55:00+00:00,roi,1.00089715,,,,moegliche Folgewirkung
+ETH/USDT,2025-01-24 20:55:00+00:00,Trade nur im Original,2025-01-31 12:10:00+00:00,exit_signal,-0.4298744,,,,moegliche Folgewirkung
+ETH/USDT,2025-01-24 21:00:00+00:00,Trade nur in der Variante,,,,2025-01-31 12:15:00+00:00,exit_signal,0.05505118,moegliche Folgewirkung
+ETH/USDT,2025-01-31 19:05:00+00:00,Trade nur im Original,2025-02-02 17:20:00+00:00,stop_loss,-10.1898655,,,,moegliche Folgewirkung
+ETH/USDT,2025-01-31 19:10:00+00:00,Trade nur in der Variante,,,,2025-02-02 17:35:00+00:00,stop_loss,-10.18964467,moegliche Folgewirkung
+ETH/USDT,2025-02-02 18:25:00+00:00,Trade nur im Original,2025-02-03 01:45:00+00:00,stop_loss,-10.18982695,,,,moegliche Folgewirkung
+ETH/USDT,2025-02-02 18:30:00+00:00,Trade nur in der Variante,,,,2025-02-03 01:45:00+00:00,stop_loss,-10.18964844,moegliche Folgewirkung
+ETH/USDT,2025-02-03 02:20:00+00:00,Trade nur im Original,2025-02-03 03:20:00+00:00,roi,1.00661066,,,,moegliche Folgewirkung
+ETH/USDT,2025-02-03 02:25:00+00:00,Trade nur in der Variante,,,,2025-02-03 03:15:00+00:00,roi,2.00217344,moegliche Folgewirkung
+ETH/USDT,2025-02-04 03:10:00+00:00,Trade nur im Original,2025-02-04 14:30:00+00:00,roi,1.00107505,,,,moegliche Folgewirkung
+ETH/USDT,2025-02-04 03:15:00+00:00,Trade nur in der Variante,,,,2025-02-04 14:35:00+00:00,roi,1.00093252,moegliche Folgewirkung
+ETH/USDT,2025-02-04 20:40:00+00:00,Trade nur im Original,2025-02-05 05:55:00+00:00,roi,1.00112536,,,,moegliche Folgewirkung
+ETH/USDT,2025-02-04 20:45:00+00:00,Trade nur in der Variante,,,,2025-02-05 05:55:00+00:00,roi,1.00095599,moegliche Folgewirkung
+ETH/USDT,2025-02-06 13:05:00+00:00,Trade nur im Original,2025-02-17 14:10:00+00:00,roi,1.00082916,,,,moegliche Folgewirkung
+ETH/USDT,2025-02-06 13:10:00+00:00,Trade nur in der Variante,,,,2025-02-17 14:10:00+00:00,roi,1.00115629,moegliche Folgewirkung
+ETH/USDT,2025-02-17 16:45:00+00:00,Trade nur im Original,2025-02-17 21:55:00+00:00,roi,1.00099685,,,,moegliche Folgewirkung
+ETH/USDT,2025-02-17 16:50:00+00:00,Trade nur in der Variante,,,,2025-02-17 21:35:00+00:00,roi,1.00094534,moegliche Folgewirkung
+ETH/USDT,2025-02-18 04:40:00+00:00,Trade nur im Original,2025-02-19 10:20:00+00:00,roi,1.00097455,,,,moegliche Folgewirkung
+ETH/USDT,2025-02-18 04:45:00+00:00,Trade nur in der Variante,,,,2025-02-20 02:45:00+00:00,roi,1.00110928,moegliche Folgewirkung
+ETH/USDT,2025-02-19 13:05:00+00:00,Trade nur im Original,2025-02-20 02:45:00+00:00,roi,1.00109621,,,,moegliche Folgewirkung
+ETH/USDT,2025-02-20 16:10:00+00:00,Trade nur im Original,2025-02-20 19:15:00+00:00,roi,1.00099684,,,,moegliche Folgewirkung
+ETH/USDT,2025-02-20 16:15:00+00:00,Trade nur in der Variante,,,,2025-02-20 19:15:00+00:00,roi,1.00111231,moegliche Folgewirkung
+ETH/USDT,2025-02-21 16:15:00+00:00,Trade nur im Original,2025-02-22 16:00:00+00:00,roi,1.00082978,,,,moegliche Folgewirkung
+ETH/USDT,2025-02-21 16:20:00+00:00,Trade nur in der Variante,,,,2025-02-22 16:00:00+00:00,roi,1.00111495,moegliche Folgewirkung
+ETH/USDT,2025-02-24 04:50:00+00:00,Trade nur im Original,2025-02-25 07:05:00+00:00,stop_loss,-10.18996731,,,,moegliche Folgewirkung
+ETH/USDT,2025-02-24 04:55:00+00:00,Trade nur in der Variante,,,,2025-02-24 06:35:00+00:00,roi,1.0011144,moegliche Folgewirkung
+ETH/USDT,2025-02-24 08:45:00+00:00,Trade nur in der Variante,,,,2025-02-25 07:05:00+00:00,stop_loss,-10.18963882,moegliche Folgewirkung
+ETH/USDT,2025-02-25 07:50:00+00:00,Trade nur im Original,2025-02-25 10:30:00+00:00,roi,1.00111839,,,,moegliche Folgewirkung
+ETH/USDT,2025-02-25 07:55:00+00:00,Trade nur in der Variante,,,,2025-02-25 11:45:00+00:00,roi,1.00091471,moegliche Folgewirkung
+ETH/USDT,2025-02-26 12:15:00+00:00,Trade nur im Original,2025-02-28 01:30:00+00:00,stop_loss,-10.18996561,,,,moegliche Folgewirkung
+ETH/USDT,2025-02-26 12:20:00+00:00,Trade nur in der Variante,,,,2025-02-28 01:30:00+00:00,stop_loss,-10.18983278,moegliche Folgewirkung
+ETH/USDT,2025-02-28 02:05:00+00:00,Trade nur im Original,2025-02-28 16:35:00+00:00,roi,1.00093132,,,,moegliche Folgewirkung
+ETH/USDT,2025-02-28 02:10:00+00:00,Trade nur in der Variante,,,,2025-02-28 16:40:00+00:00,roi,1.0009072,moegliche Folgewirkung
+ETH/USDT,2025-03-01 07:35:00+00:00,Trade nur im Original,2025-03-02 09:30:00+00:00,roi,1.00106347,,,,moegliche Folgewirkung
+ETH/USDT,2025-03-01 07:40:00+00:00,Trade nur in der Variante,,,,2025-03-02 09:30:00+00:00,roi,1.00117932,moegliche Folgewirkung
+ETH/USDT,2025-03-02 13:45:00+00:00,Trade nur im Original,2025-03-02 15:25:00+00:00,roi,1.00085203,,,,moegliche Folgewirkung
+ETH/USDT,2025-03-02 13:50:00+00:00,Trade nur in der Variante,,,,2025-03-02 15:25:00+00:00,roi,1.00090565,moegliche Folgewirkung
+ETH/USDT,2025-03-03 02:35:00+00:00,Trade nur im Original,2025-03-03 18:35:00+00:00,stop_loss,-10.18982643,,,,moegliche Folgewirkung
+ETH/USDT,2025-03-03 02:40:00+00:00,Trade nur in der Variante,,,,2025-03-03 18:35:00+00:00,stop_loss,-10.18983004,moegliche Folgewirkung
+ETH/USDT,2025-03-03 19:25:00+00:00,Trade nur im Original,2025-03-04 21:25:00+00:00,roi,1.00101318,,,,moegliche Folgewirkung
+ETH/USDT,2025-03-03 19:30:00+00:00,Trade nur in der Variante,,,,2025-03-04 21:25:00+00:00,roi,1.00078944,moegliche Folgewirkung
+ETH/USDT,2025-03-06 13:00:00+00:00,Trade nur im Original,2025-03-09 17:00:00+00:00,stop_loss,-10.18945843,,,,moegliche Folgewirkung
+ETH/USDT,2025-03-06 13:05:00+00:00,Trade nur in der Variante,,,,2025-03-09 17:00:00+00:00,stop_loss,-10.18949461,moegliche Folgewirkung
+ETH/USDT,2025-03-09 17:15:00+00:00,Trade nur im Original,2025-03-10 04:20:00+00:00,roi,1.00112353,,,,moegliche Folgewirkung
+ETH/USDT,2025-03-09 17:20:00+00:00,Trade nur in der Variante,,,,2025-03-10 02:35:00+00:00,roi,1.0008403,moegliche Folgewirkung
+ETH/USDT,2025-03-10 15:00:00+00:00,Trade nur im Original,2025-03-10 18:55:00+00:00,stop_loss,-10.18949876,,,,moegliche Folgewirkung
+ETH/USDT,2025-03-10 15:05:00+00:00,Trade nur in der Variante,,,,2025-03-10 18:55:00+00:00,stop_loss,-10.18949913,moegliche Folgewirkung
+ETH/USDT,2025-03-10 19:15:00+00:00,Trade nur im Original,2025-03-10 20:25:00+00:00,roi,1.00109352,,,,moegliche Folgewirkung
+ETH/USDT,2025-03-10 19:20:00+00:00,Trade nur in der Variante,,,,2025-03-10 21:10:00+00:00,roi,1.00080597,moegliche Folgewirkung
+ETH/USDT,2025-03-11 01:00:00+00:00,Trade nur im Original,2025-03-11 01:55:00+00:00,roi,2.00213372,,,,moegliche Folgewirkung
+ETH/USDT,2025-03-11 01:05:00+00:00,Trade nur in der Variante,,,,2025-03-11 01:40:00+00:00,roi,2.00205347,moegliche Folgewirkung
+ETH/USDT,2025-03-12 04:50:00+00:00,Trade nur im Original,2025-03-12 07:00:00+00:00,roi,1.00116645,,,,moegliche Folgewirkung
+ETH/USDT,2025-03-12 04:55:00+00:00,Trade nur in der Variante,,,,2025-03-12 07:00:00+00:00,roi,1.00075975,moegliche Folgewirkung
+ETH/USDT,2025-03-12 14:55:00+00:00,Trade nur im Original,2025-03-12 17:15:00+00:00,roi,1.00083527,,,,moegliche Folgewirkung
+ETH/USDT,2025-03-12 15:00:00+00:00,Trade nur in der Variante,,,,2025-03-12 16:15:00+00:00,roi,1.00118723,moegliche Folgewirkung
+ETH/USDT,2025-03-13 04:50:00+00:00,Trade nur im Original,2025-03-13 10:30:00+00:00,roi,1.00075838,,,,moegliche Folgewirkung
+ETH/USDT,2025-03-13 04:55:00+00:00,Trade nur in der Variante,,,,2025-03-13 10:15:00+00:00,roi,1.00086715,moegliche Folgewirkung
+ETH/USDT,2025-03-13 18:05:00+00:00,Trade nur im Original,2025-03-13 19:05:00+00:00,roi,1.04647715,,,,moegliche Folgewirkung
+ETH/USDT,2025-03-13 18:10:00+00:00,Trade nur in der Variante,,,,2025-03-13 20:15:00+00:00,roi,1.0008938,moegliche Folgewirkung
+ETH/USDT,2025-03-14 20:30:00+00:00,Trade nur im Original,2025-03-15 17:25:00+00:00,roi,1.00076172,,,,moegliche Folgewirkung
+ETH/USDT,2025-03-14 20:35:00+00:00,Trade nur in der Variante,,,,2025-03-15 16:45:00+00:00,roi,1.00104082,moegliche Folgewirkung
+ETH/USDT,2025-03-16 01:50:00+00:00,Trade nur im Original,2025-03-17 18:30:00+00:00,roi,1.00098972,,,,moegliche Folgewirkung
+ETH/USDT,2025-03-16 01:55:00+00:00,Trade nur in der Variante,,,,2025-03-17 18:30:00+00:00,roi,1.0009116,moegliche Folgewirkung
+ETH/USDT,2025-03-17 23:40:00+00:00,Trade nur im Original,2025-03-19 10:30:00+00:00,roi,1.00121994,,,,moegliche Folgewirkung
+ETH/USDT,2025-03-17 23:45:00+00:00,Trade nur in der Variante,,,,2025-03-19 10:30:00+00:00,roi,1.00090725,moegliche Folgewirkung
+ETH/USDT,2025-03-20 10:50:00+00:00,Trade nur im Original,2025-03-23 07:50:00+00:00,roi,1.00118198,,,,moegliche Folgewirkung
+ETH/USDT,2025-03-20 10:55:00+00:00,Trade nur in der Variante,,,,2025-03-20 14:25:00+00:00,roi,1.00074899,moegliche Folgewirkung
+ETH/USDT,2025-03-20 16:45:00+00:00,Trade nur in der Variante,,,,2025-03-20 20:20:00+00:00,roi,1.00101865,moegliche Folgewirkung
+ETH/USDT,2025-03-22 23:50:00+00:00,Trade nur in der Variante,,,,2025-03-23 03:40:00+00:00,roi,1.00101006,moegliche Folgewirkung
+ETH/USDT,2025-03-24 23:30:00+00:00,Trade nur im Original,2025-03-28 11:25:00+00:00,stop_loss,-10.18960744,,,,moegliche Folgewirkung
+ETH/USDT,2025-03-24 23:35:00+00:00,Trade nur in der Variante,,,,2025-03-28 11:25:00+00:00,stop_loss,-10.18939841,moegliche Folgewirkung
+ETH/USDT,2025-03-28 12:25:00+00:00,Trade nur im Original,2025-04-01 15:15:00+00:00,roi,1.00102328,,,,moegliche Folgewirkung
+ETH/USDT,2025-03-28 12:30:00+00:00,Trade nur in der Variante,,,,2025-04-01 15:15:00+00:00,roi,1.0009989,moegliche Folgewirkung
+ETH/USDT,2025-04-02 01:35:00+00:00,Trade nur im Original,2025-04-02 15:30:00+00:00,roi,1.00078004,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-02 01:40:00+00:00,Trade nur in der Variante,,,,2025-04-02 15:30:00+00:00,roi,1.00095694,moegliche Folgewirkung
+ETH/USDT,2025-04-02 23:30:00+00:00,Trade nur im Original,2025-04-03 00:30:00+00:00,roi,1.00123837,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-02 23:35:00+00:00,Trade nur in der Variante,,,,2025-04-03 00:35:00+00:00,roi,1.00110343,moegliche Folgewirkung
+ETH/USDT,2025-04-03 11:10:00+00:00,Trade nur im Original,2025-04-03 23:45:00+00:00,roi,1.00077679,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-03 11:15:00+00:00,Trade nur in der Variante,,,,2025-04-04 08:15:00+00:00,roi,1.00084372,moegliche Folgewirkung
+ETH/USDT,2025-04-04 10:40:00+00:00,Trade nur im Original,2025-04-04 15:15:00+00:00,roi,1.00119069,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-04 10:45:00+00:00,Trade nur in der Variante,,,,2025-04-04 15:05:00+00:00,roi,1.00103522,moegliche Folgewirkung
+ETH/USDT,2025-04-05 12:20:00+00:00,Trade nur im Original,2025-04-06 18:20:00+00:00,stop_loss,-10.18969772,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-05 12:25:00+00:00,Trade nur in der Variante,,,,2025-04-06 18:20:00+00:00,stop_loss,-10.18971255,moegliche Folgewirkung
+ETH/USDT,2025-04-06 19:20:00+00:00,Trade nur im Original,2025-04-07 06:40:00+00:00,stop_loss,-10.18961535,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-06 19:25:00+00:00,Trade nur in der Variante,,,,2025-04-07 06:45:00+00:00,stop_loss,-10.18984981,moegliche Folgewirkung
+ETH/USDT,2025-04-07 07:20:00+00:00,Trade nur im Original,2025-04-07 08:20:00+00:00,roi,1.26483957,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-07 07:25:00+00:00,Trade nur in der Variante,,,,2025-04-07 08:20:00+00:00,roi,2.00209788,moegliche Folgewirkung
+ETH/USDT,2025-04-08 15:30:00+00:00,Trade nur im Original,2025-04-09 17:20:00+00:00,roi,1.00124402,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-08 15:35:00+00:00,Trade nur in der Variante,,,,2025-04-09 17:20:00+00:00,roi,1.0011977,moegliche Folgewirkung
+ETH/USDT,2025-04-10 00:55:00+00:00,Trade nur im Original,2025-04-10 16:20:00+00:00,stop_loss,-10.18985522,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-10 01:00:00+00:00,Trade nur in der Variante,,,,2025-04-10 16:20:00+00:00,stop_loss,-10.18924358,moegliche Folgewirkung
+ETH/USDT,2025-04-10 16:35:00+00:00,Trade nur im Original,2025-04-10 18:25:00+00:00,roi,1.00105086,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-10 16:40:00+00:00,Trade nur in der Variante,,,,2025-04-10 19:00:00+00:00,roi,1.00074772,moegliche Folgewirkung
+ETH/USDT,2025-04-12 02:20:00+00:00,Trade nur im Original,2025-04-12 05:30:00+00:00,roi,1.00124842,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-12 02:25:00+00:00,Trade nur in der Variante,,,,2025-04-12 05:30:00+00:00,roi,1.00069981,moegliche Folgewirkung
+ETH/USDT,2025-04-13 02:35:00+00:00,Trade nur im Original,2025-04-13 17:20:00+00:00,roi,1.00124767,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-13 02:40:00+00:00,Trade nur in der Variante,,,,2025-04-13 17:20:00+00:00,roi,1.00103046,moegliche Folgewirkung
+ETH/USDT,2025-04-16 00:25:00+00:00,Trade nur im Original,2025-04-16 15:25:00+00:00,roi,1.0008394,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-16 00:30:00+00:00,Trade nur in der Variante,,,,2025-04-16 15:25:00+00:00,roi,1.00119045,moegliche Folgewirkung
+ETH/USDT,2025-04-17 14:45:00+00:00,Trade nur im Original,2025-04-17 16:15:00+00:00,roi,1.00102568,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-17 14:50:00+00:00,Trade nur in der Variante,,,,2025-04-17 16:15:00+00:00,roi,1.00114586,moegliche Folgewirkung
+ETH/USDT,2025-04-17 19:40:00+00:00,Trade nur im Original,2025-04-19 04:25:00+00:00,roi,1.00119602,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-17 19:45:00+00:00,Trade nur in der Variante,,,,2025-04-19 04:25:00+00:00,roi,1.00126947,moegliche Folgewirkung
+ETH/USDT,2025-04-20 07:50:00+00:00,Trade nur im Original,2025-04-21 00:25:00+00:00,roi,1.00088623,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-20 07:55:00+00:00,Trade nur in der Variante,,,,2025-04-21 00:30:00+00:00,roi,1.00108494,moegliche Folgewirkung
+ETH/USDT,2025-04-21 18:40:00+00:00,Trade nur im Original,2025-04-22 07:30:00+00:00,roi,1.00128821,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-21 18:45:00+00:00,Trade nur in der Variante,,,,2025-04-22 02:00:00+00:00,roi,1.00092909,moegliche Folgewirkung
+ETH/USDT,2025-04-23 15:35:00+00:00,Trade nur im Original,2025-04-23 16:35:00+00:00,roi,1.00103187,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-23 15:40:00+00:00,Trade nur in der Variante,,,,2025-04-23 18:10:00+00:00,roi,1.00096426,moegliche Folgewirkung
+ETH/USDT,2025-04-24 04:05:00+00:00,Trade nur im Original,2025-04-25 12:10:00+00:00,roi,1.00100463,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-24 04:10:00+00:00,Trade nur in der Variante,,,,2025-04-25 01:05:00+00:00,roi,1.00107391,moegliche Folgewirkung
+ETH/USDT,2025-04-25 03:15:00+00:00,Trade nur in der Variante,,,,2025-04-25 04:20:00+00:00,roi,1.00090752,moegliche Folgewirkung
+ETH/USDT,2025-04-28 01:50:00+00:00,Trade nur im Original,2025-04-28 03:30:00+00:00,roi,1.0007821,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-28 01:55:00+00:00,Trade nur in der Variante,,,,2025-04-28 03:30:00+00:00,roi,1.0009897,moegliche Folgewirkung
+ETH/USDT,2025-04-28 13:45:00+00:00,Trade nur im Original,2025-04-29 06:20:00+00:00,roi,1.00078515,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-28 13:50:00+00:00,Trade nur in der Variante,,,,2025-04-29 01:40:00+00:00,roi,1.00095096,moegliche Folgewirkung
+ETH/USDT,2025-04-29 21:40:00+00:00,Trade nur im Original,2025-05-01 08:30:00+00:00,roi,1.00121814,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-29 21:45:00+00:00,Trade nur in der Variante,,,,2025-05-01 08:30:00+00:00,roi,1.00078471,moegliche Folgewirkung
+ETH/USDT,2025-05-02 07:20:00+00:00,Trade nur im Original,2025-05-02 14:35:00+00:00,roi,1.00124055,,,,moegliche Folgewirkung
+ETH/USDT,2025-05-02 07:25:00+00:00,Trade nur in der Variante,,,,2025-05-02 14:25:00+00:00,roi,1.0007173,moegliche Folgewirkung
+ETH/USDT,2025-05-03 06:35:00+00:00,Trade nur im Original,2025-05-04 02:05:00+00:00,roi,1.00104323,,,,moegliche Folgewirkung
+ETH/USDT,2025-05-03 06:40:00+00:00,Trade nur in der Variante,,,,2025-05-08 03:05:00+00:00,roi,1.00077158,moegliche Folgewirkung
+ETH/USDT,2025-05-04 23:00:00+00:00,Trade nur im Original,2025-05-07 00:20:00+00:00,roi,1.00120761,,,,moegliche Folgewirkung
+ETH/USDT,2025-05-07 16:45:00+00:00,Trade nur im Original,2025-05-08 01:00:00+00:00,roi,1.00123711,,,,moegliche Folgewirkung
+ETH/USDT,2025-05-12 18:55:00+00:00,Trade nur im Original,2025-05-12 19:55:00+00:00,roi,1.0010054,,,,moegliche Folgewirkung
+ETH/USDT,2025-05-12 19:00:00+00:00,Trade nur in der Variante,,,,2025-05-12 20:00:00+00:00,roi,1.0010639,moegliche Folgewirkung
+ETH/USDT,2025-05-13 00:50:00+00:00,Trade nur im Original,2025-05-13 11:20:00+00:00,roi,1.00091915,,,,moegliche Folgewirkung
+ETH/USDT,2025-05-13 00:55:00+00:00,Trade nur in der Variante,,,,2025-05-13 11:20:00+00:00,roi,1.0009695,moegliche Folgewirkung
+ETH/USDT,2025-05-14 08:20:00+00:00,Trade nur im Original,2025-05-18 20:00:00+00:00,stop_loss,-10.18977771,,,,moegliche Folgewirkung
+ETH/USDT,2025-05-14 08:25:00+00:00,Trade nur in der Variante,,,,2025-05-18 20:00:00+00:00,stop_loss,-10.18995435,moegliche Folgewirkung
+ETH/USDT,2025-05-18 20:40:00+00:00,Trade nur im Original,2025-05-18 21:40:00+00:00,roi,1.08590661,,,,moegliche Folgewirkung
+ETH/USDT,2025-05-18 20:45:00+00:00,Trade nur in der Variante,,,,2025-05-18 21:45:00+00:00,roi,1.0182645,moegliche Folgewirkung
+ETH/USDT,2025-05-20 11:30:00+00:00,Trade nur im Original,2025-05-20 23:15:00+00:00,roi,1.00109825,,,,moegliche Folgewirkung
+ETH/USDT,2025-05-20 11:35:00+00:00,Trade nur in der Variante,,,,2025-05-21 01:10:00+00:00,roi,1.00086505,moegliche Folgewirkung
+ETH/USDT,2025-05-23 06:40:00+00:00,Trade nur im Original,2025-05-27 17:40:00+00:00,roi,1.00082944,,,,moegliche Folgewirkung
+ETH/USDT,2025-05-23 06:45:00+00:00,Trade nur in der Variante,,,,2025-05-27 17:40:00+00:00,roi,1.00105836,moegliche Folgewirkung
+ETH/USDT,2025-05-28 10:10:00+00:00,Trade nur im Original,2025-05-28 11:35:00+00:00,roi,1.00094622,,,,moegliche Folgewirkung
+ETH/USDT,2025-05-28 10:15:00+00:00,Trade nur in der Variante,,,,2025-05-28 11:50:00+00:00,roi,1.00095411,moegliche Folgewirkung
+ETH/USDT,2025-05-29 04:55:00+00:00,Trade nur im Original,2025-06-05 20:20:00+00:00,stop_loss,-10.18969025,,,,moegliche Folgewirkung
+ETH/USDT,2025-05-29 05:00:00+00:00,Trade nur in der Variante,,,,2025-06-05 20:20:00+00:00,stop_loss,-10.18984771,moegliche Folgewirkung
+ETH/USDT,2025-06-05 21:20:00+00:00,Trade nur im Original,2025-06-06 03:40:00+00:00,roi,1.00082451,,,,moegliche Folgewirkung
+ETH/USDT,2025-06-05 21:25:00+00:00,Trade nur in der Variante,,,,2025-06-06 03:50:00+00:00,roi,1.00086229,moegliche Folgewirkung
+ETH/USDT,2025-06-07 00:25:00+00:00,Trade nur im Original,2025-06-07 05:45:00+00:00,roi,1.00095915,,,,moegliche Folgewirkung
+ETH/USDT,2025-06-07 00:30:00+00:00,Trade nur in der Variante,,,,2025-06-07 06:50:00+00:00,roi,1.00091834,moegliche Folgewirkung
+ETH/USDT,2025-06-08 09:50:00+00:00,Trade nur im Original,2025-06-08 17:00:00+00:00,roi,1.00113874,,,,moegliche Folgewirkung
+ETH/USDT,2025-06-08 09:55:00+00:00,Trade nur in der Variante,,,,2025-06-08 17:00:00+00:00,roi,1.00111051,moegliche Folgewirkung
+ETH/USDT,2025-06-08 23:10:00+00:00,Trade nur im Original,2025-06-09 10:30:00+00:00,roi,1.00083749,,,,moegliche Folgewirkung
+ETH/USDT,2025-06-08 23:15:00+00:00,Trade nur in der Variante,,,,2025-06-09 10:45:00+00:00,roi,1.00083224,moegliche Folgewirkung
+ETH/USDT,2025-06-11 22:45:00+00:00,Trade nur im Original,2025-06-13 01:10:00+00:00,stop_loss,-10.18964766,,,,moegliche Folgewirkung
+ETH/USDT,2025-06-11 22:50:00+00:00,Trade nur in der Variante,,,,2025-06-13 01:10:00+00:00,stop_loss,-10.18985395,moegliche Folgewirkung
+ETH/USDT,2025-06-13 01:45:00+00:00,Trade nur im Original,2025-06-13 06:55:00+00:00,roi,1.00108068,,,,moegliche Folgewirkung
+ETH/USDT,2025-06-13 01:50:00+00:00,Trade nur in der Variante,,,,2025-06-13 03:55:00+00:00,roi,1.00115263,moegliche Folgewirkung
+ETH/USDT,2025-06-13 14:35:00+00:00,Trade nur im Original,2025-06-13 15:35:00+00:00,roi,1.15697959,,,,moegliche Folgewirkung
+ETH/USDT,2025-06-13 14:40:00+00:00,Trade nur in der Variante,,,,2025-06-13 15:40:00+00:00,roi,1.00102787,moegliche Folgewirkung
+ETH/USDT,2025-06-14 07:30:00+00:00,Trade nur im Original,2025-06-16 02:00:00+00:00,roi,1.00087176,,,,moegliche Folgewirkung
+ETH/USDT,2025-06-14 07:35:00+00:00,Trade nur in der Variante,,,,2025-06-16 02:00:00+00:00,roi,1.00098027,moegliche Folgewirkung
+ETH/USDT,2025-06-16 11:35:00+00:00,Trade nur im Original,2025-06-16 13:55:00+00:00,roi,1.00095517,,,,moegliche Folgewirkung
+ETH/USDT,2025-06-16 11:40:00+00:00,Trade nur in der Variante,,,,2025-06-16 13:55:00+00:00,roi,1.00105358,moegliche Folgewirkung
+ETH/USDT,2025-06-16 23:10:00+00:00,Trade nur im Original,2025-06-17 02:55:00+00:00,roi,1.00115886,,,,moegliche Folgewirkung
+ETH/USDT,2025-06-16 23:15:00+00:00,Trade nur in der Variante,,,,2025-06-20 08:45:00+00:00,exit_signal,-1.91008259,moegliche Folgewirkung
+ETH/USDT,2025-06-17 10:25:00+00:00,Trade nur im Original,2025-06-20 08:40:00+00:00,exit_signal,-0.41417341,,,,moegliche Folgewirkung
+ETH/USDT,2025-06-20 14:20:00+00:00,Trade nur im Original,2025-06-21 21:30:00+00:00,stop_loss,-10.18986869,,,,moegliche Folgewirkung
+ETH/USDT,2025-06-20 14:25:00+00:00,Trade nur in der Variante,,,,2025-06-21 21:30:00+00:00,stop_loss,-10.18979946,moegliche Folgewirkung
+ETH/USDT,2025-06-21 23:50:00+00:00,Trade nur im Original,2025-06-23 19:35:00+00:00,roi,1.00114255,,,,moegliche Folgewirkung
+ETH/USDT,2025-06-21 23:55:00+00:00,Trade nur in der Variante,,,,2025-06-23 14:00:00+00:00,roi,1.0008107,moegliche Folgewirkung
+ETH/USDT,2025-06-23 16:45:00+00:00,Trade nur in der Variante,,,,2025-06-23 17:25:00+00:00,roi,2.00217316,moegliche Folgewirkung
+ETH/USDT,2025-06-24 08:25:00+00:00,Trade nur im Original,2025-06-24 09:25:00+00:00,roi,1.00108146,,,,moegliche Folgewirkung
+ETH/USDT,2025-06-24 08:30:00+00:00,Trade nur in der Variante,,,,2025-06-24 09:30:00+00:00,roi,1.01889983,moegliche Folgewirkung
+ETH/USDT,2025-06-25 05:30:00+00:00,Trade nur im Original,2025-06-26 01:30:00+00:00,roi,1.0010562,,,,moegliche Folgewirkung
+ETH/USDT,2025-06-25 05:35:00+00:00,Trade nur in der Variante,,,,2025-06-26 01:30:00+00:00,roi,1.00108666,moegliche Folgewirkung
+ETH/USDT,2025-06-26 10:10:00+00:00,Trade nur im Original,2025-06-29 22:45:00+00:00,roi,1.00089923,,,,moegliche Folgewirkung
+ETH/USDT,2025-06-26 10:15:00+00:00,Trade nur in der Variante,,,,2025-06-29 22:35:00+00:00,roi,1.00092756,moegliche Folgewirkung
+ETH/USDT,2025-06-30 07:20:00+00:00,Trade nur im Original,2025-06-30 19:20:00+00:00,roi,1.00082187,,,,moegliche Folgewirkung
+ETH/USDT,2025-06-30 07:25:00+00:00,Trade nur in der Variante,,,,2025-06-30 19:20:00+00:00,roi,1.0010482,moegliche Folgewirkung
+ETH/USDT,2025-07-01 05:50:00+00:00,Trade nur im Original,2025-07-02 15:10:00+00:00,roi,1.00083704,,,,moegliche Folgewirkung
+ETH/USDT,2025-07-01 05:55:00+00:00,Trade nur in der Variante,,,,2025-07-02 15:10:00+00:00,roi,1.00088949,moegliche Folgewirkung
+ETH/USDT,2025-07-03 02:50:00+00:00,Trade nur im Original,2025-07-03 05:30:00+00:00,roi,1.00091404,,,,moegliche Folgewirkung
+ETH/USDT,2025-07-03 02:55:00+00:00,Trade nur in der Variante,,,,2025-07-03 05:30:00+00:00,roi,1.00079308,moegliche Folgewirkung
+ETH/USDT,2025-07-04 06:35:00+00:00,Trade nur im Original,2025-07-04 23:10:00+00:00,exit_signal,-1.81791193,,,,moegliche Folgewirkung
+ETH/USDT,2025-07-04 06:40:00+00:00,Trade nur in der Variante,,,,2025-07-04 23:15:00+00:00,exit_signal,-1.90820887,moegliche Folgewirkung
+ETH/USDT,2025-07-05 16:55:00+00:00,Trade nur im Original,2025-07-06 13:25:00+00:00,roi,1.00084206,,,,moegliche Folgewirkung
+ETH/USDT,2025-07-05 17:00:00+00:00,Trade nur in der Variante,,,,2025-07-06 13:25:00+00:00,roi,1.00101594,moegliche Folgewirkung
+ETH/USDT,2025-07-07 13:25:00+00:00,Trade nur im Original,2025-07-08 11:05:00+00:00,roi,1.00081994,,,,moegliche Folgewirkung
+ETH/USDT,2025-07-07 13:30:00+00:00,Trade nur in der Variante,,,,2025-07-08 13:45:00+00:00,roi,1.00111422,moegliche Folgewirkung
+ETH/USDT,2025-07-11 11:55:00+00:00,Trade nur im Original,2025-07-13 14:15:00+00:00,roi,1.000866,,,,moegliche Folgewirkung
+ETH/USDT,2025-07-11 12:00:00+00:00,Trade nur in der Variante,,,,2025-07-13 14:20:00+00:00,roi,1.00110416,moegliche Folgewirkung
+ETH/USDT,2025-07-13 21:50:00+00:00,Trade nur im Original,2025-07-14 02:45:00+00:00,roi,1.00100851,,,,moegliche Folgewirkung
+ETH/USDT,2025-07-13 21:55:00+00:00,Trade nur in der Variante,,,,2025-07-14 02:25:00+00:00,roi,1.00098305,moegliche Folgewirkung
+ETH/USDT,2025-07-15 01:30:00+00:00,Trade nur im Original,2025-07-15 12:30:00+00:00,roi,1.00107027,,,,moegliche Folgewirkung
+ETH/USDT,2025-07-15 01:35:00+00:00,Trade nur in der Variante,,,,2025-07-15 13:05:00+00:00,roi,1.00111768,moegliche Folgewirkung
+ETH/USDT,2025-07-17 12:15:00+00:00,Trade nur im Original,2025-07-17 21:10:00+00:00,roi,1.00102526,,,,moegliche Folgewirkung
+ETH/USDT,2025-07-17 12:20:00+00:00,Trade nur in der Variante,,,,2025-07-17 21:10:00+00:00,roi,1.0010307,moegliche Folgewirkung
+ETH/USDT,2025-07-18 20:45:00+00:00,Trade nur im Original,2025-07-18 21:45:00+00:00,roi,1.36164108,,,,moegliche Folgewirkung
+ETH/USDT,2025-07-18 20:50:00+00:00,Trade nur in der Variante,,,,2025-07-18 21:50:00+00:00,roi,1.16152365,moegliche Folgewirkung
+ETH/USDT,2025-07-19 21:30:00+00:00,Trade nur im Original,2025-07-20 01:05:00+00:00,roi,1.0009033,,,,moegliche Folgewirkung
+ETH/USDT,2025-07-19 21:35:00+00:00,Trade nur in der Variante,,,,2025-07-19 23:35:00+00:00,roi,1.00096467,moegliche Folgewirkung
+ETH/USDT,2025-07-21 16:30:00+00:00,Trade nur im Original,2025-07-27 10:40:00+00:00,roi,1.0010539,,,,moegliche Folgewirkung
+ETH/USDT,2025-07-21 16:35:00+00:00,Trade nur in der Variante,,,,2025-07-27 10:45:00+00:00,roi,1.00105184,moegliche Folgewirkung
+ETH/USDT,2025-07-28 07:25:00+00:00,Trade nur im Original,2025-07-31 01:15:00+00:00,exit_signal,-1.44745653,,,,moegliche Folgewirkung
+ETH/USDT,2025-07-28 07:30:00+00:00,Trade nur in der Variante,,,,2025-07-31 01:20:00+00:00,exit_signal,-1.80309392,moegliche Folgewirkung
+ETH/USDT,2025-07-31 13:40:00+00:00,Trade nur im Original,2025-08-02 17:45:00+00:00,stop_loss,-10.18980698,,,,moegliche Folgewirkung
+ETH/USDT,2025-07-31 13:45:00+00:00,Trade nur in der Variante,,,,2025-08-02 17:50:00+00:00,stop_loss,-10.18978324,moegliche Folgewirkung
+ETH/USDT,2025-08-02 18:25:00+00:00,Trade nur im Original,2025-08-03 05:30:00+00:00,roi,1.00102637,,,,moegliche Folgewirkung
+ETH/USDT,2025-08-02 18:30:00+00:00,Trade nur in der Variante,,,,2025-08-02 21:00:00+00:00,roi,1.0009906,moegliche Folgewirkung
+ETH/USDT,2025-08-05 04:10:00+00:00,Trade nur im Original,2025-08-07 01:25:00+00:00,roi,1.00107821,,,,moegliche Folgewirkung
+ETH/USDT,2025-08-05 04:15:00+00:00,Trade nur in der Variante,,,,2025-08-07 01:25:00+00:00,roi,1.00108251,moegliche Folgewirkung
+ETH/USDT,2025-08-10 21:10:00+00:00,Trade nur im Original,2025-08-11 00:15:00+00:00,roi,1.00087431,,,,moegliche Folgewirkung
+ETH/USDT,2025-08-10 21:15:00+00:00,Trade nur in der Variante,,,,2025-08-11 00:15:00+00:00,roi,1.00105917,moegliche Folgewirkung
+ETH/USDT,2025-08-11 10:25:00+00:00,Trade nur im Original,2025-08-11 14:35:00+00:00,roi,1.00100852,,,,moegliche Folgewirkung
+ETH/USDT,2025-08-11 10:30:00+00:00,Trade nur in der Variante,,,,2025-08-11 14:35:00+00:00,roi,1.0009053,moegliche Folgewirkung
+ETH/USDT,2025-08-11 20:25:00+00:00,Trade nur im Original,2025-08-12 02:25:00+00:00,roi,1.0010144,,,,moegliche Folgewirkung
+ETH/USDT,2025-08-11 20:30:00+00:00,Trade nur in der Variante,,,,2025-08-12 02:25:00+00:00,roi,1.00095577,moegliche Folgewirkung
+ETH/USDT,2025-08-15 14:05:00+00:00,Trade nur im Original,2025-08-19 23:30:00+00:00,stop_loss,-10.18985981,,,,moegliche Folgewirkung
+ETH/USDT,2025-08-15 14:10:00+00:00,Trade nur in der Variante,,,,2025-08-19 23:25:00+00:00,stop_loss,-10.18961025,moegliche Folgewirkung
+ETH/USDT,2025-08-20 11:55:00+00:00,Trade nur im Original,2025-08-20 14:50:00+00:00,roi,1.00091273,,,,moegliche Folgewirkung
+ETH/USDT,2025-08-20 12:00:00+00:00,Trade nur in der Variante,,,,2025-08-20 15:05:00+00:00,roi,1.00104044,moegliche Folgewirkung
+ETH/USDT,2025-08-22 11:45:00+00:00,Trade nur im Original,2025-08-22 14:00:00+00:00,roi,1.00091119,,,,moegliche Folgewirkung
+ETH/USDT,2025-08-22 11:50:00+00:00,Trade nur in der Variante,,,,2025-08-22 14:00:00+00:00,roi,1.00103198,moegliche Folgewirkung
+ETH/USDT,2025-08-23 01:50:00+00:00,Trade nur im Original,2025-08-24 15:20:00+00:00,roi,1.00093088,,,,moegliche Folgewirkung
+ETH/USDT,2025-08-23 01:55:00+00:00,Trade nur in der Variante,,,,2025-08-24 16:40:00+00:00,roi,1.00092575,moegliche Folgewirkung
+ETH/USDT,2025-08-24 20:20:00+00:00,Trade nur im Original,2025-08-29 14:05:00+00:00,stop_loss,-10.18986943,,,,moegliche Folgewirkung
+ETH/USDT,2025-08-24 20:25:00+00:00,Trade nur in der Variante,,,,2025-08-26 00:50:00+00:00,stop_loss,-10.18990817,moegliche Folgewirkung
+ETH/USDT,2025-08-27 19:40:00+00:00,Trade nur in der Variante,,,,2025-08-28 08:05:00+00:00,roi,1.00094479,moegliche Folgewirkung
+ETH/USDT,2025-08-28 16:05:00+00:00,Trade nur in der Variante,,,,2025-08-31 01:30:00+00:00,exit_signal,-1.68106327,moegliche Folgewirkung
+ETH/USDT,2025-08-29 14:25:00+00:00,Trade nur im Original,2025-08-29 16:20:00+00:00,roi,1.0008814,,,,moegliche Folgewirkung
+ETH/USDT,2025-08-30 12:50:00+00:00,Trade nur im Original,2025-08-31 00:40:00+00:00,roi,1.00090882,,,,moegliche Folgewirkung
+ETH/USDT,2025-08-31 20:15:00+00:00,Trade nur im Original,2025-09-12 00:40:00+00:00,roi,1.00090702,,,,moegliche Folgewirkung
+ETH/USDT,2025-08-31 20:20:00+00:00,Trade nur in der Variante,,,,2025-09-12 00:40:00+00:00,roi,1.00088087,moegliche Folgewirkung
+ETH/USDT,2025-09-13 16:05:00+00:00,Trade nur im Original,2025-09-22 06:00:00+00:00,stop_loss,-10.18996737,,,,moegliche Folgewirkung
+ETH/USDT,2025-09-13 16:10:00+00:00,Trade nur in der Variante,,,,2025-09-22 06:00:00+00:00,stop_loss,-10.1895412,moegliche Folgewirkung
+ETH/USDT,2025-09-22 06:25:00+00:00,Trade nur im Original,2025-09-30 00:50:00+00:00,roi,1.00096699,,,,moegliche Folgewirkung
+ETH/USDT,2025-09-22 06:30:00+00:00,Trade nur in der Variante,,,,2025-09-29 20:40:00+00:00,roi,1.00089369,moegliche Folgewirkung
+ETH/USDT,2025-09-30 09:20:00+00:00,Trade nur im Original,2025-10-01 08:35:00+00:00,roi,1.00103372,,,,moegliche Folgewirkung
+ETH/USDT,2025-09-30 09:25:00+00:00,Trade nur in der Variante,,,,2025-10-01 08:35:00+00:00,roi,1.00085408,moegliche Folgewirkung
+ETH/USDT,2025-10-02 15:10:00+00:00,Trade nur im Original,2025-10-02 16:10:00+00:00,roi,1.47501589,,,,moegliche Folgewirkung
+ETH/USDT,2025-10-02 15:15:00+00:00,Trade nur in der Variante,,,,2025-10-02 16:15:00+00:00,roi,1.31736639,moegliche Folgewirkung
+ETH/USDT,2025-10-03 05:55:00+00:00,Trade nur im Original,2025-10-03 15:55:00+00:00,roi,1.00096528,,,,moegliche Folgewirkung
+ETH/USDT,2025-10-03 06:00:00+00:00,Trade nur in der Variante,,,,2025-10-03 15:55:00+00:00,roi,1.00092173,moegliche Folgewirkung
+ETH/USDT,2025-10-04 01:35:00+00:00,Trade nur im Original,2025-10-05 02:30:00+00:00,roi,1.00104177,,,,moegliche Folgewirkung
+ETH/USDT,2025-10-04 01:40:00+00:00,Trade nur in der Variante,,,,2025-10-05 02:30:00+00:00,roi,1.00101312,moegliche Folgewirkung
+ETH/USDT,2025-10-07 08:30:00+00:00,Trade nur im Original,2025-10-07 11:30:00+00:00,roi,1.00091236,,,,moegliche Folgewirkung
+ETH/USDT,2025-10-07 08:35:00+00:00,Trade nur in der Variante,,,,2025-10-07 10:10:00+00:00,roi,1.00091464,moegliche Folgewirkung
+ETH/USDT,2025-10-07 15:20:00+00:00,Trade nur im Original,2025-10-08 17:50:00+00:00,exit_signal,-0.98922055,,,,moegliche Folgewirkung
+ETH/USDT,2025-10-07 15:25:00+00:00,Trade nur in der Variante,,,,2025-10-08 17:55:00+00:00,exit_signal,-0.61713492,moegliche Folgewirkung
+ETH/USDT,2025-10-09 01:55:00+00:00,Trade nur im Original,2025-10-10 19:10:00+00:00,stop_loss,-10.18983244,,,,moegliche Folgewirkung
+ETH/USDT,2025-10-09 02:00:00+00:00,Trade nur in der Variante,,,,2025-10-10 19:10:00+00:00,stop_loss,-10.18980972,moegliche Folgewirkung
+ETH/USDT,2025-10-10 19:45:00+00:00,Trade nur im Original,2025-10-10 21:10:00+00:00,stop_loss,-10.18965642,,,,moegliche Folgewirkung
+ETH/USDT,2025-10-10 19:50:00+00:00,Trade nur in der Variante,,,,2025-10-10 21:10:00+00:00,stop_loss,-10.18989573,moegliche Folgewirkung
+ETH/USDT,2025-10-10 21:35:00+00:00,Trade nur im Original,2025-10-10 21:55:00+00:00,roi,4.00390523,,,,moegliche Folgewirkung
+ETH/USDT,2025-10-10 21:40:00+00:00,Trade nur in der Variante,,,,2025-10-10 21:50:00+00:00,roi,4.0040308,moegliche Folgewirkung
+ETH/USDT,2025-10-11 19:50:00+00:00,Trade nur im Original,2025-10-12 03:35:00+00:00,roi,1.00109242,,,,moegliche Folgewirkung
+ETH/USDT,2025-10-11 19:55:00+00:00,Trade nur in der Variante,,,,2025-10-12 03:20:00+00:00,roi,1.00103511,moegliche Folgewirkung
+ETH/USDT,2025-10-14 03:40:00+00:00,Trade nur im Original,2025-10-15 08:30:00+00:00,roi,1.00086135,,,,moegliche Folgewirkung
+ETH/USDT,2025-10-14 03:45:00+00:00,Trade nur in der Variante,,,,2025-10-15 08:30:00+00:00,roi,1.00110495,moegliche Folgewirkung
+ETH/USDT,2025-10-15 15:10:00+00:00,Trade nur im Original,2025-10-16 10:10:00+00:00,roi,1.00096879,,,,moegliche Folgewirkung
+ETH/USDT,2025-10-15 15:15:00+00:00,Trade nur in der Variante,,,,2025-10-16 10:10:00+00:00,roi,1.00102079,moegliche Folgewirkung
+ETH/USDT,2025-10-16 14:25:00+00:00,Trade nur im Original,2025-10-20 04:05:00+00:00,roi,1.00101973,,,,moegliche Folgewirkung
+ETH/USDT,2025-10-16 14:30:00+00:00,Trade nur in der Variante,,,,2025-10-20 04:05:00+00:00,roi,1.00101142,moegliche Folgewirkung
+ETH/USDT,2025-10-20 08:30:00+00:00,Trade nur im Original,2025-10-21 16:25:00+00:00,roi,1.00090104,,,,moegliche Folgewirkung
+ETH/USDT,2025-10-20 08:35:00+00:00,Trade nur in der Variante,,,,2025-10-26 22:00:00+00:00,roi,1.00105316,moegliche Folgewirkung
+ETH/USDT,2025-10-21 20:40:00+00:00,Trade nur im Original,2025-10-24 12:30:00+00:00,roi,1.00105499,,,,moegliche Folgewirkung
+ETH/USDT,2025-10-24 16:15:00+00:00,Trade nur im Original,2025-10-24 19:05:00+00:00,roi,1.00106756,,,,moegliche Folgewirkung
+ETH/USDT,2025-10-25 00:40:00+00:00,Trade nur im Original,2025-10-26 09:20:00+00:00,roi,1.00103998,,,,moegliche Folgewirkung
+ETH/USDT,2025-10-27 21:05:00+00:00,Trade nur im Original,2025-10-30 18:35:00+00:00,stop_loss,-10.18975195,,,,moegliche Folgewirkung
+ETH/USDT,2025-10-27 21:10:00+00:00,Trade nur in der Variante,,,,2025-10-30 18:35:00+00:00,stop_loss,-10.18981883,moegliche Folgewirkung
+ETH/USDT,2025-10-30 20:10:00+00:00,Trade nur im Original,2025-10-30 21:10:00+00:00,roi,1.54578583,,,,moegliche Folgewirkung
+ETH/USDT,2025-10-30 20:15:00+00:00,Trade nur in der Variante,,,,2025-10-30 21:15:00+00:00,roi,1.08629338,moegliche Folgewirkung
+ETH/USDT,2025-11-02 10:15:00+00:00,Trade nur im Original,2025-11-02 23:55:00+00:00,roi,1.00110295,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-02 10:20:00+00:00,Trade nur in der Variante,,,,2025-11-02 23:40:00+00:00,roi,1.00109981,moegliche Folgewirkung
+ETH/USDT,2025-11-03 02:25:00+00:00,Trade nur im Original,2025-11-04 16:45:00+00:00,stop_loss,-10.18959752,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-03 02:30:00+00:00,Trade nur in der Variante,,,,2025-11-04 16:50:00+00:00,stop_loss,-10.18965803,moegliche Folgewirkung
+ETH/USDT,2025-11-04 17:35:00+00:00,Trade nur im Original,2025-11-04 21:35:00+00:00,stop_loss,-10.18962367,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-04 17:40:00+00:00,Trade nur in der Variante,,,,2025-11-04 21:35:00+00:00,stop_loss,-10.18969423,moegliche Folgewirkung
+ETH/USDT,2025-11-04 21:50:00+00:00,Trade nur im Original,2025-11-04 22:10:00+00:00,roi,4.00383966,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-04 21:55:00+00:00,Trade nur in der Variante,,,,2025-11-04 22:25:00+00:00,roi,3.40143089,moegliche Folgewirkung
+ETH/USDT,2025-11-06 06:05:00+00:00,Trade nur im Original,2025-11-07 18:30:00+00:00,roi,1.00100434,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-06 06:10:00+00:00,Trade nur in der Variante,,,,2025-11-07 18:30:00+00:00,roi,1.00091184,moegliche Folgewirkung
+ETH/USDT,2025-11-08 12:10:00+00:00,Trade nur im Original,2025-11-09 12:20:00+00:00,roi,1.00087559,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-08 12:15:00+00:00,Trade nur in der Variante,,,,2025-11-09 12:15:00+00:00,roi,1.0009995,moegliche Folgewirkung
+ETH/USDT,2025-11-10 15:25:00+00:00,Trade nur im Original,2025-11-10 20:45:00+00:00,roi,1.00086681,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-10 15:30:00+00:00,Trade nur in der Variante,,,,2025-11-11 00:55:00+00:00,roi,1.00099132,moegliche Folgewirkung
+ETH/USDT,2025-11-11 21:55:00+00:00,Trade nur im Original,2025-11-12 08:30:00+00:00,roi,1.0009093,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-11 22:00:00+00:00,Trade nur in der Variante,,,,2025-11-12 08:25:00+00:00,roi,1.00093289,moegliche Folgewirkung
+ETH/USDT,2025-11-12 15:05:00+00:00,Trade nur im Original,2025-11-13 07:25:00+00:00,roi,1.00098526,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-12 15:10:00+00:00,Trade nur in der Variante,,,,2025-11-13 06:55:00+00:00,roi,1.00091258,moegliche Folgewirkung
+ETH/USDT,2025-11-13 14:25:00+00:00,Trade nur im Original,2025-11-14 12:30:00+00:00,stop_loss,-10.18960083,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-13 14:30:00+00:00,Trade nur in der Variante,,,,2025-11-14 12:35:00+00:00,stop_loss,-10.18975273,moegliche Folgewirkung
+ETH/USDT,2025-11-14 12:50:00+00:00,Trade nur im Original,2025-11-14 14:05:00+00:00,roi,1.00104051,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-14 12:55:00+00:00,Trade nur in der Variante,,,,2025-11-14 14:20:00+00:00,roi,1.00086224,moegliche Folgewirkung
+ETH/USDT,2025-11-15 21:05:00+00:00,Trade nur im Original,2025-11-16 05:15:00+00:00,roi,1.00111051,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-15 21:10:00+00:00,Trade nur in der Variante,,,,2025-11-16 07:55:00+00:00,roi,1.00092429,moegliche Folgewirkung
+ETH/USDT,2025-11-16 12:05:00+00:00,Trade nur im Original,2025-11-17 09:15:00+00:00,roi,1.00104791,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-16 12:10:00+00:00,Trade nur in der Variante,,,,2025-11-17 09:15:00+00:00,roi,1.00082273,moegliche Folgewirkung
+ETH/USDT,2025-11-17 14:05:00+00:00,Trade nur im Original,2025-11-17 14:35:00+00:00,roi,2.0018871,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-17 14:10:00+00:00,Trade nur in der Variante,,,,2025-11-17 14:40:00+00:00,roi,2.44262464,moegliche Folgewirkung
+ETH/USDT,2025-11-17 20:20:00+00:00,Trade nur im Original,2025-11-17 22:05:00+00:00,roi,1.00089681,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-17 20:25:00+00:00,Trade nur in der Variante,,,,2025-11-17 22:40:00+00:00,roi,1.00081275,moegliche Folgewirkung
+ETH/USDT,2025-11-18 22:05:00+00:00,Trade nur im Original,2025-11-20 19:00:00+00:00,stop_loss,-10.18967758,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-18 22:10:00+00:00,Trade nur in der Variante,,,,2025-11-20 19:00:00+00:00,stop_loss,-10.18972459,moegliche Folgewirkung
+ETH/USDT,2025-11-21 10:10:00+00:00,Trade nur im Original,2025-11-21 12:40:00+00:00,roi,1.00092801,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-21 10:15:00+00:00,Trade nur in der Variante,,,,2025-11-21 12:40:00+00:00,roi,1.00087343,moegliche Folgewirkung
+ETH/USDT,2025-11-22 08:45:00+00:00,Trade nur im Original,2025-11-22 22:15:00+00:00,roi,1.0009612,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-22 08:50:00+00:00,Trade nur in der Variante,,,,2025-11-22 22:15:00+00:00,roi,1.00105257,moegliche Folgewirkung
+ETH/USDT,2025-11-23 07:15:00+00:00,Trade nur im Original,2025-11-23 12:15:00+00:00,roi,1.00106983,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-23 07:20:00+00:00,Trade nur in der Variante,,,,2025-11-23 09:40:00+00:00,roi,1.00080984,moegliche Folgewirkung
+ETH/USDT,2025-11-23 17:30:00+00:00,Trade nur im Original,2025-11-23 21:50:00+00:00,roi,1.00087296,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-23 17:35:00+00:00,Trade nur in der Variante,,,,2025-11-23 19:35:00+00:00,roi,1.00104835,moegliche Folgewirkung
+ETH/USDT,2025-11-24 00:25:00+00:00,Trade nur im Original,2025-11-24 02:00:00+00:00,roi,1.00105353,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-24 00:30:00+00:00,Trade nur in der Variante,,,,2025-11-24 02:00:00+00:00,roi,1.00100085,moegliche Folgewirkung
+ETH/USDT,2025-11-25 08:10:00+00:00,Trade nur im Original,2025-11-25 17:10:00+00:00,roi,1.00085217,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-25 08:15:00+00:00,Trade nur in der Variante,,,,2025-11-25 13:15:00+00:00,roi,1.00094866,moegliche Folgewirkung
+ETH/USDT,2025-11-26 04:05:00+00:00,Trade nur im Original,2025-11-26 17:25:00+00:00,roi,1.00096638,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-26 04:10:00+00:00,Trade nur in der Variante,,,,2025-11-26 17:25:00+00:00,roi,1.00096964,moegliche Folgewirkung
+ETH/USDT,2025-11-27 13:30:00+00:00,Trade nur im Original,2025-11-27 18:40:00+00:00,roi,1.00097552,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-27 13:35:00+00:00,Trade nur in der Variante,,,,2025-11-27 16:40:00+00:00,roi,1.00094635,moegliche Folgewirkung
+ETH/USDT,2025-11-29 18:10:00+00:00,Trade nur im Original,2025-11-30 01:05:00+00:00,roi,1.00115053,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-29 18:15:00+00:00,Trade nur in der Variante,,,,2025-11-30 01:05:00+00:00,roi,1.001138,moegliche Folgewirkung
+ETH/USDT,2025-11-30 03:25:00+00:00,Trade nur im Original,2025-11-30 12:40:00+00:00,roi,1.00092269,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-30 03:30:00+00:00,Trade nur in der Variante,,,,2025-11-30 12:40:00+00:00,roi,1.00085084,moegliche Folgewirkung
+ETH/USDT,2025-12-01 03:45:00+00:00,Trade nur im Original,2025-12-02 14:05:00+00:00,roi,1.00082259,,,,moegliche Folgewirkung
+ETH/USDT,2025-12-01 03:50:00+00:00,Trade nur in der Variante,,,,2025-12-02 14:05:00+00:00,roi,1.00085609,moegliche Folgewirkung
+ETH/USDT,2025-12-04 13:20:00+00:00,Trade nur im Original,2025-12-04 15:35:00+00:00,roi,1.00108056,,,,moegliche Folgewirkung
+ETH/USDT,2025-12-04 13:25:00+00:00,Trade nur in der Variante,,,,2025-12-04 15:35:00+00:00,roi,1.00090782,moegliche Folgewirkung
+ETH/USDT,2025-12-04 19:30:00+00:00,Trade nur im Original,2025-12-04 20:40:00+00:00,roi,1.0008943,,,,moegliche Folgewirkung
+ETH/USDT,2025-12-04 19:35:00+00:00,Trade nur in der Variante,,,,2025-12-04 20:45:00+00:00,roi,1.00105179,moegliche Folgewirkung
+ETH/USDT,2025-12-05 10:00:00+00:00,Trade nur im Original,2025-12-08 09:00:00+00:00,roi,1.00096444,,,,moegliche Folgewirkung
+ETH/USDT,2025-12-05 10:05:00+00:00,Trade nur in der Variante,,,,2025-12-08 09:05:00+00:00,roi,1.00087232,moegliche Folgewirkung
+ETH/USDT,2025-12-11 01:30:00+00:00,Trade nur im Original,2025-12-15 17:50:00+00:00,stop_loss,-10.18969326,,,,moegliche Folgewirkung
+ETH/USDT,2025-12-11 01:35:00+00:00,Trade nur in der Variante,,,,2025-12-15 17:50:00+00:00,stop_loss,-10.18957063,moegliche Folgewirkung
+ETH/USDT,2025-12-15 18:45:00+00:00,Trade nur im Original,2025-12-15 23:00:00+00:00,roi,1.00107818,,,,moegliche Folgewirkung
+ETH/USDT,2025-12-15 18:50:00+00:00,Trade nur in der Variante,,,,2025-12-15 23:00:00+00:00,roi,1.00112266,moegliche Folgewirkung
+ETH/USDT,2025-12-16 04:55:00+00:00,Trade nur im Original,2025-12-16 06:25:00+00:00,roi,1.00103569,,,,moegliche Folgewirkung
+ETH/USDT,2025-12-16 05:00:00+00:00,Trade nur in der Variante,,,,2025-12-16 10:40:00+00:00,roi,1.00112589,moegliche Folgewirkung
+ETH/USDT,2025-12-16 14:10:00+00:00,Trade nur im Original,2025-12-16 15:50:00+00:00,roi,1.00102652,,,,moegliche Folgewirkung
+ETH/USDT,2025-12-16 14:15:00+00:00,Trade nur in der Variante,,,,2025-12-16 15:50:00+00:00,roi,1.00108043,moegliche Folgewirkung
+ETH/USDT,2025-12-17 05:10:00+00:00,Trade nur im Original,2025-12-17 14:55:00+00:00,roi,1.00107533,,,,moegliche Folgewirkung
+ETH/USDT,2025-12-17 05:15:00+00:00,Trade nur in der Variante,,,,2025-12-17 14:55:00+00:00,roi,1.00108718,moegliche Folgewirkung
+ETH/USDT,2025-12-17 16:50:00+00:00,Trade nur im Original,2025-12-18 13:00:00+00:00,roi,1.00113542,,,,moegliche Folgewirkung
+ETH/USDT,2025-12-17 16:55:00+00:00,Trade nur in der Variante,,,,2025-12-18 13:05:00+00:00,roi,1.00097955,moegliche Folgewirkung
+ETH/USDT,2025-12-18 17:45:00+00:00,Trade nur im Original,2025-12-19 03:25:00+00:00,roi,1.00095737,,,,moegliche Folgewirkung
+ETH/USDT,2025-12-18 17:50:00+00:00,Trade nur in der Variante,,,,2025-12-19 03:10:00+00:00,roi,1.00116485,moegliche Folgewirkung
+ETH/USDT,2025-12-20 07:25:00+00:00,Trade nur im Original,2025-12-22 00:10:00+00:00,roi,1.00108502,,,,moegliche Folgewirkung
+ETH/USDT,2025-12-20 07:30:00+00:00,Trade nur in der Variante,,,,2025-12-22 00:10:00+00:00,roi,1.00100645,moegliche Folgewirkung
+ETH/USDT,2025-12-22 20:05:00+00:00,Trade nur im Original,2025-12-23 00:15:00+00:00,roi,1.00101061,,,,moegliche Folgewirkung
+ETH/USDT,2025-12-22 20:10:00+00:00,Trade nur in der Variante,,,,2025-12-23 00:15:00+00:00,roi,1.00111389,moegliche Folgewirkung
+ETH/USDT,2025-12-23 03:15:00+00:00,Trade nur im Original,2025-12-29 03:35:00+00:00,roi,1.00113771,,,,moegliche Folgewirkung
+ETH/USDT,2025-12-23 03:20:00+00:00,Trade nur in der Variante,,,,2025-12-29 03:35:00+00:00,roi,1.00099481,moegliche Folgewirkung
+ETH/USDT,2025-12-29 10:10:00+00:00,Trade nur im Original,2025-12-31 14:05:00+00:00,roi,1.00107027,,,,moegliche Folgewirkung
+ETH/USDT,2025-12-29 10:15:00+00:00,Trade nur in der Variante,,,,2025-12-31 14:05:00+00:00,roi,1.0011512,moegliche Folgewirkung
+SOL/USDT,2025-01-01 04:45:00+00:00,Trade nur im Original,2025-01-01 15:45:00+00:00,roi,1.00018796,,,,erste Kippstelle dieses Paares
+SOL/USDT,2025-01-01 04:50:00+00:00,Trade nur in der Variante,,,,2025-01-01 15:45:00+00:00,roi,1.0006319,moegliche Folgewirkung
+SOL/USDT,2025-01-04 15:55:00+00:00,Trade nur im Original,2025-01-04 22:55:00+00:00,roi,1.00142579,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-04 16:00:00+00:00,Trade nur in der Variante,,,,2025-01-04 22:55:00+00:00,roi,1.00249035,moegliche Folgewirkung
+SOL/USDT,2025-01-05 05:55:00+00:00,Trade nur im Original,2025-01-06 14:45:00+00:00,roi,0.99927939,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-05 06:00:00+00:00,Trade nur in der Variante,,,,2025-01-06 14:45:00+00:00,roi,1.00021995,moegliche Folgewirkung
+SOL/USDT,2025-01-07 11:55:00+00:00,Trade nur im Original,2025-01-08 17:05:00+00:00,stop_loss,-10.18532564,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-07 12:00:00+00:00,Trade nur in der Variante,,,,2025-01-08 17:05:00+00:00,stop_loss,-10.1862647,moegliche Folgewirkung
+SOL/USDT,2025-01-08 17:45:00+00:00,Trade nur im Original,2025-01-08 18:25:00+00:00,roi,2.00034604,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-08 17:50:00+00:00,Trade nur in der Variante,,,,2025-01-08 18:25:00+00:00,roi,2.00057432,moegliche Folgewirkung
+SOL/USDT,2025-01-09 08:05:00+00:00,Trade nur im Original,2025-01-09 15:50:00+00:00,roi,0.99995208,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-09 08:10:00+00:00,Trade nur in der Variante,,,,2025-01-09 09:15:00+00:00,roi,1.00336072,moegliche Folgewirkung
+SOL/USDT,2025-01-09 14:20:00+00:00,Trade nur in der Variante,,,,2025-01-09 15:25:00+00:00,roi,0.99945634,moegliche Folgewirkung
+SOL/USDT,2025-01-09 20:45:00+00:00,Trade nur im Original,2025-01-09 22:30:00+00:00,roi,0.99929823,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-09 20:50:00+00:00,Trade nur in der Variante,,,,2025-01-09 22:30:00+00:00,roi,1.00191725,moegliche Folgewirkung
+SOL/USDT,2025-01-10 13:55:00+00:00,Trade nur im Original,2025-01-10 17:50:00+00:00,roi,1.00046293,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-10 14:00:00+00:00,Trade nur in der Variante,,,,2025-01-10 15:45:00+00:00,roi,0.99980646,moegliche Folgewirkung
+SOL/USDT,2025-01-12 01:35:00+00:00,Trade nur im Original,2025-01-12 15:15:00+00:00,roi,1.00104054,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-12 01:40:00+00:00,Trade nur in der Variante,,,,2025-01-12 15:15:00+00:00,roi,1.00155509,moegliche Folgewirkung
+SOL/USDT,2025-01-12 22:35:00+00:00,Trade nur im Original,2025-01-13 00:25:00+00:00,roi,1.00136189,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-12 22:40:00+00:00,Trade nur in der Variante,,,,2025-01-13 00:25:00+00:00,roi,0.99988728,moegliche Folgewirkung
+SOL/USDT,2025-01-13 03:00:00+00:00,Trade nur im Original,2025-01-14 09:20:00+00:00,roi,0.99907942,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-13 03:05:00+00:00,Trade nur in der Variante,,,,2025-01-14 09:25:00+00:00,roi,1.00019155,moegliche Folgewirkung
+SOL/USDT,2025-01-14 12:30:00+00:00,Trade nur im Original,2025-01-14 13:30:00+00:00,roi,1.00064337,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-14 12:35:00+00:00,Trade nur in der Variante,,,,2025-01-14 14:25:00+00:00,roi,1.00258253,moegliche Folgewirkung
+SOL/USDT,2025-01-15 10:10:00+00:00,Trade nur im Original,2025-01-15 13:30:00+00:00,roi,1.0011687,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-15 10:15:00+00:00,Trade nur in der Variante,,,,2025-01-15 13:30:00+00:00,roi,1.00149006,moegliche Folgewirkung
+SOL/USDT,2025-01-16 09:15:00+00:00,Trade nur im Original,2025-01-16 11:10:00+00:00,roi,1.00144232,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-16 09:20:00+00:00,Trade nur in der Variante,,,,2025-01-16 11:10:00+00:00,roi,1.00078056,moegliche Folgewirkung
+SOL/USDT,2025-01-17 18:20:00+00:00,Trade nur im Original,2025-01-17 20:40:00+00:00,roi,1.00228088,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-17 18:25:00+00:00,Trade nur in der Variante,,,,2025-01-17 20:40:00+00:00,roi,1.00100826,moegliche Folgewirkung
+SOL/USDT,2025-01-20 12:50:00+00:00,Trade nur im Original,2025-01-20 13:55:00+00:00,roi,1.00138991,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-20 12:55:00+00:00,Trade nur in der Variante,,,,2025-01-20 13:55:00+00:00,roi,1.00233458,moegliche Folgewirkung
+SOL/USDT,2025-01-23 02:45:00+00:00,Trade nur im Original,2025-01-23 14:40:00+00:00,roi,1.00279222,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-23 02:50:00+00:00,Trade nur in der Variante,,,,2025-01-23 14:40:00+00:00,roi,1.00192323,moegliche Folgewirkung
+SOL/USDT,2025-01-24 15:50:00+00:00,Trade nur im Original,2025-01-27 00:50:00+00:00,stop_loss,-10.18619785,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-24 15:55:00+00:00,Trade nur in der Variante,,,,2025-01-27 01:10:00+00:00,stop_loss,-10.18922933,moegliche Folgewirkung
+SOL/USDT,2025-01-27 01:40:00+00:00,Trade nur im Original,2025-01-28 04:30:00+00:00,roi,1.00259653,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-27 01:45:00+00:00,Trade nur in der Variante,,,,2025-01-28 04:25:00+00:00,roi,1.00295031,moegliche Folgewirkung
+SOL/USDT,2025-01-28 19:15:00+00:00,Trade nur im Original,2025-01-29 07:20:00+00:00,roi,1.00168661,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-28 19:20:00+00:00,Trade nur in der Variante,,,,2025-01-29 07:20:00+00:00,roi,1.00121752,moegliche Folgewirkung
+SOL/USDT,2025-01-29 10:10:00+00:00,Trade nur im Original,2025-01-29 19:40:00+00:00,roi,1.00033677,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-29 10:15:00+00:00,Trade nur in der Variante,,,,2025-01-29 19:40:00+00:00,roi,0.99914293,moegliche Folgewirkung
+SOL/USDT,2025-01-30 00:20:00+00:00,Trade nur im Original,2025-01-30 01:15:00+00:00,roi,2.00141967,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-30 00:25:00+00:00,Trade nur in der Variante,,,,2025-01-30 01:15:00+00:00,roi,2.00089964,moegliche Folgewirkung
+SOL/USDT,2025-01-31 03:40:00+00:00,Trade nur im Original,2025-01-31 11:55:00+00:00,roi,1.00167644,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-31 03:45:00+00:00,Trade nur in der Variante,,,,2025-01-31 11:40:00+00:00,roi,1.00289925,moegliche Folgewirkung
+SOL/USDT,2025-01-31 15:05:00+00:00,Trade nur im Original,2025-02-01 23:10:00+00:00,stop_loss,-10.18873279,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-31 15:10:00+00:00,Trade nur in der Variante,,,,2025-02-01 23:10:00+00:00,stop_loss,-10.18661548,moegliche Folgewirkung
+SOL/USDT,2025-02-02 04:10:00+00:00,Trade nur im Original,2025-02-02 05:50:00+00:00,roi,0.99994191,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-02 04:15:00+00:00,Trade nur in der Variante,,,,2025-02-02 05:30:00+00:00,roi,1.00332549,moegliche Folgewirkung
+SOL/USDT,2025-02-02 11:55:00+00:00,Trade nur im Original,2025-02-02 13:35:00+00:00,roi,0.99969856,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-02 12:00:00+00:00,Trade nur in der Variante,,,,2025-02-02 13:10:00+00:00,roi,1.00165213,moegliche Folgewirkung
+SOL/USDT,2025-02-02 17:10:00+00:00,Trade nur im Original,2025-02-03 01:45:00+00:00,stop_loss,-10.18615145,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-02 17:15:00+00:00,Trade nur in der Variante,,,,2025-02-03 01:45:00+00:00,stop_loss,-10.18612922,moegliche Folgewirkung
+SOL/USDT,2025-02-03 02:15:00+00:00,Trade nur im Original,2025-02-03 03:00:00+00:00,roi,2.00340165,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-03 02:20:00+00:00,Trade nur in der Variante,,,,2025-02-03 03:05:00+00:00,roi,2.00013519,moegliche Folgewirkung
+SOL/USDT,2025-02-04 06:05:00+00:00,Trade nur im Original,2025-02-04 10:40:00+00:00,roi,1.00238757,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-04 06:10:00+00:00,Trade nur in der Variante,,,,2025-02-04 10:40:00+00:00,roi,1.00226902,moegliche Folgewirkung
+SOL/USDT,2025-02-04 20:30:00+00:00,Trade nur im Original,2025-02-16 21:10:00+00:00,stop_loss,-10.18757574,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-04 20:35:00+00:00,Trade nur in der Variante,,,,2025-02-05 01:00:00+00:00,roi,1.00291283,moegliche Folgewirkung
+SOL/USDT,2025-02-05 16:45:00+00:00,Trade nur in der Variante,,,,2025-02-06 04:20:00+00:00,roi,1.00150231,moegliche Folgewirkung
+SOL/USDT,2025-02-06 11:45:00+00:00,Trade nur in der Variante,,,,2025-02-07 14:05:00+00:00,roi,1.00301262,moegliche Folgewirkung
+SOL/USDT,2025-02-07 21:20:00+00:00,Trade nur in der Variante,,,,2025-02-08 00:10:00+00:00,roi,1.00247535,moegliche Folgewirkung
+SOL/USDT,2025-02-08 05:30:00+00:00,Trade nur in der Variante,,,,2025-02-08 07:50:00+00:00,roi,0.99919716,moegliche Folgewirkung
+SOL/USDT,2025-02-09 14:10:00+00:00,Trade nur in der Variante,,,,2025-02-09 15:10:00+00:00,roi,1.17493283,moegliche Folgewirkung
+SOL/USDT,2025-02-09 22:15:00+00:00,Trade nur in der Variante,,,,2025-02-09 23:15:00+00:00,roi,0.99943116,moegliche Folgewirkung
+SOL/USDT,2025-02-11 10:15:00+00:00,Trade nur in der Variante,,,,2025-02-14 17:45:00+00:00,roi,1.00051849,moegliche Folgewirkung
+SOL/USDT,2025-02-15 07:10:00+00:00,Trade nur in der Variante,,,,2025-02-17 18:40:00+00:00,stop_loss,-10.18999594,moegliche Folgewirkung
+SOL/USDT,2025-02-17 04:30:00+00:00,Trade nur im Original,2025-02-18 06:30:00+00:00,stop_loss,-10.18567821,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-18 00:40:00+00:00,Trade nur in der Variante,,,,2025-02-18 01:50:00+00:00,roi,1.00025583,moegliche Folgewirkung
+SOL/USDT,2025-02-18 07:15:00+00:00,Trade nur im Original,2025-02-18 09:20:00+00:00,roi,1.00164891,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-18 07:20:00+00:00,Trade nur in der Variante,,,,2025-02-18 09:20:00+00:00,roi,0.99978315,moegliche Folgewirkung
+SOL/USDT,2025-02-19 05:10:00+00:00,Trade nur im Original,2025-02-19 06:10:00+00:00,roi,1.30243754,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-19 05:15:00+00:00,Trade nur in der Variante,,,,2025-02-19 06:45:00+00:00,roi,1.00150377,moegliche Folgewirkung
+SOL/USDT,2025-02-21 15:55:00+00:00,Trade nur im Original,2025-02-21 17:05:00+00:00,roi,0.99889143,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-21 16:00:00+00:00,Trade nur in der Variante,,,,2025-02-21 17:05:00+00:00,roi,1.00006769,moegliche Folgewirkung
+SOL/USDT,2025-02-21 19:35:00+00:00,Trade nur im Original,2025-02-22 01:35:00+00:00,roi,0.99872831,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-21 19:40:00+00:00,Trade nur in der Variante,,,,2025-02-22 00:50:00+00:00,roi,1.00047921,moegliche Folgewirkung
+SOL/USDT,2025-02-23 12:45:00+00:00,Trade nur im Original,2025-02-24 15:25:00+00:00,stop_loss,-10.18702865,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-23 12:50:00+00:00,Trade nur in der Variante,,,,2025-02-24 15:25:00+00:00,stop_loss,-10.18526035,moegliche Folgewirkung
+SOL/USDT,2025-02-24 15:35:00+00:00,Trade nur im Original,2025-02-24 17:20:00+00:00,roi,1.00101889,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-24 15:40:00+00:00,Trade nur in der Variante,,,,2025-02-24 17:15:00+00:00,roi,0.99840589,moegliche Folgewirkung
+SOL/USDT,2025-02-24 23:05:00+00:00,Trade nur im Original,2025-02-25 19:55:00+00:00,roi,1.00428462,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-24 23:10:00+00:00,Trade nur in der Variante,,,,2025-02-25 20:35:00+00:00,roi,1.00403032,moegliche Folgewirkung
+SOL/USDT,2025-02-26 01:05:00+00:00,Trade nur im Original,2025-02-26 03:00:00+00:00,roi,1.00006201,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-26 01:10:00+00:00,Trade nur in der Variante,,,,2025-02-26 02:55:00+00:00,roi,1.00115877,moegliche Folgewirkung
+SOL/USDT,2025-02-26 12:15:00+00:00,Trade nur im Original,2025-02-26 15:10:00+00:00,roi,0.99822206,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-26 12:20:00+00:00,Trade nur in der Variante,,,,2025-02-26 15:10:00+00:00,roi,0.99891521,moegliche Folgewirkung
+SOL/USDT,2025-02-26 18:10:00+00:00,Trade nur im Original,2025-02-26 21:20:00+00:00,roi,1.00343411,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-26 18:15:00+00:00,Trade nur in der Variante,,,,2025-02-26 21:20:00+00:00,roi,1.00370274,moegliche Folgewirkung
+SOL/USDT,2025-02-27 19:55:00+00:00,Trade nur im Original,2025-02-27 21:15:00+00:00,roi,1.00167165,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-27 20:00:00+00:00,Trade nur in der Variante,,,,2025-02-27 21:15:00+00:00,roi,1.00202397,moegliche Folgewirkung
+SOL/USDT,2025-02-28 02:05:00+00:00,Trade nur im Original,2025-02-28 11:25:00+00:00,roi,0.99804137,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-28 02:10:00+00:00,Trade nur in der Variante,,,,2025-02-28 11:25:00+00:00,roi,1.00407042,moegliche Folgewirkung
+SOL/USDT,2025-03-01 06:40:00+00:00,Trade nur im Original,2025-03-02 01:20:00+00:00,roi,0.99960431,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-01 06:45:00+00:00,Trade nur in der Variante,,,,2025-03-02 01:20:00+00:00,roi,0.99918786,moegliche Folgewirkung
+SOL/USDT,2025-03-02 14:25:00+00:00,Trade nur im Original,2025-03-02 15:25:00+00:00,roi,1.14626543,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-02 14:30:00+00:00,Trade nur in der Variante,,,,2025-03-02 15:25:00+00:00,roi,2.00206123,moegliche Folgewirkung
+SOL/USDT,2025-03-03 02:35:00+00:00,Trade nur im Original,2025-03-03 18:15:00+00:00,stop_loss,-10.18530605,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-03 02:40:00+00:00,Trade nur in der Variante,,,,2025-03-03 18:15:00+00:00,stop_loss,-10.1870732,moegliche Folgewirkung
+SOL/USDT,2025-03-03 20:25:00+00:00,Trade nur im Original,2025-03-04 21:25:00+00:00,roi,0.99993636,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-03 20:30:00+00:00,Trade nur in der Variante,,,,2025-03-04 21:25:00+00:00,roi,0.99893743,moegliche Folgewirkung
+SOL/USDT,2025-03-05 04:40:00+00:00,Trade nur im Original,2025-03-05 06:45:00+00:00,roi,1.00012601,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-05 04:45:00+00:00,Trade nur in der Variante,,,,2025-03-05 06:45:00+00:00,roi,0.99953319,moegliche Folgewirkung
+SOL/USDT,2025-03-05 14:10:00+00:00,Trade nur im Original,2025-03-05 19:05:00+00:00,roi,1.00260827,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-05 14:15:00+00:00,Trade nur in der Variante,,,,2025-03-05 19:05:00+00:00,roi,1.00127063,moegliche Folgewirkung
+SOL/USDT,2025-03-06 14:05:00+00:00,Trade nur im Original,2025-03-06 15:15:00+00:00,roi,0.99993862,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-06 14:10:00+00:00,Trade nur in der Variante,,,,2025-03-06 15:15:00+00:00,roi,1.00058951,moegliche Folgewirkung
+SOL/USDT,2025-03-06 17:55:00+00:00,Trade nur im Original,2025-03-06 21:10:00+00:00,roi,1.0040324,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-06 18:00:00+00:00,Trade nur in der Variante,,,,2025-03-06 22:00:00+00:00,roi,1.00143817,moegliche Folgewirkung
+SOL/USDT,2025-03-07 01:10:00+00:00,Trade nur im Original,2025-03-07 01:40:00+00:00,roi,2.0030898,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-07 01:15:00+00:00,Trade nur in der Variante,,,,2025-03-07 01:45:00+00:00,roi,1.99916971,moegliche Folgewirkung
+SOL/USDT,2025-03-08 22:30:00+00:00,Trade nur im Original,2025-03-09 01:00:00+00:00,roi,0.99815585,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-08 22:35:00+00:00,Trade nur in der Variante,,,,2025-03-09 04:55:00+00:00,roi,1.00335005,moegliche Folgewirkung
+SOL/USDT,2025-03-09 11:05:00+00:00,Trade nur im Original,2025-03-10 14:05:00+00:00,stop_loss,-10.18998753,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-09 11:10:00+00:00,Trade nur in der Variante,,,,2025-03-10 14:10:00+00:00,stop_loss,-10.1870718,moegliche Folgewirkung
+SOL/USDT,2025-03-10 15:10:00+00:00,Trade nur im Original,2025-03-11 05:15:00+00:00,roi,1.00262786,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-10 15:15:00+00:00,Trade nur in der Variante,,,,2025-03-11 05:55:00+00:00,roi,1.00036765,moegliche Folgewirkung
+SOL/USDT,2025-03-12 04:15:00+00:00,Trade nur im Original,2025-03-12 08:10:00+00:00,roi,0.99694309,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-12 04:20:00+00:00,Trade nur in der Variante,,,,2025-03-12 08:00:00+00:00,roi,1.00115328,moegliche Folgewirkung
+SOL/USDT,2025-03-12 14:45:00+00:00,Trade nur im Original,2025-03-12 21:10:00+00:00,roi,1.00043199,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-12 14:50:00+00:00,Trade nur in der Variante,,,,2025-03-12 21:10:00+00:00,roi,0.99966324,moegliche Folgewirkung
+SOL/USDT,2025-03-13 18:00:00+00:00,Trade nur im Original,2025-03-13 19:00:00+00:00,roi,0.99847082,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-13 18:05:00+00:00,Trade nur in der Variante,,,,2025-03-13 22:50:00+00:00,roi,1.00371295,moegliche Folgewirkung
+SOL/USDT,2025-03-16 02:30:00+00:00,Trade nur im Original,2025-03-24 03:10:00+00:00,roi,0.99959852,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-16 02:35:00+00:00,Trade nur in der Variante,,,,2025-03-24 03:10:00+00:00,roi,0.99853343,moegliche Folgewirkung
+SOL/USDT,2025-03-24 22:40:00+00:00,Trade nur im Original,2025-03-25 09:45:00+00:00,roi,0.99865793,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-24 22:45:00+00:00,Trade nur in der Variante,,,,2025-03-25 09:45:00+00:00,roi,0.99899748,moegliche Folgewirkung
+SOL/USDT,2025-03-25 22:40:00+00:00,Trade nur im Original,2025-03-26 08:40:00+00:00,roi,0.99932875,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-25 22:45:00+00:00,Trade nur in der Variante,,,,2025-03-26 08:40:00+00:00,roi,0.99899517,moegliche Folgewirkung
+SOL/USDT,2025-03-26 14:55:00+00:00,Trade nur im Original,2025-03-29 06:15:00+00:00,stop_loss,-10.1864414,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-26 15:00:00+00:00,Trade nur in der Variante,,,,2025-03-29 07:45:00+00:00,stop_loss,-10.18713667,moegliche Folgewirkung
+SOL/USDT,2025-03-29 06:25:00+00:00,Trade nur im Original,2025-04-01 08:15:00+00:00,roi,0.99706655,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-29 12:00:00+00:00,Trade nur in der Variante,,,,2025-03-30 18:45:00+00:00,roi,1.00390188,moegliche Folgewirkung
+SOL/USDT,2025-03-31 18:10:00+00:00,Trade nur in der Variante,,,,2025-04-01 03:00:00+00:00,roi,1.00033604,moegliche Folgewirkung
+SOL/USDT,2025-04-01 18:30:00+00:00,Trade nur im Original,2025-04-02 13:45:00+00:00,roi,1.00208958,,,,moegliche Folgewirkung
+SOL/USDT,2025-04-01 18:35:00+00:00,Trade nur in der Variante,,,,2025-04-02 14:55:00+00:00,roi,1.00094785,moegliche Folgewirkung
+SOL/USDT,2025-04-02 23:30:00+00:00,Trade nur im Original,2025-04-04 15:15:00+00:00,roi,1.00321162,,,,moegliche Folgewirkung
+SOL/USDT,2025-04-02 23:35:00+00:00,Trade nur in der Variante,,,,2025-04-03 02:50:00+00:00,roi,0.99836328,moegliche Folgewirkung
+SOL/USDT,2025-04-03 11:15:00+00:00,Trade nur in der Variante,,,,2025-04-04 07:35:00+00:00,roi,1.00133888,moegliche Folgewirkung
+SOL/USDT,2025-04-04 10:55:00+00:00,Trade nur in der Variante,,,,2025-04-04 13:00:00+00:00,roi,0.9979658,moegliche Folgewirkung
+SOL/USDT,2025-04-04 23:45:00+00:00,Trade nur im Original,2025-04-06 18:15:00+00:00,stop_loss,-10.18427593,,,,moegliche Folgewirkung
+SOL/USDT,2025-04-04 23:50:00+00:00,Trade nur in der Variante,,,,2025-04-06 18:00:00+00:00,stop_loss,-10.18674028,moegliche Folgewirkung
+SOL/USDT,2025-04-06 19:20:00+00:00,Trade nur im Original,2025-04-07 06:45:00+00:00,stop_loss,-10.18629856,,,,moegliche Folgewirkung
+SOL/USDT,2025-04-06 19:25:00+00:00,Trade nur in der Variante,,,,2025-04-07 06:45:00+00:00,stop_loss,-10.18999389,moegliche Folgewirkung
+SOL/USDT,2025-04-07 07:05:00+00:00,Trade nur im Original,2025-04-07 08:15:00+00:00,roi,0.99879998,,,,moegliche Folgewirkung
+SOL/USDT,2025-04-07 07:10:00+00:00,Trade nur in der Variante,,,,2025-04-07 08:15:00+00:00,roi,1.00533655,moegliche Folgewirkung
+SOL/USDT,2025-04-08 06:45:00+00:00,Trade nur im Original,2025-04-08 11:30:00+00:00,roi,0.99733751,,,,moegliche Folgewirkung
+SOL/USDT,2025-04-08 06:50:00+00:00,Trade nur in der Variante,,,,2025-04-08 11:30:00+00:00,roi,1.00074279,moegliche Folgewirkung
+SOL/USDT,2025-04-08 15:35:00+00:00,Trade nur im Original,2025-04-09 17:00:00+00:00,roi,0.99902237,,,,moegliche Folgewirkung
+SOL/USDT,2025-04-08 15:40:00+00:00,Trade nur in der Variante,,,,2025-04-09 17:00:00+00:00,roi,1.00350273,moegliche Folgewirkung
+SOL/USDT,2025-04-10 01:40:00+00:00,Trade nur im Original,2025-04-11 10:20:00+00:00,roi,1.00197101,,,,moegliche Folgewirkung
+SOL/USDT,2025-04-10 01:45:00+00:00,Trade nur in der Variante,,,,2025-04-11 09:35:00+00:00,roi,1.00309945,moegliche Folgewirkung
+SOL/USDT,2025-04-13 05:20:00+00:00,Trade nur im Original,2025-04-13 09:55:00+00:00,roi,0.99870701,,,,moegliche Folgewirkung
+SOL/USDT,2025-04-13 05:25:00+00:00,Trade nur in der Variante,,,,2025-04-13 17:20:00+00:00,roi,0.99824579,moegliche Folgewirkung
+SOL/USDT,2025-04-15 18:35:00+00:00,Trade nur im Original,2025-04-16 15:25:00+00:00,roi,1.00333126,,,,moegliche Folgewirkung
+SOL/USDT,2025-04-15 18:40:00+00:00,Trade nur in der Variante,,,,2025-04-16 15:25:00+00:00,roi,1.00399113,moegliche Folgewirkung
+SOL/USDT,2025-04-16 18:05:00+00:00,Trade nur im Original,2025-04-16 19:05:00+00:00,roi,1.33765048,,,,moegliche Folgewirkung
+SOL/USDT,2025-04-16 18:10:00+00:00,Trade nur in der Variante,,,,2025-04-16 19:10:00+00:00,roi,1.42170201,moegliche Folgewirkung
+SOL/USDT,2025-04-17 14:45:00+00:00,Trade nur im Original,2025-04-17 15:50:00+00:00,roi,0.99831441,,,,moegliche Folgewirkung
+SOL/USDT,2025-04-17 14:50:00+00:00,Trade nur in der Variante,,,,2025-04-17 15:50:00+00:00,roi,0.99876907,moegliche Folgewirkung
+SOL/USDT,2025-04-18 11:00:00+00:00,Trade nur im Original,2025-04-19 02:05:00+00:00,roi,1.00136615,,,,moegliche Folgewirkung
+SOL/USDT,2025-04-18 11:05:00+00:00,Trade nur in der Variante,,,,2025-04-19 02:05:00+00:00,roi,1.00208499,moegliche Folgewirkung
+SOL/USDT,2025-04-20 07:35:00+00:00,Trade nur im Original,2025-04-21 00:25:00+00:00,roi,0.99816803,,,,moegliche Folgewirkung
+SOL/USDT,2025-04-20 07:40:00+00:00,Trade nur in der Variante,,,,2025-04-21 00:25:00+00:00,roi,1.00413252,moegliche Folgewirkung
+SOL/USDT,2025-04-21 17:30:00+00:00,Trade nur im Original,2025-04-21 19:50:00+00:00,roi,1.00423676,,,,moegliche Folgewirkung
+SOL/USDT,2025-04-21 17:35:00+00:00,Trade nur in der Variante,,,,2025-04-21 19:35:00+00:00,roi,0.9975576,moegliche Folgewirkung
+SOL/USDT,2025-04-23 19:35:00+00:00,Trade nur im Original,2025-04-23 22:30:00+00:00,roi,1.00184341,,,,moegliche Folgewirkung
+SOL/USDT,2025-04-23 19:40:00+00:00,Trade nur in der Variante,,,,2025-04-23 23:05:00+00:00,roi,0.99991922,moegliche Folgewirkung
+SOL/USDT,2025-04-24 04:05:00+00:00,Trade nur im Original,2025-04-24 14:05:00+00:00,roi,1.00028266,,,,moegliche Folgewirkung
+SOL/USDT,2025-04-24 04:10:00+00:00,Trade nur in der Variante,,,,2025-04-24 14:00:00+00:00,roi,1.0023116,moegliche Folgewirkung
+SOL/USDT,2025-04-26 11:35:00+00:00,Trade nur im Original,2025-04-28 06:35:00+00:00,roi,1.00248024,,,,moegliche Folgewirkung
+SOL/USDT,2025-04-26 11:40:00+00:00,Trade nur in der Variante,,,,2025-04-27 00:15:00+00:00,roi,0.99906822,moegliche Folgewirkung
+SOL/USDT,2025-04-27 05:40:00+00:00,Trade nur in der Variante,,,,2025-04-27 08:15:00+00:00,roi,1.00328495,moegliche Folgewirkung
+SOL/USDT,2025-04-28 02:10:00+00:00,Trade nur in der Variante,,,,2025-04-28 03:20:00+00:00,roi,1.00171054,moegliche Folgewirkung
+SOL/USDT,2025-04-28 14:05:00+00:00,Trade nur im Original,2025-05-01 08:15:00+00:00,roi,1.00272335,,,,moegliche Folgewirkung
+SOL/USDT,2025-04-28 14:10:00+00:00,Trade nur in der Variante,,,,2025-05-01 08:15:00+00:00,roi,1.00280389,moegliche Folgewirkung
+SOL/USDT,2025-05-01 14:05:00+00:00,Trade nur im Original,2025-05-01 15:05:00+00:00,roi,1.00297704,,,,moegliche Folgewirkung
+SOL/USDT,2025-05-01 14:10:00+00:00,Trade nur in der Variante,,,,2025-05-01 15:10:00+00:00,roi,1.00091001,moegliche Folgewirkung
+SOL/USDT,2025-05-02 20:10:00+00:00,Trade nur im Original,2025-05-08 02:30:00+00:00,roi,0.9996353,,,,moegliche Folgewirkung
+SOL/USDT,2025-05-02 20:15:00+00:00,Trade nur in der Variante,,,,2025-05-08 01:00:00+00:00,roi,1.00020248,moegliche Folgewirkung
+SOL/USDT,2025-05-11 06:55:00+00:00,Trade nur im Original,2025-05-12 07:00:00+00:00,roi,0.99989618,,,,moegliche Folgewirkung
+SOL/USDT,2025-05-11 07:00:00+00:00,Trade nur in der Variante,,,,2025-05-12 02:20:00+00:00,roi,1.0002401,moegliche Folgewirkung
+SOL/USDT,2025-05-12 18:20:00+00:00,Trade nur im Original,2025-05-12 22:45:00+00:00,roi,1.00060922,,,,moegliche Folgewirkung
+SOL/USDT,2025-05-12 18:25:00+00:00,Trade nur in der Variante,,,,2025-05-12 22:25:00+00:00,roi,0.99996436,moegliche Folgewirkung
+SOL/USDT,2025-05-14 02:40:00+00:00,Trade nur im Original,2025-05-14 05:45:00+00:00,roi,1.00368113,,,,moegliche Folgewirkung
+SOL/USDT,2025-05-14 02:45:00+00:00,Trade nur in der Variante,,,,2025-05-14 05:50:00+00:00,roi,1.0006809,moegliche Folgewirkung
+SOL/USDT,2025-05-14 09:15:00+00:00,Trade nur im Original,2025-05-14 10:25:00+00:00,roi,1.0015934,,,,moegliche Folgewirkung
+SOL/USDT,2025-05-14 09:20:00+00:00,Trade nur in der Variante,,,,2025-05-14 10:25:00+00:00,roi,1.00179527,moegliche Folgewirkung
+SOL/USDT,2025-05-14 17:30:00+00:00,Trade nur im Original,2025-05-14 18:55:00+00:00,roi,1.00202761,,,,moegliche Folgewirkung
+SOL/USDT,2025-05-14 17:35:00+00:00,Trade nur in der Variante,,,,2025-05-14 19:05:00+00:00,roi,1.00085714,moegliche Folgewirkung
+SOL/USDT,2025-05-15 02:05:00+00:00,Trade nur im Original,2025-05-22 03:50:00+00:00,roi,1.00217201,,,,moegliche Folgewirkung
+SOL/USDT,2025-05-15 02:10:00+00:00,Trade nur in der Variante,,,,2025-05-22 05:25:00+00:00,roi,1.00176094,moegliche Folgewirkung
+SOL/USDT,2025-05-23 12:35:00+00:00,Trade nur im Original,2025-05-23 14:00:00+00:00,roi,1.00273805,,,,moegliche Folgewirkung
+SOL/USDT,2025-05-23 12:40:00+00:00,Trade nur in der Variante,,,,2025-05-23 13:50:00+00:00,roi,0.99900173,moegliche Folgewirkung
+SOL/USDT,2025-05-24 00:10:00+00:00,Trade nur im Original,2025-05-24 10:45:00+00:00,roi,1.00278958,,,,moegliche Folgewirkung
+SOL/USDT,2025-05-24 00:15:00+00:00,Trade nur in der Variante,,,,2025-05-24 10:40:00+00:00,roi,1.00113199,moegliche Folgewirkung
+SOL/USDT,2025-05-24 23:15:00+00:00,Trade nur im Original,2025-05-26 06:55:00+00:00,roi,1.00293049,,,,moegliche Folgewirkung
+SOL/USDT,2025-05-24 23:20:00+00:00,Trade nur in der Variante,,,,2025-05-26 06:55:00+00:00,roi,1.00299836,moegliche Folgewirkung
+SOL/USDT,2025-05-26 18:10:00+00:00,Trade nur im Original,2025-05-27 08:00:00+00:00,roi,0.99829541,,,,moegliche Folgewirkung
+SOL/USDT,2025-05-26 18:15:00+00:00,Trade nur in der Variante,,,,2025-05-27 11:25:00+00:00,roi,1.00161435,moegliche Folgewirkung
+SOL/USDT,2025-05-27 21:55:00+00:00,Trade nur im Original,2025-05-30 16:30:00+00:00,stop_loss,-10.18886732,,,,moegliche Folgewirkung
+SOL/USDT,2025-05-27 22:00:00+00:00,Trade nur in der Variante,,,,2025-05-30 16:30:00+00:00,stop_loss,-10.18886464,moegliche Folgewirkung
+SOL/USDT,2025-05-30 17:00:00+00:00,Trade nur im Original,2025-05-30 18:15:00+00:00,roi,1.0022415,,,,moegliche Folgewirkung
+SOL/USDT,2025-05-30 17:05:00+00:00,Trade nur in der Variante,,,,2025-05-30 18:20:00+00:00,roi,0.99859719,moegliche Folgewirkung
+SOL/USDT,2025-05-30 22:50:00+00:00,Trade nur im Original,2025-06-03 01:20:00+00:00,roi,1.00391722,,,,moegliche Folgewirkung
+SOL/USDT,2025-05-30 22:55:00+00:00,Trade nur in der Variante,,,,2025-06-03 01:20:00+00:00,roi,1.00034138,moegliche Folgewirkung
+SOL/USDT,2025-06-03 21:10:00+00:00,Trade nur im Original,2025-06-05 20:40:00+00:00,stop_loss,-10.18936332,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-03 21:15:00+00:00,Trade nur in der Variante,,,,2025-06-09 10:15:00+00:00,exit_signal,-1.69636621,moegliche Folgewirkung
+SOL/USDT,2025-06-05 21:05:00+00:00,Trade nur im Original,2025-06-05 22:35:00+00:00,roi,1.00361399,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-07 00:25:00+00:00,Trade nur im Original,2025-06-07 03:35:00+00:00,roi,0.99928638,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-07 15:50:00+00:00,Trade nur im Original,2025-06-08 17:00:00+00:00,roi,1.00425164,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-08 23:30:00+00:00,Trade nur im Original,2025-06-09 09:45:00+00:00,roi,0.9980915,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-10 06:00:00+00:00,Trade nur im Original,2025-06-10 11:30:00+00:00,roi,1.00034138,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-10 06:05:00+00:00,Trade nur in der Variante,,,,2025-06-10 11:25:00+00:00,roi,1.00414895,moegliche Folgewirkung
+SOL/USDT,2025-06-11 18:25:00+00:00,Trade nur im Original,2025-06-13 00:10:00+00:00,stop_loss,-10.18571872,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-11 18:30:00+00:00,Trade nur in der Variante,,,,2025-06-13 00:10:00+00:00,stop_loss,-10.18510303,moegliche Folgewirkung
+SOL/USDT,2025-06-13 01:00:00+00:00,Trade nur im Original,2025-06-13 15:20:00+00:00,roi,1.00088532,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-13 01:05:00+00:00,Trade nur in der Variante,,,,2025-06-13 08:10:00+00:00,roi,1.00303075,moegliche Folgewirkung
+SOL/USDT,2025-06-14 07:30:00+00:00,Trade nur im Original,2025-06-15 06:00:00+00:00,roi,1.00369646,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-14 07:35:00+00:00,Trade nur in der Variante,,,,2025-06-15 06:00:00+00:00,roi,1.00205072,moegliche Folgewirkung
+SOL/USDT,2025-06-15 09:25:00+00:00,Trade nur im Original,2025-06-15 11:50:00+00:00,roi,0.9992953,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-15 09:30:00+00:00,Trade nur in der Variante,,,,2025-06-15 11:50:00+00:00,roi,1.00037284,moegliche Folgewirkung
+SOL/USDT,2025-06-15 21:20:00+00:00,Trade nur im Original,2025-06-15 22:20:00+00:00,roi,1.22694988,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-15 21:25:00+00:00,Trade nur in der Variante,,,,2025-06-15 22:25:00+00:00,roi,1.30431581,moegliche Folgewirkung
+SOL/USDT,2025-06-16 11:35:00+00:00,Trade nur im Original,2025-06-16 14:00:00+00:00,roi,1.00229686,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-16 11:40:00+00:00,Trade nur in der Variante,,,,2025-06-16 14:30:00+00:00,roi,0.99882415,moegliche Folgewirkung
+SOL/USDT,2025-06-16 23:10:00+00:00,Trade nur im Original,2025-06-20 17:20:00+00:00,stop_loss,-10.1847877,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-16 23:15:00+00:00,Trade nur in der Variante,,,,2025-06-20 17:20:00+00:00,stop_loss,-10.18609852,moegliche Folgewirkung
+SOL/USDT,2025-06-20 18:00:00+00:00,Trade nur im Original,2025-06-20 20:00:00+00:00,roi,0.99848232,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-20 18:05:00+00:00,Trade nur in der Variante,,,,2025-06-20 20:00:00+00:00,roi,0.99917553,moegliche Folgewirkung
+SOL/USDT,2025-06-21 14:35:00+00:00,Trade nur im Original,2025-06-22 13:25:00+00:00,stop_loss,-10.18715352,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-21 14:40:00+00:00,Trade nur in der Variante,,,,2025-06-22 13:25:00+00:00,stop_loss,-10.18999572,moegliche Folgewirkung
+SOL/USDT,2025-06-22 13:50:00+00:00,Trade nur im Original,2025-06-22 14:50:00+00:00,roi,1.00333315,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-22 13:55:00+00:00,Trade nur in der Variante,,,,2025-06-22 14:55:00+00:00,roi,1.1472627,moegliche Folgewirkung
+SOL/USDT,2025-06-23 16:40:00+00:00,Trade nur im Original,2025-06-23 17:20:00+00:00,roi,2.00050459,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-23 16:45:00+00:00,Trade nur in der Variante,,,,2025-06-23 17:20:00+00:00,roi,2.0008388,moegliche Folgewirkung
+SOL/USDT,2025-06-26 10:10:00+00:00,Trade nur im Original,2025-06-28 07:45:00+00:00,roi,0.99918786,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-26 10:15:00+00:00,Trade nur in der Variante,,,,2025-06-28 07:45:00+00:00,roi,1.00002082,moegliche Folgewirkung
+SOL/USDT,2025-06-28 13:40:00+00:00,Trade nur im Original,2025-06-28 15:55:00+00:00,roi,1.00270834,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-28 13:45:00+00:00,Trade nur in der Variante,,,,2025-06-28 15:55:00+00:00,roi,1.00205072,moegliche Folgewirkung
+SOL/USDT,2025-06-29 02:40:00+00:00,Trade nur im Original,2025-06-29 09:30:00+00:00,roi,1.00088119,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-29 02:45:00+00:00,Trade nur in der Variante,,,,2025-06-29 09:30:00+00:00,roi,0.99983844,moegliche Folgewirkung
+SOL/USDT,2025-06-30 05:40:00+00:00,Trade nur im Original,2025-06-30 15:25:00+00:00,roi,1.00361353,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-30 05:45:00+00:00,Trade nur in der Variante,,,,2025-06-30 15:25:00+00:00,roi,1.00257892,moegliche Folgewirkung
+SOL/USDT,2025-07-01 03:10:00+00:00,Trade nur im Original,2025-07-03 05:30:00+00:00,roi,0.99859077,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-01 03:15:00+00:00,Trade nur in der Variante,,,,2025-07-03 05:30:00+00:00,roi,0.99859077,moegliche Folgewirkung
+SOL/USDT,2025-07-03 16:10:00+00:00,Trade nur im Original,2025-07-03 20:25:00+00:00,roi,1.00033809,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-03 16:15:00+00:00,Trade nur in der Variante,,,,2025-07-03 20:40:00+00:00,roi,0.99898548,moegliche Folgewirkung
+SOL/USDT,2025-07-04 08:25:00+00:00,Trade nur im Original,2025-07-06 13:45:00+00:00,roi,0.99943908,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-04 08:30:00+00:00,Trade nur in der Variante,,,,2025-07-06 13:45:00+00:00,roi,0.99983844,moegliche Folgewirkung
+SOL/USDT,2025-07-07 00:50:00+00:00,Trade nur im Original,2025-07-07 11:25:00+00:00,roi,1.00194262,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-07 00:55:00+00:00,Trade nur in der Variante,,,,2025-07-07 08:40:00+00:00,roi,1.0031354,moegliche Folgewirkung
+SOL/USDT,2025-07-07 20:25:00+00:00,Trade nur im Original,2025-07-08 09:10:00+00:00,roi,1.00418081,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-07 20:30:00+00:00,Trade nur in der Variante,,,,2025-07-08 08:10:00+00:00,roi,0.99785715,moegliche Folgewirkung
+SOL/USDT,2025-07-08 15:40:00+00:00,Trade nur im Original,2025-07-08 18:20:00+00:00,roi,1.00185346,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-08 15:45:00+00:00,Trade nur in der Variante,,,,2025-07-08 17:30:00+00:00,roi,1.00345363,moegliche Folgewirkung
+SOL/USDT,2025-07-10 01:05:00+00:00,Trade nur im Original,2025-07-10 02:05:00+00:00,roi,1.07773725,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-10 01:10:00+00:00,Trade nur in der Variante,,,,2025-07-10 02:10:00+00:00,roi,1.12288183,moegliche Folgewirkung
+SOL/USDT,2025-07-11 07:20:00+00:00,Trade nur im Original,2025-07-11 13:00:00+00:00,roi,1.00075025,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-11 07:25:00+00:00,Trade nur in der Variante,,,,2025-07-11 13:00:00+00:00,roi,0.99950476,moegliche Folgewirkung
+SOL/USDT,2025-07-11 16:25:00+00:00,Trade nur im Original,2025-07-11 17:50:00+00:00,roi,0.9999073,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-11 16:30:00+00:00,Trade nur in der Variante,,,,2025-07-11 18:10:00+00:00,roi,1.00324327,moegliche Folgewirkung
+SOL/USDT,2025-07-11 21:50:00+00:00,Trade nur im Original,2025-07-14 02:25:00+00:00,roi,1.00034974,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-11 21:55:00+00:00,Trade nur in der Variante,,,,2025-07-12 01:05:00+00:00,roi,1.00361439,moegliche Folgewirkung
+SOL/USDT,2025-07-12 13:40:00+00:00,Trade nur in der Variante,,,,2025-07-13 00:20:00+00:00,roi,0.99817191,moegliche Folgewirkung
+SOL/USDT,2025-07-13 17:15:00+00:00,Trade nur in der Variante,,,,2025-07-13 18:25:00+00:00,roi,1.00219442,moegliche Folgewirkung
+SOL/USDT,2025-07-13 21:55:00+00:00,Trade nur in der Variante,,,,2025-07-14 01:40:00+00:00,roi,0.99919621,moegliche Folgewirkung
+SOL/USDT,2025-07-14 16:00:00+00:00,Trade nur im Original,2025-07-16 09:00:00+00:00,roi,1.00038417,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-14 16:05:00+00:00,Trade nur in der Variante,,,,2025-07-16 08:50:00+00:00,roi,1.00295077,moegliche Folgewirkung
+SOL/USDT,2025-07-16 23:25:00+00:00,Trade nur im Original,2025-07-17 09:05:00+00:00,roi,1.0037532,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-16 23:30:00+00:00,Trade nur in der Variante,,,,2025-07-17 09:05:00+00:00,roi,0.99854636,moegliche Folgewirkung
+SOL/USDT,2025-07-18 20:45:00+00:00,Trade nur im Original,2025-07-18 21:45:00+00:00,roi,1.11643065,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-18 20:50:00+00:00,Trade nur in der Variante,,,,2025-07-19 05:25:00+00:00,roi,1.00059737,moegliche Folgewirkung
+SOL/USDT,2025-07-19 21:30:00+00:00,Trade nur im Original,2025-07-20 01:00:00+00:00,roi,1.00293049,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-19 21:35:00+00:00,Trade nur in der Variante,,,,2025-07-20 00:50:00+00:00,roi,1.000528,moegliche Folgewirkung
+SOL/USDT,2025-07-22 05:05:00+00:00,Trade nur im Original,2025-07-22 06:10:00+00:00,roi,1.001772,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-22 05:10:00+00:00,Trade nur in der Variante,,,,2025-07-22 06:15:00+00:00,roi,0.9999989,moegliche Folgewirkung
+SOL/USDT,2025-07-23 10:25:00+00:00,Trade nur im Original,2025-07-25 03:30:00+00:00,stop_loss,-10.18897665,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-23 10:30:00+00:00,Trade nur in der Variante,,,,2025-07-25 03:30:00+00:00,stop_loss,-10.18846038,moegliche Folgewirkung
+SOL/USDT,2025-07-25 14:50:00+00:00,Trade nur im Original,2025-07-25 17:10:00+00:00,roi,1.00057119,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-25 14:55:00+00:00,Trade nur in der Variante,,,,2025-07-25 17:30:00+00:00,roi,0.99841823,moegliche Folgewirkung
+SOL/USDT,2025-07-26 02:05:00+00:00,Trade nur im Original,2025-07-26 08:30:00+00:00,roi,0.99834641,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-26 02:10:00+00:00,Trade nur in der Variante,,,,2025-07-26 08:15:00+00:00,roi,0.99957739,moegliche Folgewirkung
+SOL/USDT,2025-07-27 12:50:00+00:00,Trade nur im Original,2025-07-27 16:20:00+00:00,roi,1.00193246,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-27 12:55:00+00:00,Trade nur in der Variante,,,,2025-07-27 16:30:00+00:00,roi,1.00103042,moegliche Folgewirkung
+SOL/USDT,2025-07-28 11:40:00+00:00,Trade nur im Original,2025-07-30 19:05:00+00:00,stop_loss,-10.18529567,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-28 11:45:00+00:00,Trade nur in der Variante,,,,2025-07-30 19:05:00+00:00,stop_loss,-10.18737946,moegliche Folgewirkung
+SOL/USDT,2025-07-30 19:30:00+00:00,Trade nur im Original,2025-07-30 20:30:00+00:00,roi,1.10828156,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-30 19:35:00+00:00,Trade nur in der Variante,,,,2025-07-30 20:40:00+00:00,roi,1.00382125,moegliche Folgewirkung
+SOL/USDT,2025-07-31 12:30:00+00:00,Trade nur im Original,2025-08-01 20:40:00+00:00,stop_loss,-10.18888452,,,,moegliche Folgewirkung
+SOL/USDT,2025-07-31 12:35:00+00:00,Trade nur in der Variante,,,,2025-08-01 22:20:00+00:00,stop_loss,-10.1888779,moegliche Folgewirkung
+SOL/USDT,2025-08-01 22:45:00+00:00,Trade nur im Original,2025-08-01 23:45:00+00:00,roi,0.99845178,,,,moegliche Folgewirkung
+SOL/USDT,2025-08-01 22:50:00+00:00,Trade nur in der Variante,,,,2025-08-01 23:50:00+00:00,roi,1.18024457,moegliche Folgewirkung
+SOL/USDT,2025-08-02 07:00:00+00:00,Trade nur im Original,2025-08-02 08:15:00+00:00,roi,1.0029476,,,,moegliche Folgewirkung
+SOL/USDT,2025-08-02 07:05:00+00:00,Trade nur in der Variante,,,,2025-08-02 11:30:00+00:00,roi,1.0013243,moegliche Folgewirkung
+SOL/USDT,2025-08-02 16:45:00+00:00,Trade nur im Original,2025-08-04 00:35:00+00:00,roi,0.99847723,,,,moegliche Folgewirkung
+SOL/USDT,2025-08-02 16:50:00+00:00,Trade nur in der Variante,,,,2025-08-04 00:35:00+00:00,roi,1.00122706,moegliche Folgewirkung
+SOL/USDT,2025-08-04 19:50:00+00:00,Trade nur im Original,2025-08-04 21:00:00+00:00,roi,1.00056129,,,,moegliche Folgewirkung
+SOL/USDT,2025-08-04 19:55:00+00:00,Trade nur in der Variante,,,,2025-08-04 21:05:00+00:00,roi,0.99925725,moegliche Folgewirkung
+SOL/USDT,2025-08-05 13:20:00+00:00,Trade nur im Original,2025-08-06 18:00:00+00:00,roi,1.00296839,,,,moegliche Folgewirkung
+SOL/USDT,2025-08-05 13:25:00+00:00,Trade nur in der Variante,,,,2025-08-06 15:55:00+00:00,roi,1.00044698,moegliche Folgewirkung
+SOL/USDT,2025-08-10 06:35:00+00:00,Trade nur im Original,2025-08-10 19:35:00+00:00,roi,1.00268371,,,,moegliche Folgewirkung
+SOL/USDT,2025-08-10 06:40:00+00:00,Trade nur in der Variante,,,,2025-08-10 20:50:00+00:00,roi,1.00168842,moegliche Folgewirkung
+SOL/USDT,2025-08-11 07:45:00+00:00,Trade nur im Original,2025-08-12 17:05:00+00:00,roi,1.00079935,,,,moegliche Folgewirkung
+SOL/USDT,2025-08-11 07:50:00+00:00,Trade nur in der Variante,,,,2025-08-12 17:00:00+00:00,roi,0.99888679,moegliche Folgewirkung
+SOL/USDT,2025-08-13 15:15:00+00:00,Trade nur im Original,2025-08-13 16:15:00+00:00,roi,1.00042579,,,,moegliche Folgewirkung
+SOL/USDT,2025-08-13 15:20:00+00:00,Trade nur in der Variante,,,,2025-08-13 16:20:00+00:00,roi,1.29058712,moegliche Folgewirkung
+SOL/USDT,2025-08-14 13:10:00+00:00,Trade nur im Original,2025-08-14 14:25:00+00:00,roi,0.99875761,,,,moegliche Folgewirkung
+SOL/USDT,2025-08-14 13:15:00+00:00,Trade nur in der Variante,,,,2025-08-14 14:30:00+00:00,roi,1.00071992,moegliche Folgewirkung
+SOL/USDT,2025-08-15 10:05:00+00:00,Trade nur im Original,2025-08-22 16:05:00+00:00,roi,1.00113911,,,,moegliche Folgewirkung
+SOL/USDT,2025-08-15 10:10:00+00:00,Trade nur in der Variante,,,,2025-08-19 19:00:00+00:00,stop_loss,-10.18692163,moegliche Folgewirkung
+SOL/USDT,2025-08-20 00:10:00+00:00,Trade nur in der Variante,,,,2025-08-20 01:50:00+00:00,roi,1.00042299,moegliche Folgewirkung
+SOL/USDT,2025-08-21 09:35:00+00:00,Trade nur in der Variante,,,,2025-08-22 14:05:00+00:00,roi,0.99957739,moegliche Folgewirkung
+SOL/USDT,2025-08-23 01:50:00+00:00,Trade nur im Original,2025-08-23 04:25:00+00:00,roi,1.00074388,,,,moegliche Folgewirkung
+SOL/USDT,2025-08-23 01:55:00+00:00,Trade nur in der Variante,,,,2025-08-23 04:30:00+00:00,roi,1.00251727,moegliche Folgewirkung
+SOL/USDT,2025-08-23 11:05:00+00:00,Trade nur im Original,2025-08-24 00:00:00+00:00,roi,1.00337498,,,,moegliche Folgewirkung
+SOL/USDT,2025-08-23 11:10:00+00:00,Trade nur in der Variante,,,,2025-08-24 00:00:00+00:00,roi,1.00284105,moegliche Folgewirkung
+SOL/USDT,2025-08-24 10:55:00+00:00,Trade nur im Original,2025-08-24 15:05:00+00:00,roi,1.00173683,,,,moegliche Folgewirkung
+SOL/USDT,2025-08-24 11:00:00+00:00,Trade nur in der Variante,,,,2025-08-24 15:00:00+00:00,roi,0.99985236,moegliche Folgewirkung
+SOL/USDT,2025-08-24 20:20:00+00:00,Trade nur im Original,2025-08-24 23:10:00+00:00,roi,1.00136798,,,,moegliche Folgewirkung
+SOL/USDT,2025-08-24 20:25:00+00:00,Trade nur in der Variante,,,,2025-08-24 23:20:00+00:00,roi,1.00084995,moegliche Folgewirkung
+SOL/USDT,2025-08-25 06:15:00+00:00,Trade nur im Original,2025-08-27 14:30:00+00:00,roi,1.00101532,,,,moegliche Folgewirkung
+SOL/USDT,2025-08-25 06:20:00+00:00,Trade nur in der Variante,,,,2025-08-27 14:30:00+00:00,roi,1.00148554,moegliche Folgewirkung
+SOL/USDT,2025-08-29 07:35:00+00:00,Trade nur im Original,2025-08-29 12:30:00+00:00,roi,1.00131641,,,,moegliche Folgewirkung
+SOL/USDT,2025-08-29 07:40:00+00:00,Trade nur in der Variante,,,,2025-08-29 12:30:00+00:00,roi,0.99964094,moegliche Folgewirkung
+SOL/USDT,2025-08-30 09:20:00+00:00,Trade nur im Original,2025-08-31 00:50:00+00:00,roi,1.00200998,,,,moegliche Folgewirkung
+SOL/USDT,2025-08-30 09:25:00+00:00,Trade nur in der Variante,,,,2025-08-31 00:50:00+00:00,roi,1.00141763,moegliche Folgewirkung
+SOL/USDT,2025-09-01 00:20:00+00:00,Trade nur im Original,2025-09-01 07:55:00+00:00,roi,1.00181129,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-01 00:25:00+00:00,Trade nur in der Variante,,,,2025-09-01 01:25:00+00:00,roi,1.00198422,moegliche Folgewirkung
+SOL/USDT,2025-09-01 21:50:00+00:00,Trade nur im Original,2025-09-02 00:20:00+00:00,roi,1.00108851,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-01 21:55:00+00:00,Trade nur in der Variante,,,,2025-09-01 23:45:00+00:00,roi,1.00046109,moegliche Folgewirkung
+SOL/USDT,2025-09-02 13:10:00+00:00,Trade nur im Original,2025-09-02 13:45:00+00:00,roi,2.00083533,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-02 13:15:00+00:00,Trade nur in der Variante,,,,2025-09-02 13:45:00+00:00,roi,2.00348867,moegliche Folgewirkung
+SOL/USDT,2025-09-04 15:50:00+00:00,Trade nur im Original,2025-09-05 07:25:00+00:00,roi,1.00290696,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-04 15:55:00+00:00,Trade nur in der Variante,,,,2025-09-05 07:25:00+00:00,roi,1.00290696,moegliche Folgewirkung
+SOL/USDT,2025-09-05 09:40:00+00:00,Trade nur im Original,2025-09-05 12:25:00+00:00,roi,1.00191415,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-05 09:45:00+00:00,Trade nur in der Variante,,,,2025-09-05 12:25:00+00:00,roi,1.00115199,moegliche Folgewirkung
+SOL/USDT,2025-09-05 15:10:00+00:00,Trade nur im Original,2025-09-05 19:15:00+00:00,roi,1.00076677,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-05 15:15:00+00:00,Trade nur in der Variante,,,,2025-09-05 19:15:00+00:00,roi,1.00200998,moegliche Folgewirkung
+SOL/USDT,2025-09-06 06:05:00+00:00,Trade nur im Original,2025-09-07 15:40:00+00:00,roi,0.99868082,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-06 06:10:00+00:00,Trade nur in der Variante,,,,2025-09-07 15:35:00+00:00,roi,0.99992396,moegliche Folgewirkung
+SOL/USDT,2025-09-07 17:40:00+00:00,Trade nur im Original,2025-09-07 20:55:00+00:00,roi,1.00010332,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-07 17:45:00+00:00,Trade nur in der Variante,,,,2025-09-07 21:00:00+00:00,roi,0.99873924,moegliche Folgewirkung
+SOL/USDT,2025-09-09 15:55:00+00:00,Trade nur im Original,2025-09-09 18:25:00+00:00,roi,0.99926809,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-09 16:00:00+00:00,Trade nur in der Variante,,,,2025-09-09 17:10:00+00:00,roi,1.00022462,moegliche Folgewirkung
+SOL/USDT,2025-09-13 17:25:00+00:00,Trade nur im Original,2025-09-13 20:30:00+00:00,roi,0.99965815,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-13 17:30:00+00:00,Trade nur in der Variante,,,,2025-09-13 20:10:00+00:00,roi,1.00092244,moegliche Folgewirkung
+SOL/USDT,2025-09-14 11:50:00+00:00,Trade nur im Original,2025-09-18 16:10:00+00:00,roi,1.001413,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-14 11:55:00+00:00,Trade nur in der Variante,,,,2025-09-18 15:15:00+00:00,roi,1.00297723,moegliche Folgewirkung
+SOL/USDT,2025-09-18 19:40:00+00:00,Trade nur im Original,2025-09-22 06:00:00+00:00,stop_loss,-10.18757829,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-18 19:45:00+00:00,Trade nur in der Variante,,,,2025-09-22 06:00:00+00:00,stop_loss,-10.18797759,moegliche Folgewirkung
+SOL/USDT,2025-09-22 08:10:00+00:00,Trade nur im Original,2025-09-25 12:25:00+00:00,stop_loss,-10.18774451,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-22 08:15:00+00:00,Trade nur in der Variante,,,,2025-09-25 12:25:00+00:00,stop_loss,-10.18729154,moegliche Folgewirkung
+SOL/USDT,2025-09-25 13:15:00+00:00,Trade nur im Original,2025-09-25 14:15:00+00:00,roi,1.18262911,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-25 13:20:00+00:00,Trade nur in der Variante,,,,2025-09-25 14:20:00+00:00,roi,1.04557328,moegliche Folgewirkung
+SOL/USDT,2025-09-25 18:10:00+00:00,Trade nur im Original,2025-09-25 19:10:00+00:00,roi,1.75691785,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-25 18:15:00+00:00,Trade nur in der Variante,,,,2025-09-25 19:15:00+00:00,roi,1.27660301,moegliche Folgewirkung
+SOL/USDT,2025-09-26 00:00:00+00:00,Trade nur im Original,2025-09-26 01:00:00+00:00,roi,1.33931325,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-26 00:05:00+00:00,Trade nur in der Variante,,,,2025-09-26 01:05:00+00:00,roi,1.0007568,moegliche Folgewirkung
+SOL/USDT,2025-09-26 10:35:00+00:00,Trade nur im Original,2025-09-26 12:30:00+00:00,roi,1.00099412,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-26 10:40:00+00:00,Trade nur in der Variante,,,,2025-09-26 12:30:00+00:00,roi,1.00224088,moegliche Folgewirkung
+SOL/USDT,2025-09-27 06:40:00+00:00,Trade nur im Original,2025-09-27 22:15:00+00:00,roi,1.00158686,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-27 06:45:00+00:00,Trade nur in der Variante,,,,2025-09-27 22:20:00+00:00,roi,1.0006374,moegliche Folgewirkung
+SOL/USDT,2025-09-29 06:20:00+00:00,Trade nur im Original,2025-09-29 14:15:00+00:00,roi,1.00292083,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-29 06:25:00+00:00,Trade nur in der Variante,,,,2025-09-29 14:10:00+00:00,roi,0.99991174,moegliche Folgewirkung
+SOL/USDT,2025-09-30 07:55:00+00:00,Trade nur im Original,2025-10-01 08:25:00+00:00,roi,0.99998462,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-30 08:00:00+00:00,Trade nur in der Variante,,,,2025-10-01 08:25:00+00:00,roi,0.99981173,moegliche Folgewirkung
+SOL/USDT,2025-10-02 15:10:00+00:00,Trade nur im Original,2025-10-02 16:10:00+00:00,roi,1.23821022,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-02 15:15:00+00:00,Trade nur in der Variante,,,,2025-10-02 16:15:00+00:00,roi,1.33610063,moegliche Folgewirkung
+SOL/USDT,2025-10-03 05:55:00+00:00,Trade nur im Original,2025-10-03 15:35:00+00:00,roi,1.00178957,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-03 06:00:00+00:00,Trade nur in der Variante,,,,2025-10-03 15:45:00+00:00,roi,1.00101163,moegliche Folgewirkung
+SOL/USDT,2025-10-04 01:35:00+00:00,Trade nur im Original,2025-10-05 04:45:00+00:00,roi,1.00272796,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-04 01:40:00+00:00,Trade nur in der Variante,,,,2025-10-05 04:45:00+00:00,roi,1.00314459,moegliche Folgewirkung
+SOL/USDT,2025-10-05 09:50:00+00:00,Trade nur im Original,2025-10-06 17:20:00+00:00,roi,0.99929362,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-05 09:55:00+00:00,Trade nur in der Variante,,,,2025-10-06 17:20:00+00:00,roi,0.99934427,moegliche Folgewirkung
+SOL/USDT,2025-10-07 00:35:00+00:00,Trade nur im Original,2025-10-07 04:35:00+00:00,roi,1.00200408,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-07 00:40:00+00:00,Trade nur in der Variante,,,,2025-10-07 04:35:00+00:00,roi,1.00200408,moegliche Folgewirkung
+SOL/USDT,2025-10-07 07:05:00+00:00,Trade nur im Original,2025-10-10 18:45:00+00:00,stop_loss,-10.18824842,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-07 07:10:00+00:00,Trade nur in der Variante,,,,2025-10-10 18:45:00+00:00,stop_loss,-10.18955326,moegliche Folgewirkung
+SOL/USDT,2025-10-11 21:15:00+00:00,Trade nur im Original,2025-10-11 22:15:00+00:00,roi,1.24458549,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-11 21:20:00+00:00,Trade nur in der Variante,,,,2025-10-11 22:35:00+00:00,roi,1.00134991,moegliche Folgewirkung
+SOL/USDT,2025-10-12 13:55:00+00:00,Trade nur im Original,2025-10-12 14:45:00+00:00,roi,2.0010517,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-12 14:00:00+00:00,Trade nur in der Variante,,,,2025-10-12 14:45:00+00:00,roi,2.00178951,moegliche Folgewirkung
+SOL/USDT,2025-10-14 07:15:00+00:00,Trade nur im Original,2025-10-14 14:15:00+00:00,roi,1.00195588,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-14 07:20:00+00:00,Trade nur in der Variante,,,,2025-10-14 15:45:00+00:00,roi,1.00233004,moegliche Folgewirkung
+SOL/USDT,2025-10-15 16:00:00+00:00,Trade nur im Original,2025-10-17 07:30:00+00:00,stop_loss,-10.18593025,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-15 16:05:00+00:00,Trade nur in der Variante,,,,2025-10-17 07:30:00+00:00,stop_loss,-10.18745217,moegliche Folgewirkung
+SOL/USDT,2025-10-17 07:55:00+00:00,Trade nur im Original,2025-10-17 11:10:00+00:00,roi,1.00004913,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-17 08:00:00+00:00,Trade nur in der Variante,,,,2025-10-17 09:35:00+00:00,roi,1.00252949,moegliche Folgewirkung
+SOL/USDT,2025-10-19 01:00:00+00:00,Trade nur im Original,2025-10-19 09:45:00+00:00,roi,0.99914401,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-19 01:05:00+00:00,Trade nur in der Variante,,,,2025-10-19 05:20:00+00:00,roi,1.00212035,moegliche Folgewirkung
+SOL/USDT,2025-10-19 23:55:00+00:00,Trade nur im Original,2025-10-20 03:50:00+00:00,roi,1.00233237,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-20 00:00:00+00:00,Trade nur in der Variante,,,,2025-10-20 03:50:00+00:00,roi,1.00169138,moegliche Folgewirkung
+SOL/USDT,2025-10-20 11:20:00+00:00,Trade nur im Original,2025-10-21 15:05:00+00:00,roi,1.00021772,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-20 11:25:00+00:00,Trade nur in der Variante,,,,2025-10-21 15:05:00+00:00,roi,0.99934202,moegliche Folgewirkung
+SOL/USDT,2025-10-21 23:55:00+00:00,Trade nur im Original,2025-10-23 08:05:00+00:00,roi,1.00296629,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-22 00:00:00+00:00,Trade nur in der Variante,,,,2025-10-23 07:30:00+00:00,roi,0.99991739,moegliche Folgewirkung
+SOL/USDT,2025-10-25 10:35:00+00:00,Trade nur im Original,2025-10-25 18:55:00+00:00,roi,1.00160754,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-25 10:40:00+00:00,Trade nur in der Variante,,,,2025-10-25 18:55:00+00:00,roi,1.00179652,moegliche Folgewirkung
+SOL/USDT,2025-10-26 20:35:00+00:00,Trade nur im Original,2025-10-26 22:00:00+00:00,roi,1.00039377,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-26 20:40:00+00:00,Trade nur in der Variante,,,,2025-10-26 22:00:00+00:00,roi,1.00142356,moegliche Folgewirkung
+SOL/USDT,2025-10-27 08:45:00+00:00,Trade nur im Original,2025-10-28 08:35:00+00:00,roi,0.99864043,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-27 08:50:00+00:00,Trade nur in der Variante,,,,2025-10-27 16:40:00+00:00,roi,1.0003137,moegliche Folgewirkung
+SOL/USDT,2025-10-27 20:50:00+00:00,Trade nur in der Variante,,,,2025-10-28 01:45:00+00:00,roi,1.0022862,moegliche Folgewirkung
+SOL/USDT,2025-10-28 06:10:00+00:00,Trade nur in der Variante,,,,2025-10-28 07:10:00+00:00,roi,1.30832127,moegliche Folgewirkung
+SOL/USDT,2025-10-28 20:40:00+00:00,Trade nur im Original,2025-10-29 10:35:00+00:00,roi,1.00212785,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-28 20:45:00+00:00,Trade nur in der Variante,,,,2025-10-29 07:25:00+00:00,roi,1.00193465,moegliche Folgewirkung
+SOL/USDT,2025-10-29 16:20:00+00:00,Trade nur im Original,2025-10-29 17:35:00+00:00,roi,1.00244628,,,,moegliche Folgewirkung
+SOL/USDT,2025-10-29 16:25:00+00:00,Trade nur in der Variante,,,,2025-11-03 03:50:00+00:00,stop_loss,-10.18997999,moegliche Folgewirkung
+SOL/USDT,2025-10-30 04:40:00+00:00,Trade nur im Original,2025-11-03 06:45:00+00:00,stop_loss,-10.18742394,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-03 05:00:00+00:00,Trade nur in der Variante,,,,2025-11-04 05:30:00+00:00,stop_loss,-10.18830165,moegliche Folgewirkung
+SOL/USDT,2025-11-03 06:55:00+00:00,Trade nur im Original,2025-11-04 05:50:00+00:00,stop_loss,-10.18601637,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-04 06:15:00+00:00,Trade nur im Original,2025-11-04 11:15:00+00:00,roi,0.99947349,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-04 06:20:00+00:00,Trade nur in der Variante,,,,2025-11-04 14:40:00+00:00,roi,0.99949498,moegliche Folgewirkung
+SOL/USDT,2025-11-04 17:25:00+00:00,Trade nur im Original,2025-11-05 05:10:00+00:00,roi,0.99923247,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-04 17:30:00+00:00,Trade nur in der Variante,,,,2025-11-05 05:10:00+00:00,roi,1.00268821,moegliche Folgewirkung
+SOL/USDT,2025-11-06 06:00:00+00:00,Trade nur im Original,2025-11-06 13:45:00+00:00,roi,1.00376425,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-06 06:05:00+00:00,Trade nur in der Variante,,,,2025-11-06 14:00:00+00:00,roi,1.00293373,moegliche Folgewirkung
+SOL/USDT,2025-11-07 10:00:00+00:00,Trade nur im Original,2025-11-07 16:20:00+00:00,roi,1.00089175,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-07 10:05:00+00:00,Trade nur in der Variante,,,,2025-11-07 16:20:00+00:00,roi,1.00098345,moegliche Folgewirkung
+SOL/USDT,2025-11-08 06:00:00+00:00,Trade nur im Original,2025-11-09 15:35:00+00:00,roi,1.00085495,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-08 06:05:00+00:00,Trade nur in der Variante,,,,2025-11-09 14:30:00+00:00,roi,1.00046659,moegliche Folgewirkung
+SOL/USDT,2025-11-11 05:30:00+00:00,Trade nur im Original,2025-11-13 17:35:00+00:00,stop_loss,-10.18939071,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-11 05:35:00+00:00,Trade nur in der Variante,,,,2025-11-13 17:35:00+00:00,stop_loss,-10.18877829,moegliche Folgewirkung
+SOL/USDT,2025-11-13 19:05:00+00:00,Trade nur im Original,2025-11-17 18:15:00+00:00,stop_loss,-10.18999246,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-13 19:10:00+00:00,Trade nur in der Variante,,,,2025-11-17 18:35:00+00:00,stop_loss,-10.18448423,moegliche Folgewirkung
+SOL/USDT,2025-11-17 19:10:00+00:00,Trade nur im Original,2025-11-18 01:20:00+00:00,roi,0.99947118,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-17 19:15:00+00:00,Trade nur in der Variante,,,,2025-11-17 22:35:00+00:00,roi,1.00407597,moegliche Folgewirkung
+SOL/USDT,2025-11-19 00:25:00+00:00,Trade nur im Original,2025-11-19 02:10:00+00:00,roi,1.00051421,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-19 00:30:00+00:00,Trade nur in der Variante,,,,2025-11-19 02:15:00+00:00,roi,0.99897021,moegliche Folgewirkung
+SOL/USDT,2025-11-19 05:20:00+00:00,Trade nur im Original,2025-11-19 07:35:00+00:00,roi,0.99778925,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-19 05:25:00+00:00,Trade nur in der Variante,,,,2025-11-19 07:20:00+00:00,roi,0.99978254,moegliche Folgewirkung
+SOL/USDT,2025-11-19 14:15:00+00:00,Trade nur im Original,2025-11-19 15:15:00+00:00,roi,1.00414125,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-19 14:20:00+00:00,Trade nur in der Variante,,,,2025-11-19 15:20:00+00:00,roi,1.02899705,moegliche Folgewirkung
+SOL/USDT,2025-11-19 17:00:00+00:00,Trade nur im Original,2025-11-19 21:20:00+00:00,roi,0.99837978,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-19 17:05:00+00:00,Trade nur in der Variante,,,,2025-11-19 21:20:00+00:00,roi,1.00397587,moegliche Folgewirkung
+SOL/USDT,2025-11-20 09:35:00+00:00,Trade nur im Original,2025-11-21 07:30:00+00:00,stop_loss,-10.18578634,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-20 09:40:00+00:00,Trade nur in der Variante,,,,2025-11-21 07:30:00+00:00,stop_loss,-10.18437608,moegliche Folgewirkung
+SOL/USDT,2025-11-21 10:10:00+00:00,Trade nur im Original,2025-11-21 13:15:00+00:00,roi,1.00466358,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-21 10:15:00+00:00,Trade nur in der Variante,,,,2025-11-21 12:45:00+00:00,roi,1.00198312,moegliche Folgewirkung
+SOL/USDT,2025-11-21 23:15:00+00:00,Trade nur im Original,2025-11-22 00:00:00+00:00,roi,2.00152176,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-21 23:20:00+00:00,Trade nur in der Variante,,,,2025-11-22 00:20:00+00:00,roi,1.28740227,moegliche Folgewirkung
+SOL/USDT,2025-11-22 04:30:00+00:00,Trade nur im Original,2025-11-22 06:30:00+00:00,roi,1.00151867,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-22 04:35:00+00:00,Trade nur in der Variante,,,,2025-11-22 06:30:00+00:00,roi,1.00047393,moegliche Folgewirkung
+SOL/USDT,2025-11-23 07:15:00+00:00,Trade nur im Original,2025-11-23 09:40:00+00:00,roi,0.99979026,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-23 07:20:00+00:00,Trade nur in der Variante,,,,2025-11-23 09:35:00+00:00,roi,1.00426852,moegliche Folgewirkung
+SOL/USDT,2025-11-23 23:45:00+00:00,Trade nur im Original,2025-11-24 02:00:00+00:00,roi,0.99782269,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-23 23:50:00+00:00,Trade nur in der Variante,,,,2025-11-24 02:00:00+00:00,roi,1.00480812,moegliche Folgewirkung
+SOL/USDT,2025-11-24 09:40:00+00:00,Trade nur im Original,2025-11-24 14:30:00+00:00,roi,0.99839679,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-24 09:45:00+00:00,Trade nur in der Variante,,,,2025-11-24 13:05:00+00:00,roi,1.00109262,moegliche Folgewirkung
+SOL/USDT,2025-11-25 08:10:00+00:00,Trade nur im Original,2025-11-25 21:05:00+00:00,roi,1.00079033,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-25 08:15:00+00:00,Trade nur in der Variante,,,,2025-11-25 17:35:00+00:00,roi,1.00352477,moegliche Folgewirkung
+SOL/USDT,2025-11-26 10:00:00+00:00,Trade nur im Original,2025-11-26 17:25:00+00:00,roi,0.99824418,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-26 10:05:00+00:00,Trade nur in der Variante,,,,2025-11-26 17:30:00+00:00,roi,0.99914835,moegliche Folgewirkung
+SOL/USDT,2025-11-27 08:55:00+00:00,Trade nur im Original,2025-12-01 00:50:00+00:00,stop_loss,-10.18999723,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-27 09:00:00+00:00,Trade nur in der Variante,,,,2025-12-01 00:45:00+00:00,stop_loss,-10.18438544,moegliche Folgewirkung
+SOL/USDT,2025-12-01 02:05:00+00:00,Trade nur im Original,2025-12-02 13:15:00+00:00,roi,0.9985498,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-01 02:10:00+00:00,Trade nur in der Variante,,,,2025-12-02 13:15:00+00:00,roi,1.00023288,moegliche Folgewirkung
+SOL/USDT,2025-12-02 20:45:00+00:00,Trade nur im Original,2025-12-03 04:20:00+00:00,roi,0.99928752,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-02 20:50:00+00:00,Trade nur in der Variante,,,,2025-12-03 03:00:00+00:00,roi,1.00101424,moegliche Folgewirkung
+SOL/USDT,2025-12-04 19:30:00+00:00,Trade nur im Original,2025-12-04 20:50:00+00:00,roi,1.00188,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-04 19:35:00+00:00,Trade nur in der Variante,,,,2025-12-09 16:10:00+00:00,roi,0.99911559,moegliche Folgewirkung
+SOL/USDT,2025-12-05 04:55:00+00:00,Trade nur im Original,2025-12-05 07:05:00+00:00,roi,1.00396061,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-05 10:10:00+00:00,Trade nur im Original,2025-12-08 09:05:00+00:00,roi,0.99991196,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-08 23:35:00+00:00,Trade nur im Original,2025-12-09 15:35:00+00:00,roi,1.00071992,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-10 11:05:00+00:00,Trade nur im Original,2025-12-10 18:35:00+00:00,roi,1.00247298,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-10 11:10:00+00:00,Trade nur in der Variante,,,,2025-12-10 18:35:00+00:00,roi,1.00054609,moegliche Folgewirkung
+SOL/USDT,2025-12-11 01:30:00+00:00,Trade nur im Original,2025-12-11 18:40:00+00:00,roi,1.00460542,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-11 01:35:00+00:00,Trade nur in der Variante,,,,2025-12-11 18:40:00+00:00,roi,1.0038834,moegliche Folgewirkung
+SOL/USDT,2025-12-12 17:10:00+00:00,Trade nur im Original,2025-12-15 14:15:00+00:00,roi,1.00379512,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-12 17:15:00+00:00,Trade nur in der Variante,,,,2025-12-15 14:15:00+00:00,roi,1.00135268,moegliche Folgewirkung
+SOL/USDT,2025-12-15 15:45:00+00:00,Trade nur im Original,2025-12-16 13:30:00+00:00,roi,1.00427286,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-15 15:50:00+00:00,Trade nur in der Variante,,,,2025-12-16 13:30:00+00:00,roi,1.00408504,moegliche Folgewirkung
+SOL/USDT,2025-12-17 04:50:00+00:00,Trade nur im Original,2025-12-17 13:45:00+00:00,roi,1.00361423,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-17 04:55:00+00:00,Trade nur in der Variante,,,,2025-12-17 13:45:00+00:00,roi,1.00295443,moegliche Folgewirkung
+SOL/USDT,2025-12-17 16:55:00+00:00,Trade nur im Original,2025-12-18 13:40:00+00:00,roi,1.00158729,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-17 17:00:00+00:00,Trade nur in der Variante,,,,2025-12-18 13:45:00+00:00,roi,0.99975917,moegliche Folgewirkung
+SOL/USDT,2025-12-18 17:35:00+00:00,Trade nur im Original,2025-12-19 07:00:00+00:00,roi,0.99850568,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-18 17:40:00+00:00,Trade nur in der Variante,,,,2025-12-19 07:00:00+00:00,roi,1.00017096,moegliche Folgewirkung
+SOL/USDT,2025-12-21 02:55:00+00:00,Trade nur im Original,2025-12-21 09:50:00+00:00,roi,1.00014416,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-21 03:00:00+00:00,Trade nur in der Variante,,,,2025-12-21 09:50:00+00:00,roi,0.99956731,moegliche Folgewirkung
+SOL/USDT,2025-12-21 14:05:00+00:00,Trade nur im Original,2025-12-21 16:25:00+00:00,roi,1.0000235,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-21 14:10:00+00:00,Trade nur in der Variante,,,,2025-12-21 17:05:00+00:00,roi,1.00380671,moegliche Folgewirkung
+SOL/USDT,2025-12-22 20:05:00+00:00,Trade nur im Original,2025-12-23 00:35:00+00:00,roi,0.9987041,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-22 20:10:00+00:00,Trade nur in der Variante,,,,2025-12-23 00:50:00+00:00,roi,0.99755346,moegliche Folgewirkung
+SOL/USDT,2025-12-24 02:30:00+00:00,Trade nur im Original,2025-12-25 16:25:00+00:00,roi,1.00371201,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-24 02:35:00+00:00,Trade nur in der Variante,,,,2025-12-25 16:15:00+00:00,roi,1.00459468,moegliche Folgewirkung
+SOL/USDT,2025-12-25 23:20:00+00:00,Trade nur im Original,2025-12-26 02:20:00+00:00,roi,1.00262786,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-25 23:25:00+00:00,Trade nur in der Variante,,,,2025-12-26 02:15:00+00:00,roi,0.99817607,moegliche Folgewirkung
+SOL/USDT,2025-12-26 15:35:00+00:00,Trade nur im Original,2025-12-27 03:20:00+00:00,roi,0.99886466,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-26 15:40:00+00:00,Trade nur in der Variante,,,,2025-12-27 03:20:00+00:00,roi,1.00192754,moegliche Folgewirkung
+SOL/USDT,2025-12-28 19:10:00+00:00,Trade nur im Original,2025-12-28 23:45:00+00:00,roi,0.99834641,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-28 19:15:00+00:00,Trade nur in der Variante,,,,2025-12-28 23:45:00+00:00,roi,0.99747265,moegliche Folgewirkung
+SOL/USDT,2025-12-29 10:10:00+00:00,Trade nur im Original,2026-01-01 00:00:00+00:00,force_exit,-1.40332686,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-29 10:15:00+00:00,Trade nur in der Variante,,,,2026-01-01 00:00:00+00:00,force_exit,-1.25449875,moegliche Folgewirkung

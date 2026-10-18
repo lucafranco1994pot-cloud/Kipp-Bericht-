@@ -1,0 +1,313 @@
+Paar,Einstieg,Art,Ausstieg_A,Grund_A,Gewinn_A,Ausstieg_B,Grund_B,Gewinn_B,Einordnung
+BTC/USDT,2025-01-01 09:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-01 14:00:00+00:00,roi,1.00104597,2025-01-01 15:55:00+00:00,roi,1.00199588,erste Kippstelle dieses Paares
+BTC/USDT,2025-01-02 14:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-02 16:35:00+00:00,roi,1.00098166,2025-01-02 20:15:00+00:00,roi,1.00200341,moegliche Folgewirkung
+BTC/USDT,2025-01-03 08:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-03 15:45:00+00:00,roi,1.00096131,2025-01-03 16:15:00+00:00,roi,1.00194626,moegliche Folgewirkung
+BTC/USDT,2025-01-13 12:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-13 14:55:00+00:00,roi,1.00097934,2025-01-13 15:10:00+00:00,roi,1.00196675,moegliche Folgewirkung
+BTC/USDT,2025-01-19 09:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-19 14:25:00+00:00,roi,1.00095084,2025-01-19 19:50:00+00:00,roi,1.0020203,moegliche Folgewirkung
+BTC/USDT,2025-01-20 16:20:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-21 16:10:00+00:00,roi,1.00099306,2025-01-21 16:15:00+00:00,roi,1.00200721,moegliche Folgewirkung
+BTC/USDT,2025-02-03 02:00:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-02-03 03:10:00+00:00,roi,1.00104426,2025-02-03 07:45:00+00:00,roi,1.00200531,moegliche Folgewirkung
+BTC/USDT,2025-02-28 03:00:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-02-28 14:00:00+00:00,roi,1.00098908,2025-02-28 14:05:00+00:00,roi,1.00193415,moegliche Folgewirkung
+BTC/USDT,2025-03-03 07:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-03 11:05:00+00:00,roi,1.00101019,2025-03-03 11:10:00+00:00,roi,1.00200958,moegliche Folgewirkung
+BTC/USDT,2025-03-09 22:20:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-10 05:00:00+00:00,roi,1.00095675,2025-03-10 09:15:00+00:00,roi,1.00195105,moegliche Folgewirkung
+BTC/USDT,2025-03-12 04:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-12 08:10:00+00:00,roi,1.00095144,2025-03-12 11:30:00+00:00,roi,1.00204649,moegliche Folgewirkung
+BTC/USDT,2025-03-12 14:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-12 17:20:00+00:00,roi,1.00099531,2025-03-12 19:20:00+00:00,roi,1.00193388,moegliche Folgewirkung
+BTC/USDT,2025-03-13 15:45:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-14 07:40:00+00:00,roi,1.00100536,2025-03-14 08:25:00+00:00,roi,1.00203858,moegliche Folgewirkung
+BTC/USDT,2025-03-15 07:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-16 16:05:00+00:00,roi,1.00093575,2025-03-19 18:50:00+00:00,roi,1.00194765,moegliche Folgewirkung
+BTC/USDT,2025-03-16 23:15:00+00:00,Trade nur im Original,2025-03-17 01:00:00+00:00,roi,1.00103466,,,,moegliche Folgewirkung
+BTC/USDT,2025-03-17 06:40:00+00:00,Trade nur im Original,2025-03-17 12:00:00+00:00,roi,1.0010537,,,,moegliche Folgewirkung
+BTC/USDT,2025-03-18 02:00:00+00:00,Trade nur im Original,2025-03-19 13:15:00+00:00,roi,1.00095832,,,,moegliche Folgewirkung
+BTC/USDT,2025-03-20 10:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-20 14:15:00+00:00,roi,1.00103706,2025-03-20 14:25:00+00:00,roi,1.00199126,moegliche Folgewirkung
+BTC/USDT,2025-03-20 17:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-23 13:55:00+00:00,roi,1.00095311,2025-03-23 14:00:00+00:00,roi,1.0019668,moegliche Folgewirkung
+BTC/USDT,2025-03-24 23:00:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-25 20:05:00+00:00,roi,1.00096181,2025-04-06 18:50:00+00:00,stop_loss,-10.37983825,moegliche Folgewirkung
+BTC/USDT,2025-03-26 03:20:00+00:00,Trade nur im Original,2025-04-02 20:15:00+00:00,roi,1.00102217,,,,moegliche Folgewirkung
+BTC/USDT,2025-04-02 21:25:00+00:00,Trade nur im Original,2025-04-07 06:15:00+00:00,stop_loss,-10.18984199,,,,moegliche Folgewirkung
+BTC/USDT,2025-04-06 19:15:00+00:00,Trade nur in der Variante,,,,2025-04-07 14:15:00+00:00,roi,1.00197167,moegliche Folgewirkung
+BTC/USDT,2025-04-07 07:15:00+00:00,Trade nur im Original,2025-04-07 08:20:00+00:00,roi,1.00100493,,,,moegliche Folgewirkung
+BTC/USDT,2025-04-10 03:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-11 10:20:00+00:00,roi,1.00104074,2025-04-11 10:30:00+00:00,roi,1.00194753,moegliche Folgewirkung
+BTC/USDT,2025-04-12 03:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-12 08:10:00+00:00,roi,1.00095173,2025-04-12 13:40:00+00:00,roi,1.00201427,moegliche Folgewirkung
+BTC/USDT,2025-04-15 18:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-19 15:30:00+00:00,roi,1.00102666,2025-04-21 00:25:00+00:00,roi,1.00203846,moegliche Folgewirkung
+BTC/USDT,2025-04-20 07:15:00+00:00,Trade nur im Original,2025-04-21 00:25:00+00:00,roi,1.00099478,,,,moegliche Folgewirkung
+BTC/USDT,2025-04-21 11:45:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-21 14:20:00+00:00,roi,1.00101943,2025-04-21 14:25:00+00:00,roi,1.00200767,moegliche Folgewirkung
+BTC/USDT,2025-04-23 19:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-25 01:10:00+00:00,roi,1.00096779,2025-04-25 11:55:00+00:00,roi,1.00199285,moegliche Folgewirkung
+BTC/USDT,2025-04-25 03:10:00+00:00,Trade nur im Original,2025-04-25 11:30:00+00:00,roi,1.0009912,,,,moegliche Folgewirkung
+BTC/USDT,2025-04-26 09:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-28 11:25:00+00:00,roi,1.00094143,2025-05-01 09:50:00+00:00,roi,1.00202463,moegliche Folgewirkung
+BTC/USDT,2025-04-28 14:05:00+00:00,Trade nur im Original,2025-05-01 09:35:00+00:00,roi,1.00098275,,,,moegliche Folgewirkung
+BTC/USDT,2025-05-18 18:25:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-05-18 22:55:00+00:00,roi,1.00104025,2025-05-18 23:50:00+00:00,roi,1.00203874,moegliche Folgewirkung
+BTC/USDT,2025-05-19 04:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-05-19 15:35:00+00:00,roi,1.0010213,2025-05-19 16:25:00+00:00,roi,1.00200492,moegliche Folgewirkung
+BTC/USDT,2025-06-22 14:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-22 22:40:00+00:00,roi,1.00099805,2025-06-22 22:55:00+00:00,roi,1.00203468,moegliche Folgewirkung
+BTC/USDT,2025-06-23 10:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-23 17:35:00+00:00,roi,1.0010171,2025-06-23 18:05:00+00:00,roi,1.00201484,moegliche Folgewirkung
+BTC/USDT,2025-06-24 08:25:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-24 16:55:00+00:00,roi,1.00101826,2025-06-25 00:10:00+00:00,roi,1.00200701,moegliche Folgewirkung
+BTC/USDT,2025-06-27 01:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-29 10:20:00+00:00,roi,1.00104246,2025-06-29 11:50:00+00:00,roi,1.00203911,moegliche Folgewirkung
+BTC/USDT,2025-06-29 17:00:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-02 16:00:00+00:00,roi,1.00097869,2025-07-02 16:05:00+00:00,roi,1.00196721,moegliche Folgewirkung
+BTC/USDT,2025-07-03 02:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-03 09:20:00+00:00,roi,1.00095751,2025-07-03 09:40:00+00:00,roi,1.00199781,moegliche Folgewirkung
+BTC/USDT,2025-07-03 12:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-03 13:55:00+00:00,roi,1.00100007,2025-07-06 14:05:00+00:00,exit_signal,-0.60339464,moegliche Folgewirkung
+BTC/USDT,2025-07-04 02:50:00+00:00,Trade nur im Original,2025-07-06 14:05:00+00:00,exit_signal,-0.60073031,,,,moegliche Folgewirkung
+BTC/USDT,2025-07-07 07:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-09 19:20:00+00:00,roi,1.00101091,2025-07-09 19:30:00+00:00,roi,1.00202391,moegliche Folgewirkung
+BTC/USDT,2025-07-10 10:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-10 16:25:00+00:00,roi,1.0009771,2025-07-10 16:30:00+00:00,roi,1.00197055,moegliche Folgewirkung
+BTC/USDT,2025-07-11 16:25:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-13 12:50:00+00:00,roi,1.00097044,2025-07-13 14:15:00+00:00,roi,1.0020151,moegliche Folgewirkung
+BTC/USDT,2025-08-11 09:45:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-13 20:45:00+00:00,roi,1.00098386,2025-08-13 22:40:00+00:00,roi,1.00195235,moegliche Folgewirkung
+BTC/USDT,2025-08-25 20:45:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-26 20:15:00+00:00,roi,1.00097587,2025-08-26 21:55:00+00:00,roi,1.00200597,moegliche Folgewirkung
+BTC/USDT,2025-09-01 10:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-09-02 02:50:00+00:00,roi,1.0010112,2025-09-02 02:55:00+00:00,roi,1.00201725,moegliche Folgewirkung
+BTC/USDT,2025-09-02 13:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-09-02 14:00:00+00:00,roi,2.00200338,2025-09-02 14:05:00+00:00,roi,1.53449168,moegliche Folgewirkung
+BTC/USDT,2025-09-04 05:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-09-05 07:00:00+00:00,roi,1.00097993,2025-09-05 07:10:00+00:00,roi,1.00197887,moegliche Folgewirkung
+BTC/USDT,2025-09-05 15:20:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-09-08 10:00:00+00:00,roi,1.00104083,2025-09-08 13:05:00+00:00,roi,1.0020044,moegliche Folgewirkung
+BTC/USDT,2025-09-09 00:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-09-09 06:50:00+00:00,roi,1.00097049,2025-09-10 12:30:00+00:00,roi,1.00197676,moegliche Folgewirkung
+BTC/USDT,2025-09-09 12:05:00+00:00,Trade nur im Original,2025-09-10 13:40:00+00:00,roi,1.00104095,,,,moegliche Folgewirkung
+BTC/USDT,2025-09-12 08:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-09-12 18:35:00+00:00,roi,1.00096452,2025-09-12 19:10:00+00:00,exit_signal,0.77374862,moegliche Folgewirkung
+BTC/USDT,2025-09-13 14:20:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-09-17 06:55:00+00:00,roi,1.00097514,2025-09-18 03:10:00+00:00,roi,1.00199006,moegliche Folgewirkung
+BTC/USDT,2025-09-17 11:00:00+00:00,Trade nur im Original,2025-09-18 03:20:00+00:00,roi,1.00100375,,,,moegliche Folgewirkung
+BTC/USDT,2025-09-30 08:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-01 08:20:00+00:00,roi,1.00095644,2025-10-01 08:30:00+00:00,roi,1.00197043,moegliche Folgewirkung
+BTC/USDT,2025-10-02 15:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-02 18:50:00+00:00,roi,1.00098268,2025-10-02 19:05:00+00:00,roi,1.00200911,moegliche Folgewirkung
+BTC/USDT,2025-10-03 07:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-03 15:15:00+00:00,roi,1.0009768,2025-10-03 15:20:00+00:00,roi,1.00202934,moegliche Folgewirkung
+BTC/USDT,2025-10-05 10:20:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-06 11:30:00+00:00,roi,1.0009684,2025-10-06 13:05:00+00:00,roi,1.00201508,moegliche Folgewirkung
+BTC/USDT,2025-10-11 08:20:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-11 10:20:00+00:00,roi,1.00101258,2025-10-11 10:30:00+00:00,roi,1.00198944,moegliche Folgewirkung
+BTC/USDT,2025-10-13 11:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-13 13:30:00+00:00,roi,1.00102165,2025-10-13 19:20:00+00:00,roi,1.00201987,moegliche Folgewirkung
+BTC/USDT,2025-10-21 20:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-26 09:20:00+00:00,roi,1.00102899,2025-10-26 09:25:00+00:00,roi,1.00197118,moegliche Folgewirkung
+BTC/USDT,2025-10-26 21:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-26 22:45:00+00:00,roi,1.00099544,2025-10-26 23:00:00+00:00,roi,1.00196197,moegliche Folgewirkung
+BTC/USDT,2025-10-27 21:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-28 14:10:00+00:00,roi,1.00098785,2025-10-28 14:15:00+00:00,roi,1.00200551,moegliche Folgewirkung
+BTC/USDT,2025-11-04 17:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-05 13:40:00+00:00,roi,1.00103543,2025-11-05 13:45:00+00:00,roi,1.00198334,moegliche Folgewirkung
+BTC/USDT,2025-11-06 01:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-09 18:45:00+00:00,roi,1.00099395,2025-11-09 18:55:00+00:00,roi,1.00203279,moegliche Folgewirkung
+BTC/USDT,2025-11-17 20:20:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-18 15:20:00+00:00,roi,1.00101622,2025-11-18 15:25:00+00:00,roi,1.00201637,moegliche Folgewirkung
+BTC/USDT,2025-11-19 04:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-20 01:35:00+00:00,roi,1.00104677,2025-11-20 02:00:00+00:00,roi,1.00203844,moegliche Folgewirkung
+BTC/USDT,2025-11-21 07:45:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-21 14:50:00+00:00,roi,1.00105221,2025-11-21 17:25:00+00:00,roi,1.00197431,moegliche Folgewirkung
+BTC/USDT,2025-11-23 07:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-23 13:50:00+00:00,roi,1.00098483,2025-11-23 14:00:00+00:00,roi,1.00201396,moegliche Folgewirkung
+BTC/USDT,2025-11-24 00:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-24 02:00:00+00:00,roi,1.00095623,2025-11-24 02:05:00+00:00,roi,1.00202327,moegliche Folgewirkung
+BTC/USDT,2025-11-24 09:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-24 16:00:00+00:00,roi,1.00101986,2025-11-24 16:25:00+00:00,roi,1.00204766,moegliche Folgewirkung
+BTC/USDT,2025-11-25 00:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-26 17:35:00+00:00,roi,1.00097923,2025-11-26 17:40:00+00:00,roi,1.00196758,moegliche Folgewirkung
+BTC/USDT,2025-11-27 13:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-27 18:45:00+00:00,roi,1.00103283,2025-11-28 11:00:00+00:00,roi,1.00204039,moegliche Folgewirkung
+BTC/USDT,2025-11-28 08:05:00+00:00,Trade nur im Original,2025-11-28 13:45:00+00:00,roi,1.00097331,,,,moegliche Folgewirkung
+BTC/USDT,2025-11-28 17:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-30 09:15:00+00:00,roi,1.00097619,2025-11-30 13:20:00+00:00,roi,1.00197841,moegliche Folgewirkung
+BTC/USDT,2025-11-30 23:45:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-12-02 17:20:00+00:00,roi,1.00097951,2025-12-02 17:25:00+00:00,roi,1.00199705,moegliche Folgewirkung
+BTC/USDT,2025-12-11 00:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-12-11 21:10:00+00:00,roi,1.00097181,2025-12-11 21:15:00+00:00,roi,1.00202415,moegliche Folgewirkung
+ETH/USDT,2025-01-02 14:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-03 14:10:00+00:00,roi,1.00108472,2025-01-03 14:15:00+00:00,roi,1.00188393,erste Kippstelle dieses Paares
+ETH/USDT,2025-01-09 07:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-13 00:35:00+00:00,roi,1.00097438,2025-01-13 14:30:00+00:00,stop_loss,-10.37962116,moegliche Folgewirkung
+ETH/USDT,2025-01-13 05:45:00+00:00,Trade nur im Original,2025-01-15 13:30:00+00:00,roi,1.00109604,,,,moegliche Folgewirkung
+ETH/USDT,2025-01-13 14:45:00+00:00,Trade nur in der Variante,,,,2025-01-13 15:45:00+00:00,roi,1.18668199,moegliche Folgewirkung
+ETH/USDT,2025-01-15 10:05:00+00:00,Trade nur in der Variante,,,,2025-01-15 13:30:00+00:00,roi,1.00194912,moegliche Folgewirkung
+ETH/USDT,2025-01-19 22:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-20 04:45:00+00:00,roi,1.0008811,2025-01-20 05:05:00+00:00,roi,1.00207644,moegliche Folgewirkung
+ETH/USDT,2025-01-20 22:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-21 12:15:00+00:00,roi,1.00095701,2025-01-21 14:20:00+00:00,roi,1.00209767,moegliche Folgewirkung
+ETH/USDT,2025-01-22 08:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-22 12:00:00+00:00,roi,1.00084362,2025-01-23 23:20:00+00:00,roi,1.00195995,moegliche Folgewirkung
+ETH/USDT,2025-01-22 14:15:00+00:00,Trade nur im Original,2025-01-23 22:55:00+00:00,roi,1.00089715,,,,moegliche Folgewirkung
+ETH/USDT,2025-02-04 03:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-02-04 14:30:00+00:00,roi,1.00107505,2025-02-04 19:10:00+00:00,roi,1.00216334,moegliche Folgewirkung
+ETH/USDT,2025-02-18 04:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-02-19 10:20:00+00:00,roi,1.00097455,2025-02-20 02:45:00+00:00,roi,1.0020739,moegliche Folgewirkung
+ETH/USDT,2025-02-19 13:05:00+00:00,Trade nur im Original,2025-02-20 02:45:00+00:00,roi,1.00109621,,,,moegliche Folgewirkung
+ETH/USDT,2025-02-20 16:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-02-20 19:15:00+00:00,roi,1.00099684,2025-02-20 19:20:00+00:00,roi,1.00183897,moegliche Folgewirkung
+ETH/USDT,2025-02-25 07:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-02-25 10:30:00+00:00,roi,1.00111839,2025-02-25 11:45:00+00:00,roi,1.00193099,moegliche Folgewirkung
+ETH/USDT,2025-02-28 02:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-02-28 16:35:00+00:00,roi,1.00093132,2025-02-28 16:40:00+00:00,roi,1.00217148,moegliche Folgewirkung
+ETH/USDT,2025-03-01 07:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-02 09:30:00+00:00,roi,1.00106347,2025-03-02 10:30:00+00:00,roi,1.00193262,moegliche Folgewirkung
+ETH/USDT,2025-03-09 17:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-10 04:20:00+00:00,roi,1.00112353,2025-03-10 07:00:00+00:00,roi,1.00185682,moegliche Folgewirkung
+ETH/USDT,2025-03-10 19:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-10 20:25:00+00:00,roi,1.00109352,2025-03-10 20:55:00+00:00,roi,1.00184792,moegliche Folgewirkung
+ETH/USDT,2025-03-12 14:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-12 17:15:00+00:00,roi,1.00083527,2025-03-12 21:00:00+00:00,roi,1.00206514,moegliche Folgewirkung
+ETH/USDT,2025-03-13 04:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-13 10:30:00+00:00,roi,1.00075838,2025-03-13 10:50:00+00:00,roi,1.00223111,moegliche Folgewirkung
+ETH/USDT,2025-03-13 18:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-13 19:05:00+00:00,roi,1.04647715,2025-03-13 20:15:00+00:00,roi,1.00211153,moegliche Folgewirkung
+ETH/USDT,2025-03-14 20:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-15 17:25:00+00:00,roi,1.00076172,2025-03-15 21:35:00+00:00,roi,1.00190858,moegliche Folgewirkung
+ETH/USDT,2025-03-16 01:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-17 18:30:00+00:00,roi,1.00098972,2025-03-19 10:30:00+00:00,roi,1.00182648,moegliche Folgewirkung
+ETH/USDT,2025-03-17 23:40:00+00:00,Trade nur im Original,2025-03-19 10:30:00+00:00,roi,1.00121994,,,,moegliche Folgewirkung
+ETH/USDT,2025-04-02 23:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-03 00:30:00+00:00,roi,1.00123837,2025-04-03 00:35:00+00:00,roi,1.00207819,moegliche Folgewirkung
+ETH/USDT,2025-04-03 11:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-03 23:45:00+00:00,roi,1.00077679,2025-04-04 00:25:00+00:00,roi,1.00172836,moegliche Folgewirkung
+ETH/USDT,2025-04-04 10:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-04 15:15:00+00:00,roi,1.00119069,2025-04-04 17:45:00+00:00,roi,1.00193058,moegliche Folgewirkung
+ETH/USDT,2025-04-10 16:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-10 18:25:00+00:00,roi,1.00105086,2025-04-10 19:00:00+00:00,roi,1.00170621,moegliche Folgewirkung
+ETH/USDT,2025-04-12 02:20:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-12 05:30:00+00:00,roi,1.00124842,2025-04-12 06:10:00+00:00,roi,1.00176725,moegliche Folgewirkung
+ETH/USDT,2025-04-20 07:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-21 00:25:00+00:00,roi,1.00088623,2025-04-21 00:30:00+00:00,roi,1.00171729,moegliche Folgewirkung
+ETH/USDT,2025-04-23 15:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-23 16:35:00+00:00,roi,1.00103187,2025-04-23 17:05:00+00:00,roi,1.00223974,moegliche Folgewirkung
+ETH/USDT,2025-04-28 01:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-28 03:30:00+00:00,roi,1.0007821,2025-04-28 04:10:00+00:00,roi,1.00224841,moegliche Folgewirkung
+ETH/USDT,2025-04-28 13:45:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-29 06:20:00+00:00,roi,1.00078515,2025-04-29 06:55:00+00:00,roi,1.00192475,moegliche Folgewirkung
+ETH/USDT,2025-04-29 21:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-05-01 08:30:00+00:00,roi,1.00121814,2025-05-01 09:35:00+00:00,roi,1.00205572,moegliche Folgewirkung
+ETH/USDT,2025-05-02 07:20:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-05-02 14:35:00+00:00,roi,1.00124055,2025-05-02 14:40:00+00:00,roi,1.00177576,moegliche Folgewirkung
+ETH/USDT,2025-05-03 06:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-05-04 02:05:00+00:00,roi,1.00104323,2025-05-08 03:05:00+00:00,roi,1.00191057,moegliche Folgewirkung
+ETH/USDT,2025-05-04 23:00:00+00:00,Trade nur im Original,2025-05-07 00:20:00+00:00,roi,1.00120761,,,,moegliche Folgewirkung
+ETH/USDT,2025-05-07 16:45:00+00:00,Trade nur im Original,2025-05-08 01:00:00+00:00,roi,1.00123711,,,,moegliche Folgewirkung
+ETH/USDT,2025-05-12 18:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-05-12 19:55:00+00:00,roi,1.0010054,2025-05-12 20:25:00+00:00,roi,1.00202923,moegliche Folgewirkung
+ETH/USDT,2025-05-20 11:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-05-20 23:15:00+00:00,roi,1.00109825,2025-05-21 01:10:00+00:00,roi,1.00200237,moegliche Folgewirkung
+ETH/USDT,2025-05-23 06:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-05-27 17:40:00+00:00,roi,1.00082944,2025-05-27 17:45:00+00:00,roi,1.00187414,moegliche Folgewirkung
+ETH/USDT,2025-05-28 10:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-05-28 11:35:00+00:00,roi,1.00094622,2025-05-28 12:00:00+00:00,roi,1.0017976,moegliche Folgewirkung
+ETH/USDT,2025-06-05 21:20:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-06 03:40:00+00:00,roi,1.00082451,2025-06-06 03:45:00+00:00,roi,1.00217617,moegliche Folgewirkung
+ETH/USDT,2025-06-07 00:25:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-07 05:45:00+00:00,roi,1.00095915,2025-06-07 06:55:00+00:00,roi,1.00207859,moegliche Folgewirkung
+ETH/USDT,2025-06-08 09:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-08 17:00:00+00:00,roi,1.00113874,2025-06-08 19:10:00+00:00,roi,1.0019227,moegliche Folgewirkung
+ETH/USDT,2025-06-08 23:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-09 10:30:00+00:00,roi,1.00083749,2025-06-09 11:30:00+00:00,roi,1.00189989,moegliche Folgewirkung
+ETH/USDT,2025-06-13 01:45:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-13 06:55:00+00:00,roi,1.00108068,2025-06-13 07:25:00+00:00,roi,1.0018566,moegliche Folgewirkung
+ETH/USDT,2025-06-14 07:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-16 02:00:00+00:00,roi,1.00087176,2025-06-16 02:05:00+00:00,roi,1.00197918,moegliche Folgewirkung
+ETH/USDT,2025-06-16 23:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-17 02:55:00+00:00,roi,1.00115886,2025-06-20 08:40:00+00:00,exit_signal,-1.36598719,moegliche Folgewirkung
+ETH/USDT,2025-06-17 10:25:00+00:00,Trade nur im Original,2025-06-20 08:40:00+00:00,exit_signal,-0.41417341,,,,moegliche Folgewirkung
+ETH/USDT,2025-06-21 23:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-23 19:35:00+00:00,roi,1.00114255,2025-06-23 20:10:00+00:00,roi,1.00217755,moegliche Folgewirkung
+ETH/USDT,2025-06-30 07:20:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-30 19:20:00+00:00,roi,1.00082187,2025-06-30 19:25:00+00:00,roi,1.00190761,moegliche Folgewirkung
+ETH/USDT,2025-07-11 11:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-13 14:15:00+00:00,roi,1.000866,2025-07-14 03:35:00+00:00,roi,1.00206538,moegliche Folgewirkung
+ETH/USDT,2025-07-13 21:50:00+00:00,Trade nur im Original,2025-07-14 02:45:00+00:00,roi,1.00100851,,,,moegliche Folgewirkung
+ETH/USDT,2025-07-15 01:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-15 12:30:00+00:00,roi,1.00107027,2025-07-15 13:05:00+00:00,roi,1.00196963,moegliche Folgewirkung
+ETH/USDT,2025-07-21 16:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-27 10:40:00+00:00,roi,1.0010539,2025-07-27 10:45:00+00:00,roi,1.00185717,moegliche Folgewirkung
+ETH/USDT,2025-08-02 18:25:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-03 05:30:00+00:00,roi,1.00102637,2025-08-03 08:05:00+00:00,roi,1.00184367,moegliche Folgewirkung
+ETH/USDT,2025-08-05 04:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-07 01:25:00+00:00,roi,1.00107821,2025-08-07 01:30:00+00:00,roi,1.00185933,moegliche Folgewirkung
+ETH/USDT,2025-08-10 21:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-11 00:15:00+00:00,roi,1.00087431,2025-08-11 00:20:00+00:00,roi,1.00206926,moegliche Folgewirkung
+ETH/USDT,2025-08-11 20:25:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-12 02:25:00+00:00,roi,1.0010144,2025-08-12 02:30:00+00:00,roi,1.00198267,moegliche Folgewirkung
+ETH/USDT,2025-08-20 11:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-20 14:50:00+00:00,roi,1.00091273,2025-08-20 15:05:00+00:00,roi,1.0019342,moegliche Folgewirkung
+ETH/USDT,2025-08-23 01:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-24 15:20:00+00:00,roi,1.00093088,2025-08-24 17:10:00+00:00,roi,1.00195071,moegliche Folgewirkung
+ETH/USDT,2025-08-29 14:25:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-29 16:20:00+00:00,roi,1.0008814,2025-08-29 19:45:00+00:00,roi,1.00195146,moegliche Folgewirkung
+ETH/USDT,2025-08-30 12:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-31 00:40:00+00:00,roi,1.00090882,2025-08-31 00:45:00+00:00,roi,1.00202343,moegliche Folgewirkung
+ETH/USDT,2025-08-31 20:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-09-12 00:40:00+00:00,roi,1.00090702,2025-09-12 00:45:00+00:00,roi,1.00196968,moegliche Folgewirkung
+ETH/USDT,2025-09-22 06:25:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-09-30 00:50:00+00:00,roi,1.00096699,2025-10-01 08:40:00+00:00,roi,1.00194963,moegliche Folgewirkung
+ETH/USDT,2025-09-30 09:20:00+00:00,Trade nur im Original,2025-10-01 08:35:00+00:00,roi,1.00103372,,,,moegliche Folgewirkung
+ETH/USDT,2025-10-04 01:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-05 02:30:00+00:00,roi,1.00104177,2025-10-05 03:00:00+00:00,roi,1.00188855,moegliche Folgewirkung
+ETH/USDT,2025-10-07 08:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-07 11:30:00+00:00,roi,1.00091236,2025-10-07 12:45:00+00:00,roi,1.00202375,moegliche Folgewirkung
+ETH/USDT,2025-10-15 15:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-16 10:10:00+00:00,roi,1.00096879,2025-10-16 10:15:00+00:00,roi,1.00204711,moegliche Folgewirkung
+ETH/USDT,2025-10-16 14:25:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-20 04:05:00+00:00,roi,1.00101973,2025-10-20 04:55:00+00:00,roi,1.00199759,moegliche Folgewirkung
+ETH/USDT,2025-10-24 16:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-24 19:05:00+00:00,roi,1.00106756,2025-10-24 19:25:00+00:00,roi,1.00211481,moegliche Folgewirkung
+ETH/USDT,2025-11-02 10:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-02 23:55:00+00:00,roi,1.00110295,2025-11-04 06:05:00+00:00,stop_loss,-10.37980588,moegliche Folgewirkung
+ETH/USDT,2025-11-03 02:25:00+00:00,Trade nur im Original,2025-11-04 16:45:00+00:00,stop_loss,-10.18959752,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-04 06:15:00+00:00,Trade nur in der Variante,,,,2025-11-04 15:00:00+00:00,roi,1.00208456,moegliche Folgewirkung
+ETH/USDT,2025-11-04 21:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-04 22:10:00+00:00,roi,4.00383966,2025-11-04 22:20:00+00:00,roi,3.59330835,moegliche Folgewirkung
+ETH/USDT,2025-11-06 06:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-07 18:30:00+00:00,roi,1.00100434,2025-11-07 18:55:00+00:00,exit_signal,0.61843331,moegliche Folgewirkung
+ETH/USDT,2025-11-10 15:25:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-10 20:45:00+00:00,roi,1.00086681,2025-11-11 00:55:00+00:00,roi,1.00205532,moegliche Folgewirkung
+ETH/USDT,2025-11-11 21:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-12 08:30:00+00:00,roi,1.0009093,2025-11-12 08:35:00+00:00,roi,1.00185012,moegliche Folgewirkung
+ETH/USDT,2025-11-12 15:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-13 07:25:00+00:00,roi,1.00098526,2025-11-13 07:30:00+00:00,roi,1.00197631,moegliche Folgewirkung
+ETH/USDT,2025-11-14 12:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-14 14:05:00+00:00,roi,1.00104051,2025-11-14 14:20:00+00:00,roi,1.00200803,moegliche Folgewirkung
+ETH/USDT,2025-11-15 21:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-16 05:15:00+00:00,roi,1.00111051,2025-11-16 08:00:00+00:00,roi,1.00188729,moegliche Folgewirkung
+ETH/USDT,2025-11-16 12:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-17 09:15:00+00:00,roi,1.00104791,2025-11-17 11:30:00+00:00,roi,1.00191511,moegliche Folgewirkung
+ETH/USDT,2025-11-17 20:20:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-17 22:05:00+00:00,roi,1.00089681,2025-11-17 22:10:00+00:00,roi,1.00193385,moegliche Folgewirkung
+ETH/USDT,2025-11-23 17:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-23 21:50:00+00:00,roi,1.00087296,2025-11-24 02:05:00+00:00,roi,1.00192758,moegliche Folgewirkung
+ETH/USDT,2025-11-24 00:25:00+00:00,Trade nur im Original,2025-11-24 02:00:00+00:00,roi,1.00105353,,,,moegliche Folgewirkung
+ETH/USDT,2025-11-27 13:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-27 18:40:00+00:00,roi,1.00097552,2025-11-27 20:35:00+00:00,roi,1.00200906,moegliche Folgewirkung
+ETH/USDT,2025-11-29 18:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-30 01:05:00+00:00,roi,1.00115053,2025-11-30 08:20:00+00:00,roi,1.00184143,moegliche Folgewirkung
+ETH/USDT,2025-11-30 03:25:00+00:00,Trade nur im Original,2025-11-30 12:40:00+00:00,roi,1.00092269,,,,moegliche Folgewirkung
+ETH/USDT,2025-12-01 03:45:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-12-02 14:05:00+00:00,roi,1.00082259,2025-12-02 14:25:00+00:00,roi,1.0019102,moegliche Folgewirkung
+ETH/USDT,2025-12-04 19:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-12-04 20:40:00+00:00,roi,1.0008943,2025-12-04 20:45:00+00:00,roi,1.00195611,moegliche Folgewirkung
+ETH/USDT,2025-12-16 04:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-12-16 06:25:00+00:00,roi,1.00103569,2025-12-16 06:55:00+00:00,roi,1.00192507,moegliche Folgewirkung
+ETH/USDT,2025-12-17 16:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-12-18 13:00:00+00:00,roi,1.00113542,2025-12-18 13:05:00+00:00,roi,1.00190635,moegliche Folgewirkung
+ETH/USDT,2025-12-22 20:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-12-23 00:15:00+00:00,roi,1.00101061,2025-12-23 00:30:00+00:00,roi,1.00206543,moegliche Folgewirkung
+SOL/USDT,2025-01-01 04:45:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-01 15:45:00+00:00,roi,1.00018796,2025-01-01 19:10:00+00:00,roi,1.00407666,erste Kippstelle dieses Paares
+SOL/USDT,2025-01-04 15:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-04 22:55:00+00:00,roi,1.00142579,2025-01-05 00:30:00+00:00,roi,1.00026045,moegliche Folgewirkung
+SOL/USDT,2025-01-09 08:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-09 15:50:00+00:00,roi,0.99995208,2025-01-11 21:40:00+00:00,exit_signal,-0.19584565,moegliche Folgewirkung
+SOL/USDT,2025-01-09 20:45:00+00:00,Trade nur im Original,2025-01-09 22:30:00+00:00,roi,0.99929823,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-10 13:55:00+00:00,Trade nur im Original,2025-01-10 17:50:00+00:00,roi,1.00046293,,,,moegliche Folgewirkung
+SOL/USDT,2025-01-12 01:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-12 15:15:00+00:00,roi,1.00104054,2025-01-12 15:20:00+00:00,roi,1.00247789,moegliche Folgewirkung
+SOL/USDT,2025-01-13 03:00:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-14 09:20:00+00:00,roi,0.99907942,2025-01-14 09:25:00+00:00,roi,1.00200207,moegliche Folgewirkung
+SOL/USDT,2025-01-14 12:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-14 13:30:00+00:00,roi,1.00064337,2025-01-14 14:25:00+00:00,roi,1.00291829,moegliche Folgewirkung
+SOL/USDT,2025-01-20 12:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-20 13:55:00+00:00,roi,1.00138991,2025-01-20 14:15:00+00:00,roi,1.00021876,moegliche Folgewirkung
+SOL/USDT,2025-01-23 02:45:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-23 14:40:00+00:00,roi,1.00279222,2025-01-23 14:45:00+00:00,roi,1.0018531,moegliche Folgewirkung
+SOL/USDT,2025-01-28 19:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-29 07:20:00+00:00,roi,1.00168661,2025-01-29 07:45:00+00:00,roi,1.00344335,moegliche Folgewirkung
+SOL/USDT,2025-01-30 00:20:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-30 01:15:00+00:00,roi,2.00141967,2025-01-30 01:20:00+00:00,roi,1.82544965,moegliche Folgewirkung
+SOL/USDT,2025-01-31 03:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-01-31 11:55:00+00:00,roi,1.00167644,2025-01-31 12:15:00+00:00,roi,1.00337064,moegliche Folgewirkung
+SOL/USDT,2025-02-02 04:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-02-02 05:50:00+00:00,roi,0.99994191,2025-02-02 05:55:00+00:00,roi,1.00328796,moegliche Folgewirkung
+SOL/USDT,2025-02-02 11:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-02-02 13:35:00+00:00,roi,0.99969856,2025-02-02 13:40:00+00:00,roi,1.00381798,moegliche Folgewirkung
+SOL/USDT,2025-02-03 02:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-02-03 03:00:00+00:00,roi,2.00340165,2025-02-03 03:05:00+00:00,roi,2.00226704,moegliche Folgewirkung
+SOL/USDT,2025-02-04 06:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-02-04 10:40:00+00:00,roi,1.00238757,2025-02-04 11:00:00+00:00,roi,0.99976685,moegliche Folgewirkung
+SOL/USDT,2025-02-21 15:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-02-21 17:05:00+00:00,roi,0.99889143,2025-02-24 10:20:00+00:00,stop_loss,-10.37884012,moegliche Folgewirkung
+SOL/USDT,2025-02-21 19:35:00+00:00,Trade nur im Original,2025-02-22 01:35:00+00:00,roi,0.99872831,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-23 12:45:00+00:00,Trade nur im Original,2025-02-24 15:25:00+00:00,stop_loss,-10.18702865,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-24 10:45:00+00:00,Trade nur in der Variante,,,,2025-02-24 11:45:00+00:00,roi,1.02352473,moegliche Folgewirkung
+SOL/USDT,2025-02-24 15:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-02-24 17:20:00+00:00,roi,1.00101889,2025-02-25 04:00:00+00:00,stop_loss,-10.37673569,moegliche Folgewirkung
+SOL/USDT,2025-02-24 23:05:00+00:00,Trade nur im Original,2025-02-25 19:55:00+00:00,roi,1.00428462,,,,moegliche Folgewirkung
+SOL/USDT,2025-02-25 07:40:00+00:00,Trade nur in der Variante,,,,2025-02-25 08:45:00+00:00,roi,0.99926863,moegliche Folgewirkung
+SOL/USDT,2025-02-26 01:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-02-26 03:00:00+00:00,roi,1.00006201,2025-02-26 03:05:00+00:00,roi,1.00217651,moegliche Folgewirkung
+SOL/USDT,2025-02-26 12:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-02-26 15:10:00+00:00,roi,0.99822206,2025-02-26 15:30:00+00:00,roi,0.99893015,moegliche Folgewirkung
+SOL/USDT,2025-02-27 19:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-02-27 21:15:00+00:00,roi,1.00167165,2025-02-28 13:20:00+00:00,roi,1.00542697,moegliche Folgewirkung
+SOL/USDT,2025-02-28 02:05:00+00:00,Trade nur im Original,2025-02-28 11:25:00+00:00,roi,0.99804137,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-01 06:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-02 01:20:00+00:00,roi,0.99960431,2025-03-02 15:25:00+00:00,roi,0.99929197,moegliche Folgewirkung
+SOL/USDT,2025-03-02 14:25:00+00:00,Trade nur im Original,2025-03-02 15:25:00+00:00,roi,1.14626543,,,,moegliche Folgewirkung
+SOL/USDT,2025-03-05 04:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-05 06:45:00+00:00,roi,1.00012601,2025-03-05 06:50:00+00:00,roi,1.00344733,moegliche Folgewirkung
+SOL/USDT,2025-03-06 17:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-06 21:10:00+00:00,roi,1.0040324,2025-03-06 22:00:00+00:00,roi,1.00445736,moegliche Folgewirkung
+SOL/USDT,2025-03-08 22:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-09 01:00:00+00:00,roi,0.99815585,2025-03-09 05:00:00+00:00,roi,1.00131513,moegliche Folgewirkung
+SOL/USDT,2025-03-10 15:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-11 05:15:00+00:00,roi,1.00262786,2025-03-11 05:55:00+00:00,roi,1.005748,moegliche Folgewirkung
+SOL/USDT,2025-03-13 18:00:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-13 19:00:00+00:00,roi,0.99847082,2025-03-13 22:50:00+00:00,roi,1.00228347,moegliche Folgewirkung
+SOL/USDT,2025-03-25 22:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-03-26 08:40:00+00:00,roi,0.99932875,2025-03-26 10:25:00+00:00,roi,1.00013841,moegliche Folgewirkung
+SOL/USDT,2025-04-01 18:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-02 13:45:00+00:00,roi,1.00208958,2025-04-02 14:55:00+00:00,roi,0.99840054,moegliche Folgewirkung
+SOL/USDT,2025-04-02 23:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-04 15:15:00+00:00,roi,1.00321162,2025-04-04 16:55:00+00:00,roi,1.00234176,moegliche Folgewirkung
+SOL/USDT,2025-04-10 01:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-11 10:20:00+00:00,roi,1.00197101,2025-04-11 10:30:00+00:00,roi,1.00515387,moegliche Folgewirkung
+SOL/USDT,2025-04-13 05:20:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-13 09:55:00+00:00,roi,0.99870701,2025-04-13 17:20:00+00:00,roi,1.00476808,moegliche Folgewirkung
+SOL/USDT,2025-04-15 18:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-16 15:25:00+00:00,roi,1.00333126,2025-04-16 17:05:00+00:00,roi,1.00508331,moegliche Folgewirkung
+SOL/USDT,2025-04-21 17:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-21 19:50:00+00:00,roi,1.00423676,2025-04-21 19:55:00+00:00,roi,1.00230658,moegliche Folgewirkung
+SOL/USDT,2025-04-23 19:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-23 22:30:00+00:00,roi,1.00184341,2025-04-23 23:05:00+00:00,roi,1.0007473,moegliche Folgewirkung
+SOL/USDT,2025-04-26 11:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-04-28 06:35:00+00:00,roi,1.00248024,2025-04-28 06:40:00+00:00,roi,1.00260801,moegliche Folgewirkung
+SOL/USDT,2025-05-01 14:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-05-01 15:05:00+00:00,roi,1.00297704,2025-05-01 15:10:00+00:00,roi,0.99986735,moegliche Folgewirkung
+SOL/USDT,2025-05-14 02:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-05-14 05:45:00+00:00,roi,1.00368113,2025-05-14 05:50:00+00:00,roi,1.00196542,moegliche Folgewirkung
+SOL/USDT,2025-05-14 09:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-05-14 10:25:00+00:00,roi,1.0015934,2025-05-14 11:30:00+00:00,roi,1.00138641,moegliche Folgewirkung
+SOL/USDT,2025-05-14 17:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-05-14 18:55:00+00:00,roi,1.00202761,2025-05-14 19:10:00+00:00,roi,1.00096189,moegliche Folgewirkung
+SOL/USDT,2025-05-15 02:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-05-22 03:50:00+00:00,roi,1.00217201,2025-05-22 07:40:00+00:00,roi,1.00018159,moegliche Folgewirkung
+SOL/USDT,2025-05-23 12:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-05-23 14:00:00+00:00,roi,1.00273805,2025-05-23 14:35:00+00:00,roi,1.00272125,moegliche Folgewirkung
+SOL/USDT,2025-05-24 00:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-05-24 10:45:00+00:00,roi,1.00278958,2025-05-24 10:50:00+00:00,roi,1.00090085,moegliche Folgewirkung
+SOL/USDT,2025-05-24 23:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-05-26 06:55:00+00:00,roi,1.00293049,2025-05-26 07:05:00+00:00,roi,1.00012463,moegliche Folgewirkung
+SOL/USDT,2025-05-26 18:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-05-27 08:00:00+00:00,roi,0.99829541,2025-05-27 11:25:00+00:00,roi,1.00329426,moegliche Folgewirkung
+SOL/USDT,2025-05-30 17:00:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-05-30 18:15:00+00:00,roi,1.0022415,2025-05-30 18:20:00+00:00,roi,1.00331826,moegliche Folgewirkung
+SOL/USDT,2025-05-30 22:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-03 01:20:00+00:00,roi,1.00391722,2025-06-03 01:25:00+00:00,roi,1.00421377,moegliche Folgewirkung
+SOL/USDT,2025-06-05 21:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-05 22:35:00+00:00,roi,1.00361399,2025-06-05 22:45:00+00:00,roi,1.00514103,moegliche Folgewirkung
+SOL/USDT,2025-06-07 00:25:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-07 03:35:00+00:00,roi,0.99928638,2025-06-07 03:45:00+00:00,roi,1.00115154,moegliche Folgewirkung
+SOL/USDT,2025-06-07 15:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-08 17:00:00+00:00,roi,1.00425164,2025-06-08 17:05:00+00:00,roi,1.00135059,moegliche Folgewirkung
+SOL/USDT,2025-06-08 23:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-09 09:45:00+00:00,roi,0.9980915,2025-06-09 10:10:00+00:00,exit_signal,0.17555516,moegliche Folgewirkung
+SOL/USDT,2025-06-14 07:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-15 06:00:00+00:00,roi,1.00369646,2025-06-15 13:45:00+00:00,roi,1.00062944,moegliche Folgewirkung
+SOL/USDT,2025-06-15 09:25:00+00:00,Trade nur im Original,2025-06-15 11:50:00+00:00,roi,0.9992953,,,,moegliche Folgewirkung
+SOL/USDT,2025-06-16 11:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-16 14:00:00+00:00,roi,1.00229686,2025-06-16 14:30:00+00:00,roi,1.00020521,moegliche Folgewirkung
+SOL/USDT,2025-06-20 18:00:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-20 20:00:00+00:00,roi,0.99848232,2025-06-20 20:05:00+00:00,roi,0.99923393,moegliche Folgewirkung
+SOL/USDT,2025-06-22 13:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-22 14:50:00+00:00,roi,1.00333315,2025-06-22 17:10:00+00:00,roi,1.00377611,moegliche Folgewirkung
+SOL/USDT,2025-06-23 16:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-23 17:20:00+00:00,roi,2.00050459,2025-06-23 17:25:00+00:00,roi,2.00226827,moegliche Folgewirkung
+SOL/USDT,2025-06-26 10:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-06-28 07:45:00+00:00,roi,0.99918786,2025-06-28 07:55:00+00:00,roi,0.99880623,moegliche Folgewirkung
+SOL/USDT,2025-07-03 16:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-03 20:25:00+00:00,roi,1.00033809,2025-07-03 20:55:00+00:00,roi,1.00451361,moegliche Folgewirkung
+SOL/USDT,2025-07-04 08:25:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-06 13:45:00+00:00,roi,0.99943908,2025-07-06 13:50:00+00:00,roi,1.00460183,moegliche Folgewirkung
+SOL/USDT,2025-07-07 20:25:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-08 09:10:00+00:00,roi,1.00418081,2025-07-08 09:45:00+00:00,roi,1.00459159,moegliche Folgewirkung
+SOL/USDT,2025-07-08 15:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-08 18:20:00+00:00,roi,1.00185346,2025-07-08 18:45:00+00:00,roi,0.99965339,moegliche Folgewirkung
+SOL/USDT,2025-07-10 01:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-10 02:05:00+00:00,roi,1.07773725,2025-07-10 02:10:00+00:00,roi,1.0041043,moegliche Folgewirkung
+SOL/USDT,2025-07-11 16:25:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-11 17:50:00+00:00,roi,0.9999073,2025-07-11 18:10:00+00:00,roi,1.00156422,moegliche Folgewirkung
+SOL/USDT,2025-07-11 21:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-14 02:25:00+00:00,roi,1.00034974,2025-07-14 02:40:00+00:00,roi,1.00208121,moegliche Folgewirkung
+SOL/USDT,2025-07-14 16:00:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-16 09:00:00+00:00,roi,1.00038417,2025-07-16 09:10:00+00:00,roi,1.0000609,moegliche Folgewirkung
+SOL/USDT,2025-07-16 23:25:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-17 09:05:00+00:00,roi,1.0037532,2025-07-17 09:25:00+00:00,roi,1.00393193,moegliche Folgewirkung
+SOL/USDT,2025-07-22 05:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-22 06:10:00+00:00,roi,1.001772,2025-07-22 06:15:00+00:00,roi,1.00405561,moegliche Folgewirkung
+SOL/USDT,2025-07-25 14:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-25 17:10:00+00:00,roi,1.00057119,2025-07-25 17:30:00+00:00,roi,1.00113277,moegliche Folgewirkung
+SOL/USDT,2025-07-26 02:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-26 08:30:00+00:00,roi,0.99834641,2025-07-26 08:45:00+00:00,roi,1.00206392,moegliche Folgewirkung
+SOL/USDT,2025-07-27 12:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-07-27 16:20:00+00:00,roi,1.00193246,2025-07-27 16:30:00+00:00,roi,1.00442466,moegliche Folgewirkung
+SOL/USDT,2025-08-01 22:45:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-01 23:45:00+00:00,roi,0.99845178,2025-08-02 00:10:00+00:00,roi,1.00196371,moegliche Folgewirkung
+SOL/USDT,2025-08-02 07:00:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-02 08:15:00+00:00,roi,1.0029476,2025-08-02 11:30:00+00:00,roi,1.00407803,moegliche Folgewirkung
+SOL/USDT,2025-08-02 16:45:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-04 00:35:00+00:00,roi,0.99847723,2025-08-04 00:45:00+00:00,roi,1.00093842,moegliche Folgewirkung
+SOL/USDT,2025-08-04 19:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-04 21:00:00+00:00,roi,1.00056129,2025-08-04 21:10:00+00:00,roi,1.00427528,moegliche Folgewirkung
+SOL/USDT,2025-08-05 13:20:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-06 18:00:00+00:00,roi,1.00296839,2025-08-07 07:15:00+00:00,roi,1.00404142,moegliche Folgewirkung
+SOL/USDT,2025-08-10 06:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-10 19:35:00+00:00,roi,1.00268371,2025-08-10 21:20:00+00:00,roi,0.99988937,moegliche Folgewirkung
+SOL/USDT,2025-08-11 07:45:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-12 17:05:00+00:00,roi,1.00079935,2025-08-12 17:15:00+00:00,roi,1.00043494,moegliche Folgewirkung
+SOL/USDT,2025-08-13 15:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-13 16:15:00+00:00,roi,1.00042579,2025-08-13 16:20:00+00:00,roi,1.00248282,moegliche Folgewirkung
+SOL/USDT,2025-08-23 11:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-24 00:00:00+00:00,roi,1.00337498,2025-08-24 00:15:00+00:00,roi,1.00417474,moegliche Folgewirkung
+SOL/USDT,2025-08-24 20:20:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-24 23:10:00+00:00,roi,1.00136798,2025-08-24 23:15:00+00:00,roi,1.00100966,moegliche Folgewirkung
+SOL/USDT,2025-08-30 09:20:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-08-31 00:50:00+00:00,roi,1.00200998,2025-08-31 00:55:00+00:00,roi,1.002582,moegliche Folgewirkung
+SOL/USDT,2025-09-01 00:20:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-09-01 07:55:00+00:00,roi,1.00181129,2025-09-01 08:00:00+00:00,roi,0.99987948,moegliche Folgewirkung
+SOL/USDT,2025-09-01 21:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-09-02 00:20:00+00:00,roi,1.00108851,2025-09-02 01:20:00+00:00,roi,1.00412237,moegliche Folgewirkung
+SOL/USDT,2025-09-02 13:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-09-02 13:45:00+00:00,roi,2.00083533,2025-09-02 13:55:00+00:00,roi,2.00397177,moegliche Folgewirkung
+SOL/USDT,2025-09-05 09:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-09-05 12:25:00+00:00,roi,1.00191415,2025-09-05 12:30:00+00:00,roi,1.00001936,moegliche Folgewirkung
+SOL/USDT,2025-09-05 15:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-09-05 19:15:00+00:00,roi,1.00076677,2025-09-07 22:40:00+00:00,roi,1.0011313,moegliche Folgewirkung
+SOL/USDT,2025-09-06 06:05:00+00:00,Trade nur im Original,2025-09-07 15:40:00+00:00,roi,0.99868082,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-07 17:40:00+00:00,Trade nur im Original,2025-09-07 20:55:00+00:00,roi,1.00010332,,,,moegliche Folgewirkung
+SOL/USDT,2025-09-13 17:25:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-09-13 20:30:00+00:00,roi,0.99965815,2025-09-13 21:05:00+00:00,roi,1.00030282,moegliche Folgewirkung
+SOL/USDT,2025-09-14 11:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-09-18 16:10:00+00:00,roi,1.001413,2025-09-18 16:45:00+00:00,roi,1.00294877,moegliche Folgewirkung
+SOL/USDT,2025-09-27 06:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-09-27 22:15:00+00:00,roi,1.00158686,2025-09-27 22:20:00+00:00,roi,1.00291835,moegliche Folgewirkung
+SOL/USDT,2025-09-30 07:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-01 08:25:00+00:00,roi,0.99998462,2025-10-01 08:30:00+00:00,roi,1.00415288,moegliche Folgewirkung
+SOL/USDT,2025-10-03 05:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-03 15:35:00+00:00,roi,1.00178957,2025-10-03 15:50:00+00:00,roi,1.00356377,moegliche Folgewirkung
+SOL/USDT,2025-10-05 09:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-06 17:20:00+00:00,roi,0.99929362,2025-10-06 17:30:00+00:00,roi,1.00274985,moegliche Folgewirkung
+SOL/USDT,2025-10-07 00:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-07 04:35:00+00:00,roi,1.00200408,2025-10-07 04:50:00+00:00,roi,1.00308653,moegliche Folgewirkung
+SOL/USDT,2025-10-14 07:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-14 14:15:00+00:00,roi,1.00195588,2025-10-14 15:40:00+00:00,roi,1.00427043,moegliche Folgewirkung
+SOL/USDT,2025-10-17 07:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-17 11:10:00+00:00,roi,1.00004913,2025-10-17 11:15:00+00:00,roi,0.99958539,moegliche Folgewirkung
+SOL/USDT,2025-10-19 01:00:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-19 09:45:00+00:00,roi,0.99914401,2025-10-19 09:50:00+00:00,roi,1.00207759,moegliche Folgewirkung
+SOL/USDT,2025-10-21 23:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-23 08:05:00+00:00,roi,1.00296629,2025-10-23 08:15:00+00:00,roi,1.00026766,moegliche Folgewirkung
+SOL/USDT,2025-10-25 10:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-25 18:55:00+00:00,roi,1.00160754,2025-10-25 20:45:00+00:00,roi,1.0030707,moegliche Folgewirkung
+SOL/USDT,2025-10-27 08:45:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-28 08:35:00+00:00,roi,0.99864043,2025-10-28 08:40:00+00:00,roi,1.00115462,moegliche Folgewirkung
+SOL/USDT,2025-10-28 20:40:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-29 10:35:00+00:00,roi,1.00212785,2025-10-29 11:05:00+00:00,roi,1.00107879,moegliche Folgewirkung
+SOL/USDT,2025-10-29 16:20:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-10-29 17:35:00+00:00,roi,1.00244628,2025-11-03 04:05:00+00:00,stop_loss,-10.37641805,moegliche Folgewirkung
+SOL/USDT,2025-10-30 04:40:00+00:00,Trade nur im Original,2025-11-03 06:45:00+00:00,stop_loss,-10.18742394,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-03 04:55:00+00:00,Trade nur in der Variante,,,,2025-11-04 05:30:00+00:00,stop_loss,-10.37663468,moegliche Folgewirkung
+SOL/USDT,2025-11-03 06:55:00+00:00,Trade nur im Original,2025-11-04 05:50:00+00:00,stop_loss,-10.18601637,,,,moegliche Folgewirkung
+SOL/USDT,2025-11-04 06:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-04 11:15:00+00:00,roi,0.99947349,2025-11-04 11:20:00+00:00,roi,1.00422616,moegliche Folgewirkung
+SOL/USDT,2025-11-04 17:25:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-05 05:10:00+00:00,roi,0.99923247,2025-11-05 13:35:00+00:00,roi,1.0019526,moegliche Folgewirkung
+SOL/USDT,2025-11-06 06:00:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-06 13:45:00+00:00,roi,1.00376425,2025-11-06 14:00:00+00:00,roi,1.00298604,moegliche Folgewirkung
+SOL/USDT,2025-11-17 19:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-18 01:20:00+00:00,roi,0.99947118,2025-11-18 02:20:00+00:00,roi,1.0043427,moegliche Folgewirkung
+SOL/USDT,2025-11-19 00:25:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-19 02:10:00+00:00,roi,1.00051421,2025-11-19 02:35:00+00:00,roi,0.99919804,moegliche Folgewirkung
+SOL/USDT,2025-11-22 04:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-22 06:30:00+00:00,roi,1.00151867,2025-11-22 06:55:00+00:00,roi,1.00563324,moegliche Folgewirkung
+SOL/USDT,2025-11-23 07:15:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-23 09:40:00+00:00,roi,0.99979026,2025-11-23 12:15:00+00:00,roi,0.99964305,moegliche Folgewirkung
+SOL/USDT,2025-11-23 23:45:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-24 02:00:00+00:00,roi,0.99782269,2025-11-24 02:05:00+00:00,roi,1.00241257,moegliche Folgewirkung
+SOL/USDT,2025-11-25 08:10:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-11-25 21:05:00+00:00,roi,1.00079033,2025-11-25 22:35:00+00:00,roi,1.00439631,moegliche Folgewirkung
+SOL/USDT,2025-12-04 19:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-12-04 20:50:00+00:00,roi,1.00188,2025-12-09 16:10:00+00:00,roi,1.00198806,moegliche Folgewirkung
+SOL/USDT,2025-12-05 04:55:00+00:00,Trade nur im Original,2025-12-05 07:05:00+00:00,roi,1.00396061,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-05 10:10:00+00:00,Trade nur im Original,2025-12-08 09:05:00+00:00,roi,0.99991196,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-08 23:35:00+00:00,Trade nur im Original,2025-12-09 15:35:00+00:00,roi,1.00071992,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-11 01:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-12-11 18:40:00+00:00,roi,1.00460542,2025-12-11 18:45:00+00:00,roi,1.00521207,moegliche Folgewirkung
+SOL/USDT,2025-12-17 04:50:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-12-17 13:45:00+00:00,roi,1.00361423,2025-12-17 14:00:00+00:00,roi,1.00541363,moegliche Folgewirkung
+SOL/USDT,2025-12-17 16:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-12-18 13:40:00+00:00,roi,1.00158729,2025-12-18 13:45:00+00:00,roi,1.00044865,moegliche Folgewirkung
+SOL/USDT,2025-12-18 17:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-12-19 07:00:00+00:00,roi,0.99850568,2025-12-19 07:05:00+00:00,roi,1.00092957,moegliche Folgewirkung
+SOL/USDT,2025-12-21 02:55:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-12-21 09:50:00+00:00,roi,1.00014416,2025-12-21 10:00:00+00:00,roi,0.99876661,moegliche Folgewirkung
+SOL/USDT,2025-12-21 14:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-12-21 16:25:00+00:00,roi,1.0000235,2025-12-21 17:05:00+00:00,roi,0.99996707,moegliche Folgewirkung
+SOL/USDT,2025-12-22 20:05:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-12-23 00:35:00+00:00,roi,0.9987041,2025-12-23 00:55:00+00:00,roi,1.00507159,moegliche Folgewirkung
+SOL/USDT,2025-12-24 02:30:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-12-25 16:25:00+00:00,roi,1.00371201,2025-12-26 13:45:00+00:00,roi,1.00563336,moegliche Folgewirkung
+SOL/USDT,2025-12-25 23:20:00+00:00,Trade nur im Original,2025-12-26 02:20:00+00:00,roi,1.00262786,,,,moegliche Folgewirkung
+SOL/USDT,2025-12-26 15:35:00+00:00,"gleicher Einstieg, anderer Ausstieg",2025-12-27 03:20:00+00:00,roi,0.99886466,2025-12-27 03:45:00+00:00,roi,1.00274432,moegliche Folgewirkung

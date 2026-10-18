@@ -1,0 +1,18 @@
+Ergebnisdateien in erg_A : ['backtest-result-2026-10-18_16-54-17.zip']
+Ergebnisdateien in erg_B : ['backtest-result-2026-10-18_16-54-30.zip']
+## B doppelte Gebuehr
+- Trades Original: 550, Variante: 516
+- Gewinn Original: -251.91 USDT, Variante: -331.10 USDT
+- Gekippte Trade-Entscheidungen: 312 (davon 41 weggefallen, 7 neu, 264 anderer Ausstieg; 3 erste Kippstellen)
+- Anteil gekippt: 56.7% der Original-Trades
+
+
+Ergebnisdateien in erg_A : ['backtest-result-2026-10-18_16-54-17.zip']
+Ergebnisdateien in erg_C : ['backtest-result-2026-10-18_16-54-43.zip']
+## C eine Kerze Verzoegerung
+- Trades Original: 550, Variante: 569
+- Gewinn Original: -251.91 USDT, Variante: -225.97 USDT
+- Gekippte Trade-Entscheidungen: 1119 (davon 550 weggefallen, 569 neu, 0 anderer Ausstieg; 3 erste Kippstellen)
+- Anteil gekippt: 203.5% der Original-Trades
+
+

@@ -1,0 +1,30 @@
+2026-10-18 16:51:59,911 - freqtrade - INFO - freqtrade 2026.9
+2026-10-18 16:52:00,075 - numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+2026-10-18 16:52:00,684 - freqtrade.configuration.load_config - INFO - Using config: config.json ...
+2026-10-18 16:52:00,686 - freqtrade.loggers - INFO - Enabling colorized output.
+2026-10-18 16:52:00,686 - freqtrade.loggers - INFO - Logfile configured
+2026-10-18 16:52:00,686 - freqtrade.loggers - INFO - Verbosity set to 0
+2026-10-18 16:52:00,687 - freqtrade.configuration.configuration - INFO - Parameter --timerange detected: 20241225-20260101 ...
+2026-10-18 16:52:00,687 - freqtrade.configuration.configuration - INFO - Using user-data directory: user_data ...
+2026-10-18 16:52:00,687 - freqtrade.configuration.directory_operations - INFO - Created data directory: None
+2026-10-18 16:52:00,688 - freqtrade.configuration.configuration - INFO - Using data directory: user_data/data/okx ...
+2026-10-18 16:52:00,688 - freqtrade.configuration.configuration - INFO - timeframes --timeframes: ['5m']
+2026-10-18 16:52:00,688 - freqtrade.configuration.configuration - INFO - Filter trades by timerange: 20241225-20260101
+2026-10-18 16:52:00,688 - freqtrade.exchange.check_exchange - INFO - Checking exchange...
+2026-10-18 16:52:00,693 - freqtrade.exchange.check_exchange - INFO - Exchange "okx" is officially supported by the Freqtrade development team.
+2026-10-18 16:52:00,693 - freqtrade.configuration.configuration - INFO - Using pairlist from configuration.
+2026-10-18 16:52:00,694 - freqtrade.configuration.config_validation - INFO - Validating configuration ...
+2026-10-18 16:52:01,325 - freqtrade.exchange.exchange - INFO - Instance is running with dry_run enabled
+2026-10-18 16:52:01,325 - freqtrade.exchange.exchange - INFO - Using CCXT 4.5.88
+2026-10-18 16:52:01,330 - freqtrade.exchange.exchange - INFO - Using Exchange "OKX"
+2026-10-18 16:52:01,330 - freqtrade.resolvers.exchange_resolver - INFO - Using resolved exchange class 'Okx' ...
+2026-10-18 16:52:01,330 - freqtrade.exchange.exchange - INFO - Markets were not loaded. Loading them now..
+2026-10-18 16:52:02,182 - freqtrade.data.history.history_utils - INFO - About to download pairs: ['BTC/USDT', 'ETH/USDT', 'SOL/USDT'], intervals: ['5m'] to user_data/data/okx
+2026-10-18 16:52:02,199 - freqtrade.data.history.history_utils - INFO - Download history data for "BTC/USDT", 5m, spot and store in user_data/data/okx. From 2024-12-25T00:00:00 to 2026-01-01T00:00:00
+2026-10-18 16:52:42,549 - freqtrade.data.history.history_utils - INFO - Downloaded data for BTC/USDT, 5m, spot with length 107399.
+2026-10-18 16:52:42,616 - freqtrade.data.history.history_utils - INFO - Download history data for "ETH/USDT", 5m, spot and store in user_data/data/okx. From 2024-12-25T00:00:00 to 2026-01-01T00:00:00
+2026-10-18 16:53:22,842 - freqtrade.data.history.history_utils - INFO - Downloaded data for ETH/USDT, 5m, spot with length 107399.
+2026-10-18 16:53:22,920 - freqtrade.data.history.history_utils - INFO - Download history data for "SOL/USDT", 5m, spot and store in user_data/data/okx. From 2024-12-25T00:00:00 to 2026-01-01T00:00:00
+2026-10-18 16:54:03,179 - freqtrade.data.history.history_utils - INFO - Downloaded data for SOL/USDT, 5m, spot with length 107399.
+Timeframe            ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1/1 100% • 0:00:40 • 0:00:00
+Downloading SOL/USDT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3/3 100% • 0:02:01 • 0:00:00
