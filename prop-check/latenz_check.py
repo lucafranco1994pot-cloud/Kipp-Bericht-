@@ -28,11 +28,12 @@ def lade_dukascopy():
         d = datetime.fromisoformat(tag).replace(tzinfo=timezone.utc)
         for h in STUNDEN:
             url = f'https://datafeed.dukascopy.com/datafeed/EURUSD/{d.year}/{d.month-1:02d}/{d.day:02d}/{h:02d}h_ticks.bi5'
-            for versuch in range(4):
+            for versuch in range(8):
                 try:
-                    roh = urllib.request.urlopen(url, timeout=30).read(); break
-                except Exception:
-                    time.sleep(3)
+                    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (research; kipp-bericht)'})
+                    roh = urllib.request.urlopen(req, timeout=60).read(); time.sleep(1); break
+                except Exception as e:
+                    print('Wiederhole', url, type(e).__name__, e, flush=True); time.sleep(10 * (versuch + 1))
             else:
                 raise RuntimeError(f'Download fehlgeschlagen: {url}')
             if not roh:
