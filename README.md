@@ -22,3 +22,9 @@ This compares raw vs. repaired yfinance responses. It is **not** proof of a late
 
 ## Run it
 Open `Kipp_Bericht_Colab.ipynb` in Google Colab and run the cells in order. See `START_HIER.txt` (German).
+
+## Result of run 1 (2026-10-18)
+21 of 30 stocks comparable, 9 London stocks: repair=True returned no data. **0 decision flips.** yfinance repair changed almost only `Adj Close`, not the `Close` the rule uses. GSK.L "Close differences" were float rounding (~1e-16), not real changes. See `ergebnisse_oeffentlich/`.
+
+## Fahrtenschreiber (from 2026-10-18)
+Every weekday GitHub saves the last year of daily `Close` prices (repair=False) for the same 30 stocks and compares them with the previous snapshot. Any later change to an old price is logged in `fahrtenschreiber/aenderungen.csv`; any resulting flip of the fixed SMA20/50 decision in `fahrtenschreiber/kipps.csv`. Rounding below 1e-9 relative is ignored. Each snapshot's SHA-256 is logged in `fahrtenschreiber/protokoll.csv`.
