@@ -1,0 +1,14 @@
+{
+  "max_open_trades": 3,
+  "stake_currency": "USDT",
+  "stake_amount": 100,
+  "dry_run": true,
+  "dry_run_wallet": 1000,
+  "trading_mode": "spot",
+  "timeframe": "5m",
+  "entry_pricing": {"price_side": "same", "use_order_book": false, "price_last_balance": 0.0},
+  "exit_pricing": {"price_side": "same", "use_order_book": false},
+  "exchange": {"name": "okx", "pair_whitelist": ["BTC/USDT", "ETH/USDT", "SOL/USDT"], "pair_blacklist": []},
+  "pairlists": [{"method": "StaticPairList"}],
+  "dataformat_ohlcv": "feather"
+}

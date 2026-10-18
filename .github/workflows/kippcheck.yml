@@ -1,0 +1,40 @@
+name: Freqtrade Kipp-Check
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  kippcheck:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    defaults:
+      run:
+        working-directory: freqtrade-kippcheck
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install freqtrade==2026.9
+      - run: |
+          freqtrade create-userdir --userdir user_data && rm -f user_data/strategies/sample_strategy.py
+          freqtrade download-data -c config.json --userdir user_data -t 5m --timerange 20241225-20260101
+      - name: Lauf A (Original)
+        run: freqtrade backtesting -c config.json --userdir user_data --strategy-path strategies -s SampleStrategy --timerange 20250101-20260101 --fee 0.001 --backtest-directory erg_A
+      - name: Lauf B (doppelte Gebuehr)
+        run: freqtrade backtesting -c config.json --userdir user_data --strategy-path strategies -s SampleStrategy --timerange 20250101-20260101 --fee 0.002 --backtest-directory erg_B
+      - name: Lauf C (eine Kerze Verzoegerung)
+        run: freqtrade backtesting -c config.json --userdir user_data --strategy-path strategies -s KippVerzoegerung --timerange 20250101-20260101 --fee 0.001 --backtest-directory erg_C
+      - name: Vergleich
+        run: |
+          OUT=ergebnisse/lauf_$(date -u +%Y%m%dT%H%M%SZ); mkdir -p $OUT
+          echo "# Ergebnisse Kipp-Check Beispiel 1" > $OUT/ZUSAMMENFASSUNG.md
+          echo "Freqtrade $(freqtrade --version | tail -1); Strategie-SHA256 $(sha256sum strategies/sample_strategy.py | cut -c1-64)" >> $OUT/ZUSAMMENFASSUNG.md; echo >> $OUT/ZUSAMMENFASSUNG.md
+          python vergleich.py erg_A erg_B "B doppelte Gebuehr" $OUT
+          python vergleich.py erg_A erg_C "C eine Kerze Verzoegerung" $OUT
+      - name: Veroeffentlichen
+        if: always()
+        working-directory: .
+        run: |
+          git config user.name "github-actions[bot]"; git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add freqtrade-kippcheck/ergebnisse && git commit -m "Kipp-Check Beispiel 1: Ergebnisse (Regeln unveraendert)" && git pull --rebase && git push
