@@ -1,0 +1,8 @@
+Konto,Trades,Wahrheit,Baseline,Baseline_richtig,Kipp_Check,Kipp_Check_richtig,Gekippte_Trades,Gewinn_Protokoll_Pips,Gewinn_Marktpreis_Pips
+K1 Latenz-Ausnutzer (5 s),470,AUSNUTZER,AUFFAELLIG,True,AUFFAELLIG,True,286,776.0,-203.4
+"K2 Scalper, echte Fills",387,SAUBER,unauffaellig,True,unauffaellig,True,0,-45.7,-45.7
+"K3 Swing-Trader, echte Fills",15,SAUBER,unauffaellig,True,unauffaellig,True,0,44.0,44.0
+K4 Swing + versteckte Ausnutzer-Trades,62,AUSNUTZER,AUFFAELLIG,True,AUFFAELLIG,True,31,101.4,18.2
+"K5 Schneller News-Trader, echte Fills",28,SAUBER,AUFFAELLIG,False,unauffaellig,True,0,-21.2,-21.2
+"K6 Swing mit Slippage-Rauschen +-0,3 Pip",15,SAUBER,unauffaellig,True,unauffaellig,True,0,44.4,44.0
+"K7 Ausnutzer, 10 Min. halten (getarnt)",470,AUSNUTZER,unauffaellig,False,AUFFAELLIG,True,41,490.3,-489.1
