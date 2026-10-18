@@ -9,6 +9,7 @@ jobs:
     timeout-minutes: 120
     defaults:
       run:
+        shell: bash
         working-directory: freqtrade-kippcheck
     steps:
       - uses: actions/checkout@v4
@@ -18,20 +19,22 @@ jobs:
       - run: pip install freqtrade==2026.9
       - run: |
           freqtrade create-userdir --userdir user_data && rm -f user_data/strategies/sample_strategy.py
-          freqtrade download-data -c config.json --userdir user_data -t 5m --timerange 20241225-20260101
+          freqtrade download-data -c config.json --userdir user_data -t 5m --timerange 20241225-20260101 2>&1 | tee log_download.txt
+          freqtrade list-data -c config.json --userdir user_data --show-timerange 2>&1 | tee log_daten.txt
       - name: Lauf A (Original)
-        run: freqtrade backtesting -c config.json --userdir user_data --strategy-path strategies -s SampleStrategy --timerange 20250101-20260101 --fee 0.001 --backtest-directory erg_A
+        run: freqtrade backtesting -c config.json --userdir user_data --strategy-path strategies -s SampleStrategy --timerange 20250101-20260101 --fee 0.001 --backtest-directory erg_A 2>&1 | tee log_A.txt
       - name: Lauf B (doppelte Gebuehr)
-        run: freqtrade backtesting -c config.json --userdir user_data --strategy-path strategies -s SampleStrategy --timerange 20250101-20260101 --fee 0.002 --backtest-directory erg_B
+        run: freqtrade backtesting -c config.json --userdir user_data --strategy-path strategies -s SampleStrategy --timerange 20250101-20260101 --fee 0.002 --backtest-directory erg_B 2>&1 | tee log_B.txt
       - name: Lauf C (eine Kerze Verzoegerung)
-        run: freqtrade backtesting -c config.json --userdir user_data --strategy-path strategies -s KippVerzoegerung --timerange 20250101-20260101 --fee 0.001 --backtest-directory erg_C
+        run: freqtrade backtesting -c config.json --userdir user_data --strategy-path strategies -s KippVerzoegerung --timerange 20250101-20260101 --fee 0.001 --backtest-directory erg_C 2>&1 | tee log_C.txt
       - name: Vergleich
         run: |
           OUT=ergebnisse/lauf_$(date -u +%Y%m%dT%H%M%SZ); mkdir -p $OUT
           echo "# Ergebnisse Kipp-Check Beispiel 1" > $OUT/ZUSAMMENFASSUNG.md
           echo "Freqtrade $(freqtrade --version | tail -1); Strategie-SHA256 $(sha256sum strategies/sample_strategy.py | cut -c1-64)" >> $OUT/ZUSAMMENFASSUNG.md; echo >> $OUT/ZUSAMMENFASSUNG.md
-          python vergleich.py erg_A erg_B "B doppelte Gebuehr" $OUT
-          python vergleich.py erg_A erg_C "C eine Kerze Verzoegerung" $OUT
+          for f in log_*.txt; do grep -vE "^\s*$" $f | tail -60 > $OUT/$f; done
+          python vergleich.py erg_A erg_B "B doppelte Gebuehr" $OUT 2>&1 | tee -a $OUT/log_vergleich.txt
+          python vergleich.py erg_A erg_C "C eine Kerze Verzoegerung" $OUT 2>&1 | tee -a $OUT/log_vergleich.txt
       - name: Veroeffentlichen
         if: always()
         working-directory: .

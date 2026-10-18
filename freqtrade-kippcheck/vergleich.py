@@ -6,8 +6,13 @@ from pathlib import Path
 import pandas as pd
 from freqtrade.data.btanalysis import load_backtest_data
 
+COLS = ['pair', 'open_date', 'close_date', 'exit_reason', 'profit_ratio', 'profit_abs']
+
 def lade(d):
+    print('Ergebnisdateien in', d, ':', sorted(x.name for x in Path(d).glob('*')))
     df = load_backtest_data(Path(d))
+    if df.empty:
+        return pd.DataFrame(columns=COLS)
     df = df[['pair', 'open_date', 'close_date', 'exit_reason', 'profit_ratio', 'profit_abs']].copy()
     df['open_date'] = pd.to_datetime(df['open_date'], utc=True)
     df['close_date'] = pd.to_datetime(df['close_date'], utc=True)
