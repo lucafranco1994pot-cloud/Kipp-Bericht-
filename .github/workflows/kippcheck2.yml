@@ -1,0 +1,44 @@
+name: Freqtrade Kipp-Check Beispiel 2 (NFI X8)
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  kippcheck:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    defaults:
+      run:
+        shell: bash
+        working-directory: freqtrade-kippcheck/beispiel2_nfi
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install freqtrade==2026.9
+      - run: |
+          freqtrade create-userdir --userdir user_data && rm -f user_data/strategies/*.py
+          freqtrade download-data -c config.json --userdir user_data -t 5m 15m 1h 4h 1d --timerange 20240101-20260101 2>&1 | tail -40 > log_download.txt
+          freqtrade list-data -c config.json --userdir user_data --show-timerange 2>&1 | tail -60 > log_daten.txt
+      - name: Lauf A (Original)
+        run: freqtrade backtesting -c config.json --userdir user_data --strategy-path strategies -s NostalgiaForInfinityX8 --timerange 20250101-20260101 --fee 0.001 2>&1 | tee log_A.txt; bash ../sammle.sh erg_A
+      - name: Lauf B (doppelte Gebuehr)
+        run: freqtrade backtesting -c config.json --userdir user_data --strategy-path strategies -s NostalgiaForInfinityX8 --timerange 20250101-20260101 --fee 0.002 2>&1 | tee log_B.txt; bash ../sammle.sh erg_B
+      - name: Lauf C (eine Kerze Verzoegerung)
+        run: freqtrade backtesting -c config.json --userdir user_data --strategy-path strategies -s KippVerzoegerungNFI --timerange 20250101-20260101 --fee 0.001 2>&1 | tee log_C.txt; bash ../sammle.sh erg_C
+      - name: Vergleich
+        if: always()
+        run: |
+          OUT=ergebnisse/lauf_$(date -u +%Y%m%dT%H%M%SZ); mkdir -p $OUT
+          echo "# Ergebnisse Kipp-Check Beispiel 2 (NFI X8)" > $OUT/ZUSAMMENFASSUNG.md
+          echo "Freqtrade $(freqtrade --version | tail -1); Strategie-SHA256 $(sha256sum strategies/NostalgiaForInfinityX8.py | cut -c1-64)" >> $OUT/ZUSAMMENFASSUNG.md; echo >> $OUT/ZUSAMMENFASSUNG.md
+          for f in log_*.txt; do grep -vE "^\s*$" $f | tail -80 > $OUT/$f; done
+          python ../vergleich.py erg_A erg_B "B doppelte Gebuehr" $OUT 2>&1 | tee -a $OUT/log_vergleich.txt
+          python ../vergleich.py erg_A erg_C "C eine Kerze Verzoegerung" $OUT 5 2>&1 | tee -a $OUT/log_vergleich.txt
+      - name: Veroeffentlichen
+        if: always()
+        working-directory: .
+        run: |
+          git config user.name "github-actions[bot]"; git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add freqtrade-kippcheck/beispiel2_nfi/ergebnisse && git commit -m "Kipp-Check Beispiel 2 (NFI X8): Ergebnisse (Regeln unveraendert)" && git pull --rebase && git push

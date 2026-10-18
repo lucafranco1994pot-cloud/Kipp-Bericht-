@@ -1,0 +1,18 @@
+{
+  "dry_run": true,
+  "dry_run_wallet": 1000,
+  "grinding_enable": true,
+  "max_open_trades": 6,
+  "stake_currency": "USDT",
+  "stake_amount": "unlimited",
+  "tradable_balance_ratio": 0.99,
+  "timeframe": "5m",
+  "trading_mode": "spot",
+  "dataformat_ohlcv": "feather",
+  "unfilledtimeout": {"entry": 3, "exit": 2, "exit_timeout_count": 0, "unit": "minutes"},
+  "order_types": {"entry": "limit", "exit": "limit", "emergency_exit": "limit", "force_entry": "limit", "force_exit": "limit", "stoploss": "limit", "stoploss_on_exchange": false},
+  "entry_pricing": {"price_side": "other", "use_order_book": false, "order_book_top": 1, "price_last_balance": 0},
+  "exit_pricing": {"price_side": "other", "use_order_book": false, "order_book_top": 1, "price_last_balance": 0},
+  "exchange": {"name": "okx", "pair_whitelist": ["BTC/USDT","ETH/USDT","SOL/USDT","XRP/USDT","ADA/USDT","DOGE/USDT","LINK/USDT","AVAX/USDT","DOT/USDT","LTC/USDT"], "pair_blacklist": []},
+  "pairlists": [{"method": "StaticPairList"}]
+}

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Vergleicht zwei Freqtrade-Backtests Trade fuer Trade.
-Aufruf: python vergleich.py <ordner_A> <ordner_B> <name> <ausgabeordner>"""
+Aufruf: python vergleich.py <ordner_A> <ordner_B> <name> <ausgabeordner> [versatz_minuten]
+versatz_minuten: Original-Einstiege werden fuer den Abgleich um so viele Minuten verschoben (fuer Verzoegerungs-Varianten)."""
 import sys
 from pathlib import Path
 import pandas as pd
@@ -47,6 +48,10 @@ def main():
     da, db, name, out = sys.argv[1], sys.argv[2], sys.argv[3], Path(sys.argv[4])
     out.mkdir(parents=True, exist_ok=True)
     a, b = lade(da), lade(db)
+    off = int(sys.argv[5]) if len(sys.argv) > 5 else 0
+    if off:
+        a['open_date'] = a['open_date'] + pd.Timedelta(minutes=off)
+        name = f'{name} (Abgleich mit {off} Min. Versatz)'
     d = vergleiche(a, b)
     d.to_csv(out / f'kipps_{name}.csv', index=False)
     n = len(d)
