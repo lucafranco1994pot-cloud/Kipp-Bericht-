@@ -22,11 +22,11 @@ jobs:
           freqtrade download-data -c config.json --userdir user_data -t 5m --timerange 20241225-20260101 2>&1 | tee log_download.txt
           freqtrade list-data -c config.json --userdir user_data --show-timerange 2>&1 | tee log_daten.txt
       - name: Lauf A (Original)
-        run: freqtrade backtesting -c config.json --userdir user_data --strategy-path strategies -s SampleStrategy --timerange 20250101-20260101 --fee 0.001 --backtest-directory erg_A 2>&1 | tee log_A.txt
+        run: freqtrade backtesting -c config.json --userdir user_data --strategy-path strategies -s SampleStrategy --timerange 20250101-20260101 --fee 0.001 2>&1 | tee log_A.txt; bash sammle.sh erg_A
       - name: Lauf B (doppelte Gebuehr)
-        run: freqtrade backtesting -c config.json --userdir user_data --strategy-path strategies -s SampleStrategy --timerange 20250101-20260101 --fee 0.002 --backtest-directory erg_B 2>&1 | tee log_B.txt
+        run: freqtrade backtesting -c config.json --userdir user_data --strategy-path strategies -s SampleStrategy --timerange 20250101-20260101 --fee 0.002 2>&1 | tee log_B.txt; bash sammle.sh erg_B
       - name: Lauf C (eine Kerze Verzoegerung)
-        run: freqtrade backtesting -c config.json --userdir user_data --strategy-path strategies -s KippVerzoegerung --timerange 20250101-20260101 --fee 0.001 --backtest-directory erg_C 2>&1 | tee log_C.txt
+        run: freqtrade backtesting -c config.json --userdir user_data --strategy-path strategies -s KippVerzoegerung --timerange 20250101-20260101 --fee 0.001 2>&1 | tee log_C.txt; bash sammle.sh erg_C
       - name: Vergleich
         run: |
           OUT=ergebnisse/lauf_$(date -u +%Y%m%dT%H%M%SZ); mkdir -p $OUT

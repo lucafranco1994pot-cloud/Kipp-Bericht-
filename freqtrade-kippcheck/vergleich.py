@@ -9,8 +9,11 @@ from freqtrade.data.btanalysis import load_backtest_data
 COLS = ['pair', 'open_date', 'close_date', 'exit_reason', 'profit_ratio', 'profit_abs']
 
 def lade(d):
-    print('Ergebnisdateien in', d, ':', sorted(x.name for x in Path(d).glob('*')))
-    df = load_backtest_data(Path(d))
+    files = sorted(x for x in Path(d).glob('backtest-result-*') if x.suffix == '.zip' or (x.suffix == '.json' and not x.name.endswith('.meta.json')))
+    print('Ergebnisdateien in', d, ':', [x.name for x in files])
+    if len(files) != 1:
+        raise ValueError(f'Erwarte genau eine Ergebnisdatei in {d}, gefunden: {len(files)}')
+    df = load_backtest_data(files[0])
     if df.empty:
         return pd.DataFrame(columns=COLS)
     df = df[['pair', 'open_date', 'close_date', 'exit_reason', 'profit_ratio', 'profit_abs']].copy()
