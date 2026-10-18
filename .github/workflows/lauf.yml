@@ -3,6 +3,8 @@ on:
   workflow_dispatch:
   push:
     paths: ['.github/workflows/lauf.yml']
+permissions:
+  contents: write
 jobs:
   lauf:
     runs-on: ubuntu-latest
@@ -19,3 +21,11 @@ jobs:
         with:
           name: kipp-ergebnisse
           path: ergebnisse/
+      - name: Ergebnisse (ohne Yahoo-Rohdaten) veroeffentlichen
+        if: always()
+        run: |
+          d=$(ls -d ergebnisse/lauf_* | tail -1); n=$(basename $d)
+          mkdir -p ergebnisse_oeffentlich/$n
+          cp $d/ERGEBNIS.txt $d/zusammenfassung.csv $d/kipp_liste.csv $d/manifest.json $d/experiment_vorab.json $d/bericht.html $d/datenunterschiede.csv $d/positionsfolgen_NUR_ILLUSTRATION.csv ergebnisse_oeffentlich/$n/ 2>/dev/null || true
+          git config user.name "github-actions[bot]"; git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ergebnisse_oeffentlich && git commit -m "Marktlauf $n: Ergebnisse (Code unveraendert)" && git push
