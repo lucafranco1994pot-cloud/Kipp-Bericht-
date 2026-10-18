@@ -1,0 +1,3 @@
+Vorgesehen: 30 Aktien. Vollstaendig vergleichbar: 0. Fehler/blockiert: 30. Aktien mit erfassten Datenunterschieden: 0. Direkte Entscheidungs-Kipps: 0. Meiste Kipps: Keine Aktie mit Kipp.
+
+Vergleich repair=False gegen repair=True, KEIN Nachweis einer nachtraeglichen Anbieter-Korrektur oder eines echten ausgefuehrten Trades. Reparaturen koennen falsch sein. Getrennte Abrufe koennen zusaetzlich unterschiedliche Anbieterantworten enthalten. Close wird mit auto_adjust=False benutzt; Adj Close ist kein Strategieeingang. Yahoo Close ist trotzdem nicht garantiert historisch unbereinigt (z.B. Splits).

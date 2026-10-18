@@ -1,0 +1,646 @@
+{
+  "created_utc": "20261018T160843_762588Z",
+  "tickers": [
+    "AAPL",
+    "MSFT",
+    "NVDA",
+    "AMZN",
+    "GOOGL",
+    "META",
+    "TSLA",
+    "JPM",
+    "XOM",
+    "KO",
+    "0005.HK",
+    "0700.HK",
+    "1398.HK",
+    "0939.HK",
+    "0941.HK",
+    "1299.HK",
+    "2318.HK",
+    "0388.HK",
+    "0883.HK",
+    "3988.HK",
+    "HSBA.L",
+    "BP.L",
+    "SHEL.L",
+    "AZN.L",
+    "ULVR.L",
+    "GSK.L",
+    "RIO.L",
+    "BARC.L",
+    "LLOY.L",
+    "VOD.L"
+  ],
+  "start": "2020-01-01",
+  "end_inclusive": "2024-12-31",
+  "end_exclusive": "2025-01-01",
+  "interval": "1d",
+  "auto_adjust": false,
+  "back_adjust": false,
+  "actions": true,
+  "keepna": true,
+  "repair": [
+    false,
+    true
+  ],
+  "strategy": "SMA20 crosses SMA50; Close; no positions",
+  "warmup": "Keine Daten vor 2020; erste 50 Zeilen ohne Entscheidung",
+  "causal_window": "50 vorherige Handelstage PLUS Zieldatum = 51 Schlusskurse",
+  "candidate_order": "Datum aufsteigend; Feld Close",
+  "float_comparison": "exakt; CSV roundtrip 17 Stellen",
+  "python": "3.11.17 (main, Oct  1 2026, 14:32:31) [GCC 13.3.0]",
+  "pandas": "3.0.6",
+  "numpy": "2.4.6",
+  "yfinance": "1.7.0",
+  "warning": "Vergleich repair=False gegen repair=True, KEIN Nachweis einer nachtraeglichen Anbieter-Korrektur oder eines echten ausgefuehrten Trades. Reparaturen koennen falsch sein. Getrennte Abrufe koennen zusaetzlich unterschiedliche Anbieterantworten enthalten. Close wird mit auto_adjust=False benutzt; Adj Close ist kein Strategieeingang. Yahoo Close ist trotzdem nicht garantiert historisch unbereinigt (z.B. Splits).",
+  "source_sha256": "d13635d34b39eb101542a79007f379c3d13b11e645fb26d4d17b46d48f215842",
+  "downloads": [
+    {
+      "ticker": "AAPL",
+      "repair": false,
+      "started_utc": "2026-10-18T16:08:43.957102+00:00",
+      "file": "AAPL_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "5c22b3ff55b5f032c03386b68972054b2fedd8c33fcff692a411820568860a68",
+      "rows": 1258,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:08:45.041957+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "repair": true,
+      "started_utc": "2026-10-18T16:08:47.042361+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:08:47.102875+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "repair": false,
+      "started_utc": "2026-10-18T16:08:49.103243+00:00",
+      "file": "MSFT_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "55c9bda2a73d222fe1bf6b6f9ac108f6e1d8b30861d25ce950c409d88da9c7e0",
+      "rows": 1258,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:08:49.401521+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "repair": true,
+      "started_utc": "2026-10-18T16:08:51.401978+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:08:51.458671+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "repair": false,
+      "started_utc": "2026-10-18T16:08:53.459291+00:00",
+      "file": "NVDA_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "a04031a74ad47a52874f86df958d53bdd3ec34e37348d46c455ba07f5e4eee41",
+      "rows": 1258,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:08:53.857920+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "repair": true,
+      "started_utc": "2026-10-18T16:08:55.858410+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:08:55.975692+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "repair": false,
+      "started_utc": "2026-10-18T16:08:57.976328+00:00",
+      "file": "AMZN_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "89940ed47b459e14ef616649f1b915fa22d05cb4621c095a399fef6de6d4a416",
+      "rows": 1258,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:08:58.308720+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "repair": true,
+      "started_utc": "2026-10-18T16:09:00.309208+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:09:00.330204+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "repair": false,
+      "started_utc": "2026-10-18T16:09:02.330782+00:00",
+      "file": "GOOGL_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "f6ebe650a658b409ea5d04592f5aa87a764e7ce8cc32c2e44ff7fd8ea48edf9a",
+      "rows": 1258,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:09:02.598889+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "repair": true,
+      "started_utc": "2026-10-18T16:09:04.599398+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:09:04.631547+00:00"
+    },
+    {
+      "ticker": "META",
+      "repair": false,
+      "started_utc": "2026-10-18T16:09:06.632161+00:00",
+      "file": "META_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "9392edbe1545e0069693ed31b7dec326e3659e7ecf0dac9fbccd53174fbb6d49",
+      "rows": 1258,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:09:06.910816+00:00"
+    },
+    {
+      "ticker": "META",
+      "repair": true,
+      "started_utc": "2026-10-18T16:09:08.911330+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:09:08.944013+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "repair": false,
+      "started_utc": "2026-10-18T16:09:10.944625+00:00",
+      "file": "TSLA_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "0b111041921a7f85a0b2734697bf0ef9634f85fb8886a4d58ff63704591b576e",
+      "rows": 1258,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:09:11.353142+00:00"
+    },
+    {
+      "ticker": "TSLA",
+      "repair": true,
+      "started_utc": "2026-10-18T16:09:13.353655+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:09:13.374477+00:00"
+    },
+    {
+      "ticker": "JPM",
+      "repair": false,
+      "started_utc": "2026-10-18T16:09:15.375115+00:00",
+      "file": "JPM_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "53ca30cc74f770377196749da72712c35305061417d372afffa8f1ed2fda28a6",
+      "rows": 1258,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:09:15.695132+00:00"
+    },
+    {
+      "ticker": "JPM",
+      "repair": true,
+      "started_utc": "2026-10-18T16:09:17.695660+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:09:17.751273+00:00"
+    },
+    {
+      "ticker": "XOM",
+      "repair": false,
+      "started_utc": "2026-10-18T16:09:19.751958+00:00",
+      "file": "XOM_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "d1c9bb2e96f6108655ac2c1c50bf47a6ae06c260d72cbbc929d2bd8635598278",
+      "rows": 1258,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:09:20.083241+00:00"
+    },
+    {
+      "ticker": "XOM",
+      "repair": true,
+      "started_utc": "2026-10-18T16:09:22.083774+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:09:22.139050+00:00"
+    },
+    {
+      "ticker": "KO",
+      "repair": false,
+      "started_utc": "2026-10-18T16:09:24.139707+00:00",
+      "file": "KO_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "20cc31bf52f371e5c9cc4312030667427d2f26494dd272c23e5f51a27bd51c1f",
+      "rows": 1258,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:09:24.606253+00:00"
+    },
+    {
+      "ticker": "KO",
+      "repair": true,
+      "started_utc": "2026-10-18T16:09:26.606812+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:09:26.662432+00:00"
+    },
+    {
+      "ticker": "0005.HK",
+      "repair": false,
+      "started_utc": "2026-10-18T16:09:28.663120+00:00",
+      "file": "0005.HK_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "5e66f0404d1c9b08b64e58b0de56e4d767af63aa1b74de7c1176968b248a8020",
+      "rows": 1230,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:09:28.967758+00:00"
+    },
+    {
+      "ticker": "0005.HK",
+      "repair": true,
+      "started_utc": "2026-10-18T16:09:30.968296+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:09:31.010756+00:00"
+    },
+    {
+      "ticker": "0700.HK",
+      "repair": false,
+      "started_utc": "2026-10-18T16:09:33.011436+00:00",
+      "file": "0700.HK_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "8221a9863f88f83d5e0660fbee3d2f0276113e1d0b2af16426848b5b25ea952b",
+      "rows": 1230,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:09:33.345021+00:00"
+    },
+    {
+      "ticker": "0700.HK",
+      "repair": true,
+      "started_utc": "2026-10-18T16:09:35.345629+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:09:35.377968+00:00"
+    },
+    {
+      "ticker": "1398.HK",
+      "repair": false,
+      "started_utc": "2026-10-18T16:09:37.379067+00:00",
+      "file": "1398.HK_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "7d0c0c83fbf81e42340249a92001111930ee5cae02adb69ed482fd3e572d3dec",
+      "rows": 1230,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:09:37.687375+00:00"
+    },
+    {
+      "ticker": "1398.HK",
+      "repair": true,
+      "started_utc": "2026-10-18T16:09:39.687977+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:09:39.720056+00:00"
+    },
+    {
+      "ticker": "0939.HK",
+      "repair": false,
+      "started_utc": "2026-10-18T16:09:41.720788+00:00",
+      "file": "0939.HK_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "7ce9f5be997a411d3fc5cfeae58db26043163a2f3e2b50b927445e758c5a90ee",
+      "rows": 1230,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:09:42.033208+00:00"
+    },
+    {
+      "ticker": "0939.HK",
+      "repair": true,
+      "started_utc": "2026-10-18T16:09:44.033820+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:09:44.065971+00:00"
+    },
+    {
+      "ticker": "0941.HK",
+      "repair": false,
+      "started_utc": "2026-10-18T16:09:46.066691+00:00",
+      "file": "0941.HK_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "dfc011c65ce45ecda5b043307ebd66cccfcf83097ae0b90dbba46cedc4f5cf72",
+      "rows": 1230,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:09:46.370990+00:00"
+    },
+    {
+      "ticker": "0941.HK",
+      "repair": true,
+      "started_utc": "2026-10-18T16:09:48.371595+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:09:48.411466+00:00"
+    },
+    {
+      "ticker": "1299.HK",
+      "repair": false,
+      "started_utc": "2026-10-18T16:09:50.412221+00:00",
+      "file": "1299.HK_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "d1889cf7b045d019b91bd73f5d42b6e55677940132ad1a3c15c342a5bec340ef",
+      "rows": 1230,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:09:50.683998+00:00"
+    },
+    {
+      "ticker": "1299.HK",
+      "repair": true,
+      "started_utc": "2026-10-18T16:09:52.684621+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:09:52.723729+00:00"
+    },
+    {
+      "ticker": "2318.HK",
+      "repair": false,
+      "started_utc": "2026-10-18T16:09:54.724451+00:00",
+      "file": "2318.HK_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "6ef54282546864b13611428d6ce8e3aa4c651205140d1af4c07161fb1c76bdc4",
+      "rows": 1230,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:09:55.022091+00:00"
+    },
+    {
+      "ticker": "2318.HK",
+      "repair": true,
+      "started_utc": "2026-10-18T16:09:57.022772+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:09:57.062391+00:00"
+    },
+    {
+      "ticker": "0388.HK",
+      "repair": false,
+      "started_utc": "2026-10-18T16:09:59.063177+00:00",
+      "file": "0388.HK_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "7e6ede4a62b3fb739aeeba526a63dab1002561f54e5c9d578ec9e515328386d1",
+      "rows": 1230,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:09:59.338497+00:00"
+    },
+    {
+      "ticker": "0388.HK",
+      "repair": true,
+      "started_utc": "2026-10-18T16:10:01.339186+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:10:01.378475+00:00"
+    },
+    {
+      "ticker": "0883.HK",
+      "repair": false,
+      "started_utc": "2026-10-18T16:10:03.379233+00:00",
+      "file": "0883.HK_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "dea1d1176721370523c4ff6905ef672dc5911fa25de9b15d169f11ab7c2f0c51",
+      "rows": 1230,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:10:03.658126+00:00"
+    },
+    {
+      "ticker": "0883.HK",
+      "repair": true,
+      "started_utc": "2026-10-18T16:10:05.658767+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:10:05.698905+00:00"
+    },
+    {
+      "ticker": "3988.HK",
+      "repair": false,
+      "started_utc": "2026-10-18T16:10:07.699669+00:00",
+      "file": "3988.HK_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "a1ad3f6dc5e9f389eff8150b3699751118adb6ac72a62d1b58bd64f9ab868a0d",
+      "rows": 1230,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:10:07.973752+00:00"
+    },
+    {
+      "ticker": "3988.HK",
+      "repair": true,
+      "started_utc": "2026-10-18T16:10:09.974439+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:10:10.006617+00:00"
+    },
+    {
+      "ticker": "HSBA.L",
+      "repair": false,
+      "started_utc": "2026-10-18T16:10:12.007417+00:00",
+      "file": "HSBA.L_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "0c637a755a984153eb02493b80757ec0e7f4b43a6dd681173db7dc5382436de5",
+      "rows": 1262,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:10:12.316319+00:00"
+    },
+    {
+      "ticker": "HSBA.L",
+      "repair": true,
+      "started_utc": "2026-10-18T16:10:14.316971+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:10:14.401230+00:00"
+    },
+    {
+      "ticker": "BP.L",
+      "repair": false,
+      "started_utc": "2026-10-18T16:10:16.402048+00:00",
+      "file": "BP.L_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "fd11db38b78b75032d69463b93f087159b516551509836eb5fbc9b43f4f20db8",
+      "rows": 1262,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:10:16.753896+00:00"
+    },
+    {
+      "ticker": "BP.L",
+      "repair": true,
+      "started_utc": "2026-10-18T16:10:18.754583+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:10:18.873977+00:00"
+    },
+    {
+      "ticker": "SHEL.L",
+      "repair": false,
+      "started_utc": "2026-10-18T16:10:20.874765+00:00",
+      "file": "SHEL.L_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "bfd2b892c7dc0d835038543d8f13635067f6a75a0babab20c7c363888ac7a681",
+      "rows": 1262,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:10:21.182648+00:00"
+    },
+    {
+      "ticker": "SHEL.L",
+      "repair": true,
+      "started_utc": "2026-10-18T16:10:23.183349+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:10:23.303508+00:00"
+    },
+    {
+      "ticker": "AZN.L",
+      "repair": false,
+      "started_utc": "2026-10-18T16:10:25.304314+00:00",
+      "file": "AZN.L_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "47aae64460a9226112bb334a004ecd12c81430b1ac8022474c1d311337fe56aa",
+      "rows": 1262,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:10:25.641941+00:00"
+    },
+    {
+      "ticker": "AZN.L",
+      "repair": true,
+      "started_utc": "2026-10-18T16:10:27.642659+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:10:27.718007+00:00"
+    },
+    {
+      "ticker": "ULVR.L",
+      "repair": false,
+      "started_utc": "2026-10-18T16:10:29.718835+00:00",
+      "file": "ULVR.L_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "20dcf26aac83b7ba35fe3bfc15e0c4959b7008697f3be3dd5d3ab2d1a69bb0fd",
+      "rows": 1262,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:10:30.057914+00:00"
+    },
+    {
+      "ticker": "ULVR.L",
+      "repair": true,
+      "started_utc": "2026-10-18T16:10:32.062328+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:10:32.186840+00:00"
+    },
+    {
+      "ticker": "GSK.L",
+      "repair": false,
+      "started_utc": "2026-10-18T16:10:34.187654+00:00",
+      "file": "GSK.L_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "79a2d960bd98a91e549d604ac8e56ae83f195e0c54514110e07ad609488649f7",
+      "rows": 1262,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:10:34.506554+00:00"
+    },
+    {
+      "ticker": "GSK.L",
+      "repair": true,
+      "started_utc": "2026-10-18T16:10:36.507436+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:10:36.628162+00:00"
+    },
+    {
+      "ticker": "RIO.L",
+      "repair": false,
+      "started_utc": "2026-10-18T16:10:38.629037+00:00",
+      "file": "RIO.L_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "fb97771fa6e45b14d817deb5ece16fa7d3eef4c3a05a1efb9b77402c99b9db9f",
+      "rows": 1262,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:10:39.021426+00:00"
+    },
+    {
+      "ticker": "RIO.L",
+      "repair": true,
+      "started_utc": "2026-10-18T16:10:41.022164+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:10:41.096971+00:00"
+    },
+    {
+      "ticker": "BARC.L",
+      "repair": false,
+      "started_utc": "2026-10-18T16:10:43.097863+00:00",
+      "file": "BARC.L_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "a502094f607253aa704edbdee6c76adfb5e70f89ee59737543dcb928fe28c54e",
+      "rows": 1262,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:10:43.437372+00:00"
+    },
+    {
+      "ticker": "BARC.L",
+      "repair": true,
+      "started_utc": "2026-10-18T16:10:45.438115+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:10:45.504658+00:00"
+    },
+    {
+      "ticker": "LLOY.L",
+      "repair": false,
+      "started_utc": "2026-10-18T16:10:47.505533+00:00",
+      "file": "LLOY.L_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "2608bb22c1e1284b2fb236ab3ef466350be323cccc18f25235bf7d5db9719203",
+      "rows": 1262,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:10:47.826488+00:00"
+    },
+    {
+      "ticker": "LLOY.L",
+      "repair": true,
+      "started_utc": "2026-10-18T16:10:49.827249+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:10:49.894475+00:00"
+    },
+    {
+      "ticker": "VOD.L",
+      "repair": false,
+      "started_utc": "2026-10-18T16:10:51.895357+00:00",
+      "file": "VOD.L_repair_false_20261018T160843_762588Z.csv",
+      "sha256": "10c27d8781eecd0328094528a6c3ee3af102063f7fb037c1472e7f18ce10af0a",
+      "rows": 1262,
+      "status": "OK",
+      "finished_utc": "2026-10-18T16:10:52.244000+00:00"
+    },
+    {
+      "ticker": "VOD.L",
+      "repair": true,
+      "started_utc": "2026-10-18T16:10:54.244771+00:00",
+      "status": "FEHLER",
+      "error": "repair_true: ValueError: Leere Anbieterantwort",
+      "finished_utc": "2026-10-18T16:10:54.319521+00:00"
+    }
+  ],
+  "scope": "Keine Strategieaenderung; keine Ausfuehrung/PnL",
+  "result": {
+    "complete": false,
+    "comparable_tickers": 0,
+    "blocked_or_failed": 30,
+    "flips": 0
+  },
+  "files": {
+    "JPM_repair_false_20261018T160843_762588Z.csv": "53ca30cc74f770377196749da72712c35305061417d372afffa8f1ed2fda28a6",
+    "zusammenfassung.csv": "6f2508dc76770f12c0722579f8f46ec2802e9d1d464ad2b9dfd984d7eb0d24fe",
+    "KO_repair_false_20261018T160843_762588Z.csv": "20cc31bf52f371e5c9cc4312030667427d2f26494dd272c23e5f51a27bd51c1f",
+    "1398.HK_repair_false_20261018T160843_762588Z.csv": "7d0c0c83fbf81e42340249a92001111930ee5cae02adb69ed482fd3e572d3dec",
+    "experiment_vorab.json": "5ccd91d4f5b01d90e3e5e597a09f596013e38290e42b3f6a062cc9c9600b0c54",
+    "2318.HK_repair_false_20261018T160843_762588Z.csv": "6ef54282546864b13611428d6ce8e3aa4c651205140d1af4c07161fb1c76bdc4",
+    "SHEL.L_repair_false_20261018T160843_762588Z.csv": "bfd2b892c7dc0d835038543d8f13635067f6a75a0babab20c7c363888ac7a681",
+    "TSLA_repair_false_20261018T160843_762588Z.csv": "0b111041921a7f85a0b2734697bf0ef9634f85fb8886a4d58ff63704591b576e",
+    "GSK.L_repair_false_20261018T160843_762588Z.csv": "79a2d960bd98a91e549d604ac8e56ae83f195e0c54514110e07ad609488649f7",
+    "0388.HK_repair_false_20261018T160843_762588Z.csv": "7e6ede4a62b3fb739aeeba526a63dab1002561f54e5c9d578ec9e515328386d1",
+    "1299.HK_repair_false_20261018T160843_762588Z.csv": "d1889cf7b045d019b91bd73f5d42b6e55677940132ad1a3c15c342a5bec340ef",
+    "bericht.html": "2b4f820b9ca913480c0793fb788c0274cda1e18b912b7de1ac6134da9db95c53",
+    "NVDA_repair_false_20261018T160843_762588Z.csv": "a04031a74ad47a52874f86df958d53bdd3ec34e37348d46c455ba07f5e4eee41",
+    "datenunterschiede.csv": "0991b9ae49fd60cd449b444ebf66ae2c9c18b44c4ad6ccd2f4d940f28fa316dd",
+    "VOD.L_repair_false_20261018T160843_762588Z.csv": "10c27d8781eecd0328094528a6c3ee3af102063f7fb037c1472e7f18ce10af0a",
+    "ULVR.L_repair_false_20261018T160843_762588Z.csv": "20dcf26aac83b7ba35fe3bfc15e0c4959b7008697f3be3dd5d3ab2d1a69bb0fd",
+    "0883.HK_repair_false_20261018T160843_762588Z.csv": "dea1d1176721370523c4ff6905ef672dc5911fa25de9b15d169f11ab7c2f0c51",
+    "0941.HK_repair_false_20261018T160843_762588Z.csv": "dfc011c65ce45ecda5b043307ebd66cccfcf83097ae0b90dbba46cedc4f5cf72",
+    "BARC.L_repair_false_20261018T160843_762588Z.csv": "a502094f607253aa704edbdee6c76adfb5e70f89ee59737543dcb928fe28c54e",
+    "AZN.L_repair_false_20261018T160843_762588Z.csv": "47aae64460a9226112bb334a004ecd12c81430b1ac8022474c1d311337fe56aa",
+    "ERGEBNIS.txt": "0af8d78e0423d2ce14fb704e97a8b1aea64b4ea812114aed448add046e0298fc",
+    "MSFT_repair_false_20261018T160843_762588Z.csv": "55c9bda2a73d222fe1bf6b6f9ac108f6e1d8b30861d25ce950c409d88da9c7e0",
+    "0700.HK_repair_false_20261018T160843_762588Z.csv": "8221a9863f88f83d5e0660fbee3d2f0276113e1d0b2af16426848b5b25ea952b",
+    "LLOY.L_repair_false_20261018T160843_762588Z.csv": "2608bb22c1e1284b2fb236ab3ef466350be323cccc18f25235bf7d5db9719203",
+    "HSBA.L_repair_false_20261018T160843_762588Z.csv": "0c637a755a984153eb02493b80757ec0e7f4b43a6dd681173db7dc5382436de5",
+    "3988.HK_repair_false_20261018T160843_762588Z.csv": "a1ad3f6dc5e9f389eff8150b3699751118adb6ac72a62d1b58bd64f9ab868a0d",
+    "META_repair_false_20261018T160843_762588Z.csv": "9392edbe1545e0069693ed31b7dec326e3659e7ecf0dac9fbccd53174fbb6d49",
+    "XOM_repair_false_20261018T160843_762588Z.csv": "d1c9bb2e96f6108655ac2c1c50bf47a6ae06c260d72cbbc929d2bd8635598278",
+    "positionsfolgen_NUR_ILLUSTRATION.csv": "1fa832d300ea352cbced9647350f1127a537169be1036b2f0723f458f494151c",
+    "GOOGL_repair_false_20261018T160843_762588Z.csv": "f6ebe650a658b409ea5d04592f5aa87a764e7ce8cc32c2e44ff7fd8ea48edf9a",
+    "0939.HK_repair_false_20261018T160843_762588Z.csv": "7ce9f5be997a411d3fc5cfeae58db26043163a2f3e2b50b927445e758c5a90ee",
+    "kipp_liste.csv": "02e6cee11f757fc44b143abfc4523967e1a61608b9e9e850d166b55ddc85418c",
+    "0005.HK_repair_false_20261018T160843_762588Z.csv": "5e66f0404d1c9b08b64e58b0de56e4d767af63aa1b74de7c1176968b248a8020",
+    "AMZN_repair_false_20261018T160843_762588Z.csv": "89940ed47b459e14ef616649f1b915fa22d05cb4621c095a399fef6de6d4a416",
+    "RIO.L_repair_false_20261018T160843_762588Z.csv": "fb97771fa6e45b14d817deb5ece16fa7d3eef4c3a05a1efb9b77402c99b9db9f",
+    "AAPL_repair_false_20261018T160843_762588Z.csv": "5c22b3ff55b5f032c03386b68972054b2fedd8c33fcff692a411820568860a68",
+    "BP.L_repair_false_20261018T160843_762588Z.csv": "fd11db38b78b75032d69463b93f087159b516551509836eb5fbc9b43f4f20db8"
+  }
+}
