@@ -1,0 +1,40 @@
+2026-10-18 17:27:05,772 - freqtrade.data.history.history_utils - INFO - Downloaded data for LINK/USDT, 1h, spot with length 17699.
+2026-10-18 17:27:05,785 - freqtrade.data.history.history_utils - INFO - Download history data for "LINK/USDT", 4h, spot and store in user_data/data/okx. From 2024-01-01T00:00:00 to 2026-01-01T00:00:00
+2026-10-18 17:27:07,666 - freqtrade.data.history.history_utils - INFO - Downloaded data for LINK/USDT, 4h, spot with length 4499.
+2026-10-18 17:27:07,671 - freqtrade.data.history.history_utils - INFO - Download history data for "LINK/USDT", 1d, spot and store in user_data/data/okx. From 2024-01-01T00:00:00 to 2026-01-01T00:00:00
+2026-10-18 17:27:08,031 - freqtrade.data.history.history_utils - INFO - Downloaded data for LINK/USDT, 1d, spot with length 899.
+2026-10-18 17:27:08,035 - freqtrade.data.history.history_utils - INFO - Download history data for "AVAX/USDT", 5m, spot and store in user_data/data/okx. From 2024-01-01T00:00:00 to 2026-01-01T00:00:00
+2026-10-18 17:28:26,656 - freqtrade.data.history.history_utils - INFO - Downloaded data for AVAX/USDT, 5m, spot with length 210599.
+2026-10-18 17:28:26,775 - freqtrade.data.history.history_utils - INFO - Download history data for "AVAX/USDT", 15m, spot and store in user_data/data/okx. From 2024-01-01T00:00:00 to 
+2026-01-01T00:00:00
+2026-10-18 17:28:53,162 - freqtrade.data.history.history_utils - INFO - Downloaded data for AVAX/USDT, 15m, spot with length 70199.
+2026-10-18 17:28:53,204 - freqtrade.data.history.history_utils - INFO - Download history data for "AVAX/USDT", 1h, spot and store in user_data/data/okx. From 2024-01-01T00:00:00 to 2026-01-01T00:00:00
+2026-10-18 17:28:59,855 - freqtrade.data.history.history_utils - INFO - Downloaded data for AVAX/USDT, 1h, spot with length 17699.
+2026-10-18 17:28:59,867 - freqtrade.data.history.history_utils - INFO - Download history data for "AVAX/USDT", 4h, spot and store in user_data/data/okx. From 2024-01-01T00:00:00 to 2026-01-01T00:00:00
+2026-10-18 17:29:01,692 - freqtrade.data.history.history_utils - INFO - Downloaded data for AVAX/USDT, 4h, spot with length 4499.
+2026-10-18 17:29:01,697 - freqtrade.data.history.history_utils - INFO - Download history data for "AVAX/USDT", 1d, spot and store in user_data/data/okx. From 2024-01-01T00:00:00 to 2026-01-01T00:00:00
+2026-10-18 17:29:02,048 - freqtrade.data.history.history_utils - INFO - Downloaded data for AVAX/USDT, 1d, spot with length 899.
+2026-10-18 17:29:02,051 - freqtrade.data.history.history_utils - INFO - Download history data for "DOT/USDT", 5m, spot and store in user_data/data/okx. From 2024-01-01T00:00:00 to 2026-01-01T00:00:00
+2026-10-18 17:29:09,050 - freqtrade.exchange.common - WARNING - _async_get_candle_history() returned exception: "Could not fetch historical candle (OHLCV) data for DOT/USDT, 5m, spot due to 
+RateLimitExceeded. Message: okx {"msg":"Too Many Requests","code":"50011"}". Retrying still for 4 times.
+2026-10-18 17:30:20,776 - freqtrade.data.history.history_utils - INFO - Downloaded data for DOT/USDT, 5m, spot with length 210599.
+2026-10-18 17:30:20,895 - freqtrade.data.history.history_utils - INFO - Download history data for "DOT/USDT", 15m, spot and store in user_data/data/okx. From 2024-01-01T00:00:00 to 2026-01-01T00:00:00
+2026-10-18 17:30:47,209 - freqtrade.data.history.history_utils - INFO - Downloaded data for DOT/USDT, 15m, spot with length 70199.
+2026-10-18 17:30:47,252 - freqtrade.data.history.history_utils - INFO - Download history data for "DOT/USDT", 1h, spot and store in user_data/data/okx. From 2024-01-01T00:00:00 to 2026-01-01T00:00:00
+2026-10-18 17:30:53,910 - freqtrade.data.history.history_utils - INFO - Downloaded data for DOT/USDT, 1h, spot with length 17699.
+2026-10-18 17:30:53,923 - freqtrade.data.history.history_utils - INFO - Download history data for "DOT/USDT", 4h, spot and store in user_data/data/okx. From 2024-01-01T00:00:00 to 2026-01-01T00:00:00
+2026-10-18 17:30:55,726 - freqtrade.data.history.history_utils - INFO - Downloaded data for DOT/USDT, 4h, spot with length 4499.
+2026-10-18 17:30:55,732 - freqtrade.data.history.history_utils - INFO - Download history data for "DOT/USDT", 1d, spot and store in user_data/data/okx. From 2024-01-01T00:00:00 to 2026-01-01T00:00:00
+2026-10-18 17:30:56,102 - freqtrade.data.history.history_utils - INFO - Downloaded data for DOT/USDT, 1d, spot with length 899.
+2026-10-18 17:30:56,105 - freqtrade.data.history.history_utils - INFO - Download history data for "LTC/USDT", 5m, spot and store in user_data/data/okx. From 2024-01-01T00:00:00 to 2026-01-01T00:00:00
+2026-10-18 17:32:14,675 - freqtrade.data.history.history_utils - INFO - Downloaded data for LTC/USDT, 5m, spot with length 210599.
+2026-10-18 17:32:14,898 - freqtrade.data.history.history_utils - INFO - Download history data for "LTC/USDT", 15m, spot and store in user_data/data/okx. From 2024-01-01T00:00:00 to 2026-01-01T00:00:00
+2026-10-18 17:32:41,171 - freqtrade.data.history.history_utils - INFO - Downloaded data for LTC/USDT, 15m, spot with length 70199.
+2026-10-18 17:32:41,242 - freqtrade.data.history.history_utils - INFO - Download history data for "LTC/USDT", 1h, spot and store in user_data/data/okx. From 2024-01-01T00:00:00 to 2026-01-01T00:00:00
+2026-10-18 17:32:47,912 - freqtrade.data.history.history_utils - INFO - Downloaded data for LTC/USDT, 1h, spot with length 17699.
+2026-10-18 17:32:47,932 - freqtrade.data.history.history_utils - INFO - Download history data for "LTC/USDT", 4h, spot and store in user_data/data/okx. From 2024-01-01T00:00:00 to 2026-01-01T00:00:00
+2026-10-18 17:32:49,753 - freqtrade.data.history.history_utils - INFO - Downloaded data for LTC/USDT, 4h, spot with length 4499.
+2026-10-18 17:32:49,759 - freqtrade.data.history.history_utils - INFO - Download history data for "LTC/USDT", 1d, spot and store in user_data/data/okx. From 2024-01-01T00:00:00 to 2026-01-01T00:00:00
+2026-10-18 17:32:50,118 - freqtrade.data.history.history_utils - INFO - Downloaded data for LTC/USDT, 1d, spot with length 899.
+Timeframe            ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5/5   100% • 0:01:53 • 0:00:00
+Downloading LTC/USDT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10/10 100% • 0:18:59 • 0:00:00

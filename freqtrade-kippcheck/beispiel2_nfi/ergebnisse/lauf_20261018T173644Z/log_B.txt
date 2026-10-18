@@ -1,0 +1,80 @@
+│           145 │     exit_profit_long_tc_t_0_1_m ( 145 ) │      3 │         0.47 │           2.413 │         0.24 │          14:00:00 │    3     0     0   100 │
+│           144 │     exit_profit_long_tc_t_0_1_m ( 144 ) │      2 │         0.54 │           2.129 │         0.21 │           3:35:00 │    2     0     0   100 │
+│            64 │   exit_profit_long_rebuy_t_4_1_m ( 64 ) │      1 │         2.21 │           1.873 │         0.19 │    1 day, 8:55:00 │    1     0     0   100 │
+│            47 │            exit_long_quick_w_0_1 ( 47 ) │      1 │         0.19 │           0.490 │         0.05 │ 14 days, 23:05:00 │    1     0     0   100 │
+│           143 │     exit_profit_long_tc_t_0_1_m ( 143 ) │      1 │         0.19 │           0.346 │         0.03 │           2:40:00 │    1     0     0   100 │
+│           101 │  exit_profit_long_rapid_t_0_1_m ( 101 ) │      1 │         0.13 │           0.235 │         0.02 │           1:35:00 │    1     0     0   100 │
+│           120 │      exit_bad_trade_abandon_24d ( 120 ) │      1 │         -2.0 │          -1.937 │        -0.19 │ 23 days, 22:35:00 │    0     0     1     0 │
+│       120 562 │  exit_bad_trade_abandon_26d ( 120 562 ) │      1 │       -10.88 │         -23.989 │         -2.4 │ 25 days, 22:45:00 │    0     0     1     0 │
+│         TOTAL │                                         │     59 │         2.91 │         307.468 │        30.75 │    1 day, 9:47:00 │   57     0     2  96.6 │
+└───────────────┴─────────────────────────────────────────┴────────┴──────────────┴─────────────────┴──────────────┴───────────────────┴────────────────────────┘
+                                   SUMMARY METRICS                                    
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Metric                                 ┃ Value                                     ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Backtesting from                       │ 2025-01-01 00:00:00                       │
+│ Backtesting to                         │ 2026-01-01 00:00:00                       │
+│ Trading Mode                           │ Spot                                      │
+│ Max open trades                        │ 6                                         │
+│                                        │                                           │
+│ Total/Daily Avg Trades                 │ 59 / 0.16                                 │
+│ Starting balance                       │ 1000 USDT                                 │
+│ Final balance                          │ 1307.468 USDT                             │
+│ Absolute profit                        │ 307.468 USDT                              │
+│ Total profit %                         │ 30.75%                                    │
+│ CAGR %                                 │ 30.75%                                    │
+│ Sharpe (closed trades)                 │ 2.18                                      │
+│ Sortino (closed trades)                │ 1.46                                      │
+│ Calmar (closed trades)                 │ 82.77                                     │
+│ SQN                                    │ 5.38                                      │
+│ Mean profit p-value                    │ 1.397e-06                                 │
+│ Profit factor                          │ 12.86                                     │
+│ Expectancy (Ratio)                     │ 5.21 (0.40)                               │
+│ Avg. daily profit                      │ 0.842 USDT                                │
+│ Avg. stake amount                      │ 178.796 USDT                              │
+│ Market change                          │ -39.05%                                   │
+│ Total trade volume                     │ 21852.27 USDT                             │
+│                                        │                                           │
+│ Best Pair                              │ ADA/USDT 10.44%                           │
+│ Worst Pair                             │ BTC/USDT 0.04%                            │
+│ Best trade                             │ ADA/USDT 19.19%                           │
+│ Worst trade                            │ LINK/USDT -10.88%                         │
+│ Best day                               │ 66.981 USDT                               │
+│ Worst day                              │ -23.989 USDT                              │
+│ Days win/draw/lose                     │ 23 / 291 / 2                              │
+│ Min/Max/Avg. Duration Winners          │ 0d 00:05 / 14d 23:05 / 0d 13:58           │
+│ Min/Max/Avg. Duration Losers           │ 23d 22:35 / 25d 22:45 / 24d 22:40         │
+│ Max Consecutive Wins / Loss            │ 57 / 2                                    │
+│ Rejected Entry signals                 │ 3                                         │
+│ Entry/Exit Timeouts                    │ 0 / 0                                     │
+│                                        │                                           │
+│ Min/Max balance (closed trades)        │ 1003.783 USDT / 1333.394 USDT             │
+│ Max % of account underwater            │ 1.94%                                     │
+│ Absolute drawdown                      │ 25.926 USDT (1.94%)                       │
+│ Drawdown duration                      │ 26 days 01:55:00                          │
+│ Profit at drawdown start               │ 333.394 USDT                              │
+│ Profit at drawdown end                 │ 307.468 USDT                              │
+│ Drawdown start                         │ 2025-11-04 22:15:00                       │
+│ Drawdown end                           │ 2025-12-01 00:10:00                       │
+│                                        │                                           │
+│ Wallet based Metrics                   │                                           │
+│ Min/Max balance (wallet balance)       │ 983.446 USDT / 1375.448 USDT              │
+│ Min/Max balance dates (wallet balance) │ 2025-01-20 01:00:00 / 2025-11-11 01:20:00 │
+│ Max % of account underwater (balance)  │ 6.37%                                     │
+│ Absolute drawdown (wallet balance)     │ 87.257 USDT (6.34%)                       │
+│ Drawdown duration                      │ 10 days 11:10:00                          │
+│ Profit at drawdown start               │ 375.448 USDT                              │
+│ Profit at drawdown end                 │ 288.19 USDT                               │
+│ Drawdown start                         │ 2025-11-11 01:20:00                       │
+│ Drawdown end                           │ 2025-11-21 12:30:00                       │
+│ Sharpe (daily wallet balance)          │ 2.61                                      │
+│ Sortino (daily wallet balance)         │ 4.71                                      │
+│ Calmar (daily wallet balance)          │ 25.44                                     │
+└────────────────────────────────────────┴───────────────────────────────────────────┘
+Backtested 2025-01-01 00:00:00 -> 2026-01-01 00:00:00 | Max open trades : 6
+                                                                 STRATEGY SUMMARY                                                                 
+┏━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━┓
+┃               Strategy ┃ Trades ┃ Avg Profit % ┃ Tot Profit USDT ┃ Tot Profit % ┃   Avg Duration ┃  Win  Draw  Loss  Win% ┃           Drawdown ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━┩
+│ NostalgiaForInfinityX8 │     59 │         2.91 │         307.468 │        30.75 │ 1 day, 9:47:00 │   57     0     2  96.6 │ 25.926 USDT  1.94% │
+└────────────────────────┴────────┴──────────────┴─────────────────┴──────────────┴────────────────┴────────────────────────┴────────────────────┘
