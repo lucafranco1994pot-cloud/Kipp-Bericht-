@@ -1,0 +1,16 @@
+Ergebnisdateien in erg_A : []
+Traceback (most recent call last):
+  File "/home/runner/work/Kipp-Bericht-/Kipp-Bericht-/freqtrade-kippcheck/vergleich.py", line 63, in <module>
+    main()
+  File "/home/runner/work/Kipp-Bericht-/Kipp-Bericht-/freqtrade-kippcheck/vergleich.py", line 46, in main
+    a, b = lade(da), lade(db)
+           ^^^^^^^^
+  File "/home/runner/work/Kipp-Bericht-/Kipp-Bericht-/freqtrade-kippcheck/vergleich.py", line 13, in lade
+    df = load_backtest_data(Path(d))
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/freqtrade/data/btanalysis/bt_fileutils.py", line 421, in load_backtest_data
+    data = load_backtest_stats(file_or_directory, filename)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/freqtrade/data/btanalysis/bt_fileutils.py", line 192, in load_backtest_stats
+    raise ValueError(f"File or directory {fn} does not exist.")
+ValueError: File or directory erg_A does not exist.

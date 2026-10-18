@@ -1,0 +1,21 @@
+2026-10-18 16:49:13,514 - freqtrade - INFO - freqtrade 2026.9
+2026-10-18 16:49:13,754 - numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+2026-10-18 16:49:14,349 - freqtrade.configuration.load_config - INFO - Using config: config.json ...
+2026-10-18 16:49:14,350 - freqtrade.loggers - INFO - Enabling colorized output.
+2026-10-18 16:49:14,351 - freqtrade.loggers - INFO - Logfile configured
+2026-10-18 16:49:14,351 - freqtrade.loggers - INFO - Verbosity set to 0
+2026-10-18 16:49:14,352 - freqtrade.configuration.configuration - INFO - Using user-data directory: user_data ...
+2026-10-18 16:49:14,352 - freqtrade.configuration.configuration - INFO - Using data directory: user_data/data/okx ...
+2026-10-18 16:49:14,353 - freqtrade.configuration.configuration - INFO - Detected --show-timerange
+2026-10-18 16:49:14,353 - freqtrade.exchange.check_exchange - INFO - Checking exchange...
+2026-10-18 16:49:14,362 - freqtrade.exchange.check_exchange - INFO - Exchange "okx" is officially supported by the Freqtrade development team.
+2026-10-18 16:49:14,362 - freqtrade.configuration.configuration - INFO - Using pairlist from configuration.
+2026-10-18 16:49:14,363 - freqtrade.configuration.config_validation - INFO - Validating configuration ...
+                       Found 3 pair / timeframe combinations.                        
+┏━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━┳━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━┓
+┃     Pair ┃ Timeframe ┃ Type ┃                From ┃                  To ┃ Candles ┃
+┡━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━╇━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━┩
+│ BTC/USDT │        5m │ spot │ 2024-12-25 00:00:00 │ 2026-01-01 21:50:00 │  107399 │
+│ ETH/USDT │        5m │ spot │ 2024-12-25 00:00:00 │ 2026-01-01 21:50:00 │  107399 │
+│ SOL/USDT │        5m │ spot │ 2024-12-25 00:00:00 │ 2026-01-01 21:50:00 │  107399 │
+└──────────┴───────────┴──────┴─────────────────────┴─────────────────────┴─────────┘
