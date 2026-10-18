@@ -1,0 +1,21 @@
+name: Kipp-Bericht Marktlauf
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/lauf.yml']
+jobs:
+  lauf:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - run: python kipp_beweis.py --out ergebnisse
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: kipp-ergebnisse
+          path: ergebnisse/
