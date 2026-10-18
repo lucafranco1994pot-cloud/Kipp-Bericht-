@@ -1,0 +1,7 @@
+﻿Fehlversion,Erkannt,Durchgefallene_Tests
+M1 nur 50 statt 51 Kurse,JA,08 Rand t-50 beeinflusst gestrigen SMA50
+M2 Ursache ohne Ruecktausch-Pruefung,JA,04 Zwei Ruecktausche erforderlich; 05 Aenderung 60 Handelstage vorher
+M3 fehlende Kurse still auffuellen,JA,10 Fehlender Close darf nicht aufgefuellt werden
+M4 Zeilen nach Position statt Datum,JA,07 Fehlender Handelstag
+M5 Positionsfolgen als Kipps zaehlen,JA,"09 Position wirkt nach, Signal nicht"
+M6 Kreuzung ohne Gleichheit (< statt <=),JA,"03 Ein Close verschiebt Kreuzung; 06 100-facher Einzelpreis; 09 Position wirkt nach, Signal nicht"

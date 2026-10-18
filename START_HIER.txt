@@ -1,0 +1,98 @@
+KIPP-BERICHT — STARTANLEITUNG
+
+STATUS
+Die zehn künstlichen Tests wurden bei der Erstellung ausgeführt: 10/10 bestanden.
+Ein echter Yahoo-Datenlauf wurde hier NICHT ausgeführt. Es gibt deshalb noch keine
+Marktergebnisse und keinen Beleg, dass bei diesen 30 Aktien ein Signal kippt.
+
+EINFACHSTER WEG: GOOGLE COLAB
+1. Öffne colab.research.google.com im Browser.
+2. Öffne über Datei > Notebook hochladen die beigefügte Notebook-Datei.
+3. Starte die Zellen der Reihe nach über den Dreieck-Knopf links.
+4. Die erste Codezelle installiert die Bibliotheken. Die nächste schreibt das Programm.
+5. Die Laufzelle führt zuerst die 10 Tests aus und lädt danach die 30 Aktien.
+6. Die letzte Zelle erstellt eine ZIP-Datei und bietet deren Download an.
+7. Entpacke diese ZIP und öffne bericht.html per Doppelklick.
+Falls Downloads scheitern oder Yahoo blockiert: Fehler bleiben im Bericht stehen.
+Ein erneuter Lauf erzeugt einen NEUEN Schnappschuss, überschreibt keinen alten.
+Ein abgebrochener Lauf darf nicht als vollständiger 30-Aktien-Beweis gelten.
+
+ALTERNATIV: EIGENER COMPUTER MIT PYTHON
+1. Alle Dateien des Pakets in einen Ordner entpacken.
+2. Terminal/Eingabeaufforderung in diesem Ordner öffnen.
+3. Eingeben: python -m pip install -r requirements.txt
+4. Nur Tests: python kipp_beweis.py --tests-only
+5. Echter Lauf: python kipp_beweis.py
+6. Anschließend im neu erzeugten Ergebnisordner bericht.html öffnen.
+Unter manchen Systemen heißt der Befehl python3 statt python.
+
+FESTE VORGABEN
+30 Aktien, exakt die vorgegebenen Ticker. Tagesdaten 2020-01-01 bis einschließlich
+2024-12-31; technisches exklusives Download-Ende 2025-01-01.
+SMA20 und SMA50 verwenden Close, NICHT Adj Close. auto_adjust=False ist explizit.
+Kauf: Differenz SMA20-SMA50 heute >0, gestern <=0.
+Verkauf: heute <0, gestern >=0. Sonst keine Aktion.
+Keine Daten vor 2020: Die ersten 50 Handelstage sind nicht auswertbar.
+Kein Wechsel auf einen anderen Ticker, wenn SHEL.L oder ein anderer Abruf scheitert.
+Unterschiedliche Handelstage oder ungültige Close-Werte blockieren den kausalen
+Vergleich der gesamten Aktie. Es wird NICHT stillschweigend aufgefüllt.
+
+51 SCHLUSSKURSE SIND NÖTIG
+Die aktuelle SMA50 braucht t-49 bis t, die gestrige t-50 bis t-1.
+Die Kreuzung hängt somit von t-50 bis t ab: 50 vorherige Handelstage plus heute.
+Eine streng auf 50 Werte begrenzte Ursachenprüfung übersieht eine echte Randursache.
+
+URSACHEN
+Nur Close beeinflusst diese Strategie. Alle anderen Datenunterschiede werden
+aufgelistet, aber nicht als mögliche SMA-Ursache ausgegeben.
+Einzelrücktausche erfolgen chronologisch (ältestes Datum zuerst).
+Alle passenden Rücktausche werden gezählt; weitere Treffer werden ausgewiesen.
+Der erste Treffer ist eine reproduzierbare Suchreihenfolge, kein Beweis einer
+einzigartigen historischen Ursache. Zusätzlich wird geprüft, ob die Änderung
+auch vorwärts im Originaldatensatz die reparierte Entscheidung erzeugt.
+Kein einzelner erfolgreicher Rücktausch: 'mehrere Änderungen wirken zusammen'.
+Das identifiziert NICHT automatisch die kleinste notwendige Kombination.
+
+FOLGEWIRKUNGEN
+Die vorgegebene Signalregel ist zustandslos und verwendet keine Position.
+Daher sind spätere abweichende Signale nicht einfach Folgen eines früheren Trades.
+Die erste direkte Kipp-Entscheidung wird pro Aktie markiert; spätere direkte
+Signalunterschiede werden getrennt bezeichnet.
+Eine separate Datei illustriert einen hypothetischen Long/Flat-Positionszustand.
+Gleiche Signale bei weiterhin verschiedenen Positionen werden dort als reine
+Positionsfolgewirkung markiert. Diese Illustration zählt NICHT in der Kipp-Liste.
+Keine Orderausführung, kein PnL, keine Renditebehauptung.
+
+DATEIEN DES ECHTEN LAUFS
+- experiment_vorab.json: feste Parameter vor dem ersten Download.
+- manifest.json: Bibliotheksversionen, Zeitstempel, Abrufstatus und SHA256-Prüfsummen.
+- *_repair_false_TIMESTAMP.csv / *_repair_true_TIMESTAMP.csv: gespeicherte Antworten.
+- *_datenunterschiede.csv: Unterschiede je Aktie und Feld.
+- *_entscheidungen_repair_*.csv: alle täglichen Entscheidungen.
+- kipp_liste.csv: eine Zeile pro direkter Kipp-Entscheidung.
+- zusammenfassung.csv: Status, Datenänderungen und Kipps pro Aktie.
+- positionsfolgen_NUR_ILLUSTRATION.csv: separate hypothetische Positionsfolgen.
+- bericht.html: lesbarer Bericht; tests/: künstliche Testergebnisse.
+
+KEINE EXTERNE VORABREGISTRIERUNG
+Die Parameterdatei wird vor den Abrufen geschrieben. Zeitstempel und Hashes sind
+lokale Nachweise, keine unabhängige Zeitbeglaubigung. Für stärkere öffentliche
+Vorab-Festlegung: Code und Parameter vor dem ersten Marktlauf als GitHub-Commit
+veröffentlichen. Keine Regeln nach Sichtung der Ergebnisse ändern.
+
+GRENZEN
+repair=False bedeutet nicht garantiert 'unbereinigte historische Börsenpreise'.
+Yahoo Close kann bereits splitbereinigt sein. Getrennte Abrufe können durch
+zwischenzeitlich geänderte Anbieterantworten zusätzlich voneinander abweichen.
+repair=True kann fehlerhaft reparieren. Einige Reparaturen benötigen ältere
+Intradaydaten, die für 2020-2024 heute womöglich nicht mehr verfügbar sind.
+0 Kipps ist ein gültiges Ergebnis, kein Beweis fehlerfreier Daten.
+Der Lauf vergleicht Rohantwort und Reparaturantwort, NICHT historische Anbieter-
+Revisionen und NICHT tatsächlich ausgeführte Trades.
+Vor öffentlicher Weitergabe vollständiger Yahoo-Rohdaten deren Nutzungsrechte
+prüfen. Das Paket enthält nur Code und künstliche Testdaten-Ergebnisse.
+
+QUELLEN
+https://ranaroussi.github.io/yfinance/reference/api/yfinance.download.html
+https://ranaroussi.github.io/yfinance/advanced/price_repair.html
+https://ranaroussi.github.io/yfinance/index.html

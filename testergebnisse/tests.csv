@@ -1,0 +1,11 @@
+﻿Test,Erwartet,Tatsaechlich,Richtig
+01 Identische Daten,0 Kipps,0,JA
+02 Nur Volumen geaendert,1 Datenunterschied; 0 Kipps,"(1, 0)",JA
+03 Ein Close verschiebt Kreuzung,"genau 1 Kipp, letzte Kerze als Ursache","[('2020-04-08', 'KEINE AKTION', 'KAUF', '2020-04-08')]",JA
+04 Zwei Ruecktausche erforderlich,KAUF -> KEINE AKTION; mehrere Änderungen wirken zusammen,"('KAUF', 'KEINE AKTION', 'mehrere Änderungen wirken zusammen')",JA
+05 Aenderung 60 Handelstage vorher,"am Zieldatum keine Datenursache, gleiche Entscheidung",keine Datenursache,JA
+06 100-facher Einzelpreis,"1 Kipp, letzter Close als Ursache","(1, '2020-04-08')",JA
+07 Fehlender Handelstag,BLOCKIERT; ZEILE_FEHLT; keine scheinbaren Kipps,"('BLOCKIERT: unterschiedliche Handelstage; keine Kausalzuordnung', 0, 1)",JA
+08 Rand t-50 beeinflusst gestrigen SMA50,KEINE AKTION -> KAUF; Ursache genau t-50,"('KEINE AKTION', 'KAUF', '2020-01-29')",JA
+"09 Position wirkt nach, Signal nicht",Folgewirkung im Positionsprotokoll; kein Signal-Kipp an t+1,"([{'Datum': '2020-03-26', 'Original_Position': 0, 'Repariert_Position': 1, 'Typ': 'reine Positionsfolgewirkung'}], 0)",JA
+10 Fehlender Close darf nicht aufgefuellt werden,BLOCKIERT,BLOCKIERT: fehlender Close,JA

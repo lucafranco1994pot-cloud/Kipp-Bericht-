@@ -1,0 +1,72 @@
+<meta charset="utf-8"><h1>10 kuenstliche Tests</h1><p>Keine Marktdaten.</p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Test</th>
+      <th>Erwartet</th>
+      <th>Tatsaechlich</th>
+      <th>Richtig</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01 Identische Daten</td>
+      <td>0 Kipps</td>
+      <td>0</td>
+      <td>JA</td>
+    </tr>
+    <tr>
+      <td>02 Nur Volumen geaendert</td>
+      <td>1 Datenunterschied; 0 Kipps</td>
+      <td>(1, 0)</td>
+      <td>JA</td>
+    </tr>
+    <tr>
+      <td>03 Ein Close verschiebt Kreuzung</td>
+      <td>genau 1 Kipp, letzte Kerze als Ursache</td>
+      <td>[('2020-04-08', 'KEINE AKTION', 'KAUF', '2020-04-08')]</td>
+      <td>JA</td>
+    </tr>
+    <tr>
+      <td>04 Zwei Ruecktausche erforderlich</td>
+      <td>KAUF -&gt; KEINE AKTION; mehrere Änderungen wirken zusammen</td>
+      <td>('KAUF', 'KEINE AKTION', 'mehrere Änderungen wirken zusammen')</td>
+      <td>JA</td>
+    </tr>
+    <tr>
+      <td>05 Aenderung 60 Handelstage vorher</td>
+      <td>am Zieldatum keine Datenursache, gleiche Entscheidung</td>
+      <td>keine Datenursache</td>
+      <td>JA</td>
+    </tr>
+    <tr>
+      <td>06 100-facher Einzelpreis</td>
+      <td>1 Kipp, letzter Close als Ursache</td>
+      <td>(1, '2020-04-08')</td>
+      <td>JA</td>
+    </tr>
+    <tr>
+      <td>07 Fehlender Handelstag</td>
+      <td>BLOCKIERT; ZEILE_FEHLT; keine scheinbaren Kipps</td>
+      <td>('BLOCKIERT: unterschiedliche Handelstage; keine Kausalzuordnung', 0, 1)</td>
+      <td>JA</td>
+    </tr>
+    <tr>
+      <td>08 Rand t-50 beeinflusst gestrigen SMA50</td>
+      <td>KEINE AKTION -&gt; KAUF; Ursache genau t-50</td>
+      <td>('KEINE AKTION', 'KAUF', '2020-01-29')</td>
+      <td>JA</td>
+    </tr>
+    <tr>
+      <td>09 Position wirkt nach, Signal nicht</td>
+      <td>Folgewirkung im Positionsprotokoll; kein Signal-Kipp an t+1</td>
+      <td>([{'Datum': '2020-03-26', 'Original_Position': 0, 'Repariert_Position': 1, 'Typ': 'reine Positionsfolgewirkung'}], 0)</td>
+      <td>JA</td>
+    </tr>
+    <tr>
+      <td>10 Fehlender Close darf nicht aufgefuellt werden</td>
+      <td>BLOCKIERT</td>
+      <td>BLOCKIERT: fehlender Close</td>
+      <td>JA</td>
+    </tr>
+  </tbody>
+</table>
