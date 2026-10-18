@@ -1,0 +1,357 @@
+<meta charset="utf-8"><style>body{font-family:Arial;max-width:1400px;margin:24px}table{border-collapse:collapse}td,th{border:1px solid #aaa;padding:5px}h1{color:#17445a}</style>
+<h1>Kipp-Bericht: UNVOLLSTAENDIG</h1>
+<p>Vorgesehen: 30 Aktien. Vollstaendig vergleichbar: 21. Fehler/blockiert: 9. Aktien mit erfassten Datenunterschieden: 1. Direkte Entscheidungs-Kipps: 0. Meiste Kipps: Keine Aktie mit Kipp.</p>
+<h2>Grenzen</h2><p>Vergleich repair=False gegen repair=True, KEIN Nachweis einer nachtraeglichen Anbieter-Korrektur oder eines echten ausgefuehrten Trades. Reparaturen koennen falsch sein. Getrennte Abrufe koennen zusaetzlich unterschiedliche Anbieterantworten enthalten. Close wird mit auto_adjust=False benutzt; Adj Close ist kein Strategieeingang. Yahoo Close ist trotzdem nicht garantiert historisch unbereinigt (z.B. Splits).</p>
+<p>Beobachtete Signalunterschiede sind keine ausgefuehrten Trades. Kein Renditebeweis. Keine Positionsfolgen in der Kipp-Zaeh lung. Der separate Long/Flat-Zustand ist nur eine Illustration. Fehlende Tage oder ungueltige Schlusskurse blockieren die Kausalzuordnung fuer die ganze Aktie. Kein Auffuellen, keine Datumsverschiebung. Keine Daten vor 2020: die ersten 50 Beobachtungen sind Aufwaermphase. Alle unterschiedlichen Entscheidungen sind direkte Unterschiede dieser zustandslosen Signalregel, nicht automatisch Folgen eines frueheren Trades. Die Kategorie mehrere Aenderungen ist ein Einzel-Ruecktausch-Befund, kein Beweis einer kleinsten gemeinsamen Ursachenmenge. Ein wiederherstellender Wert ist nicht zwingend alleinige Ursache.</p>
+<h2>Aktien</h2>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Aktie</th>
+      <th>Status</th>
+      <th>Datenunterschiede</th>
+      <th>Kipps</th>
+      <th>Vergleichbare_Tage</th>
+      <th>Fehler</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AAPL</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1208</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>MSFT</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1208</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>NVDA</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1208</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>AMZN</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1208</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>GOOGL</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1208</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>META</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1208</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>TSLA</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1208</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>JPM</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1208</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>XOM</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1208</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>KO</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1208</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>0005.HK</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1180</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>0700.HK</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1180</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>1398.HK</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1180</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>0939.HK</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1180</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>0941.HK</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1180</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>1299.HK</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1180</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2318.HK</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1180</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>0388.HK</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1180</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>0883.HK</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1180</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>3988.HK</td>
+      <td>OK</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1180</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>HSBA.L</td>
+      <td>DOWNLOAD FEHLER</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>repair_true: ValueError: Leere Anbieterantwort</td>
+    </tr>
+    <tr>
+      <td>BP.L</td>
+      <td>DOWNLOAD FEHLER</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>repair_true: ValueError: Leere Anbieterantwort</td>
+    </tr>
+    <tr>
+      <td>SHEL.L</td>
+      <td>DOWNLOAD FEHLER</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>repair_true: ValueError: Leere Anbieterantwort</td>
+    </tr>
+    <tr>
+      <td>AZN.L</td>
+      <td>DOWNLOAD FEHLER</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>repair_true: ValueError: Leere Anbieterantwort</td>
+    </tr>
+    <tr>
+      <td>ULVR.L</td>
+      <td>DOWNLOAD FEHLER</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>repair_true: ValueError: Leere Anbieterantwort</td>
+    </tr>
+    <tr>
+      <td>GSK.L</td>
+      <td>OK</td>
+      <td>1756.0</td>
+      <td>0.0</td>
+      <td>1212</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>RIO.L</td>
+      <td>DOWNLOAD FEHLER</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>repair_true: ValueError: Leere Anbieterantwort</td>
+    </tr>
+    <tr>
+      <td>BARC.L</td>
+      <td>DOWNLOAD FEHLER</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>repair_true: ValueError: Leere Anbieterantwort</td>
+    </tr>
+    <tr>
+      <td>LLOY.L</td>
+      <td>DOWNLOAD FEHLER</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>repair_true: ValueError: Leere Anbieterantwort</td>
+    </tr>
+    <tr>
+      <td>VOD.L</td>
+      <td>DOWNLOAD FEHLER</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>repair_true: ValueError: Leere Anbieterantwort</td>
+    </tr>
+  </tbody>
+</table>
+<h2>Alle Kipp-Entscheidungen</h2>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Aktie</th>
+      <th>Datum</th>
+      <th>Original</th>
+      <th>Repariert</th>
+      <th>Einordnung</th>
+      <th>Erste_Kippentscheidung</th>
+      <th>Kategorie</th>
+      <th>Ursache_Datum</th>
+      <th>Feld</th>
+      <th>Alter_Wert</th>
+      <th>Neuer_Wert</th>
+      <th>Einzel_Ruecktausch_Treffer</th>
+      <th>Weitere_Treffer</th>
+      <th>Kandidaten</th>
+      <th>Auch_vorwaerts_ausreichend</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+<h2>10 kuenstliche Tests</h2>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Test</th>
+      <th>Erwartet</th>
+      <th>Tatsaechlich</th>
+      <th>Richtig</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01 Identische Daten</td>
+      <td>0 Kipps</td>
+      <td>0</td>
+      <td>JA</td>
+    </tr>
+    <tr>
+      <td>02 Nur Volumen geaendert</td>
+      <td>1 Datenunterschied; 0 Kipps</td>
+      <td>(1, 0)</td>
+      <td>JA</td>
+    </tr>
+    <tr>
+      <td>03 Ein Close verschiebt Kreuzung</td>
+      <td>genau 1 Kipp, letzte Kerze als Ursache</td>
+      <td>[('2020-04-08', 'KEINE AKTION', 'KAUF', '2020-04-08')]</td>
+      <td>JA</td>
+    </tr>
+    <tr>
+      <td>04 Zwei Ruecktausche erforderlich</td>
+      <td>KAUF -&gt; KEINE AKTION; mehrere Änderungen wirken zusammen</td>
+      <td>('KAUF', 'KEINE AKTION', 'mehrere Änderungen wirken zusammen')</td>
+      <td>JA</td>
+    </tr>
+    <tr>
+      <td>05 Aenderung 60 Handelstage vorher</td>
+      <td>am Zieldatum keine Datenursache, gleiche Entscheidung</td>
+      <td>keine Datenursache</td>
+      <td>JA</td>
+    </tr>
+    <tr>
+      <td>06 100-facher Einzelpreis</td>
+      <td>1 Kipp, letzter Close als Ursache</td>
+      <td>(1, '2020-04-08')</td>
+      <td>JA</td>
+    </tr>
+    <tr>
+      <td>07 Fehlender Handelstag</td>
+      <td>BLOCKIERT; ZEILE_FEHLT; keine scheinbaren Kipps</td>
+      <td>('BLOCKIERT: unterschiedliche Handelstage; keine Kausalzuordnung', 0, 1)</td>
+      <td>JA</td>
+    </tr>
+    <tr>
+      <td>08 Rand t-50 beeinflusst gestrigen SMA50</td>
+      <td>KEINE AKTION -&gt; KAUF; Ursache genau t-50</td>
+      <td>('KEINE AKTION', 'KAUF', '2020-01-29')</td>
+      <td>JA</td>
+    </tr>
+    <tr>
+      <td>09 Position wirkt nach, Signal nicht</td>
+      <td>Folgewirkung im Positionsprotokoll; kein Signal-Kipp an t+1</td>
+      <td>([{'Datum': '2020-03-26', 'Original_Position': 0, 'Repariert_Position': 1, 'Typ': 'reine Positionsfolgewirkung'}], 0)</td>
+      <td>JA</td>
+    </tr>
+    <tr>
+      <td>10 Fehlender Close darf nicht aufgefuellt werden</td>
+      <td>BLOCKIERT</td>
+      <td>BLOCKIERT: fehlender Close</td>
+      <td>JA</td>
+    </tr>
+  </tbody>
+</table>

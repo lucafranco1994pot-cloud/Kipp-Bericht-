@@ -1,0 +1,31 @@
+﻿Aktie,Status,Datenunterschiede,Kipps,Vergleichbare_Tage,Fehler
+AAPL,OK,0,0,1208,
+MSFT,OK,0,0,1208,
+NVDA,OK,0,0,1208,
+AMZN,OK,0,0,1208,
+GOOGL,OK,0,0,1208,
+META,OK,0,0,1208,
+TSLA,OK,0,0,1208,
+JPM,OK,0,0,1208,
+XOM,OK,0,0,1208,
+KO,OK,0,0,1208,
+0005.HK,OK,0,0,1180,
+0700.HK,OK,0,0,1180,
+1398.HK,OK,0,0,1180,
+0939.HK,OK,0,0,1180,
+0941.HK,OK,0,0,1180,
+1299.HK,OK,0,0,1180,
+2318.HK,OK,0,0,1180,
+0388.HK,OK,0,0,1180,
+0883.HK,OK,0,0,1180,
+3988.HK,OK,0,0,1180,
+HSBA.L,DOWNLOAD FEHLER,,,0,repair_true: ValueError: Leere Anbieterantwort
+BP.L,DOWNLOAD FEHLER,,,0,repair_true: ValueError: Leere Anbieterantwort
+SHEL.L,DOWNLOAD FEHLER,,,0,repair_true: ValueError: Leere Anbieterantwort
+AZN.L,DOWNLOAD FEHLER,,,0,repair_true: ValueError: Leere Anbieterantwort
+ULVR.L,DOWNLOAD FEHLER,,,0,repair_true: ValueError: Leere Anbieterantwort
+GSK.L,OK,1756,0,1212,
+RIO.L,DOWNLOAD FEHLER,,,0,repair_true: ValueError: Leere Anbieterantwort
+BARC.L,DOWNLOAD FEHLER,,,0,repair_true: ValueError: Leere Anbieterantwort
+LLOY.L,DOWNLOAD FEHLER,,,0,repair_true: ValueError: Leere Anbieterantwort
+VOD.L,DOWNLOAD FEHLER,,,0,repair_true: ValueError: Leere Anbieterantwort
