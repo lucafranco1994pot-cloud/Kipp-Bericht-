@@ -1,0 +1,1 @@
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/11h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
