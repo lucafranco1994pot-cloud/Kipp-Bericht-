@@ -134,6 +134,32 @@ def news(m):
                 out.append(trade(m, r, t, t + 20 * S))
     return out
 
+def news_feed_abweichung(m, seed=11):
+    """EHRLICH: News-Trades mit echten Fills, aber der Broker-Feed weicht zufaellig um bis zu +-1 Pip
+    von Dukascopy ab (protokollierter Preis = Broker-Preis)."""
+    rng = np.random.default_rng(seed); out = []
+    for x in news(m):
+        x = dict(x); x['Preis_Eroeffnung'] = float(x['Preis_Eroeffnung'] + rng.uniform(-1, 1) * PIP); out.append(x)
+    return out
+
+def leiser_ausnutzer(m):
+    """AUSNUTZER: holt bei jedem Sprung nur 0,3 Pip Vorteil (unter der Toleranz), haelt 30 s."""
+    out, sperre = [], m.t[0]
+    for i in range(0, len(m.t), 3):
+        t = m.t[i]
+        if t < sperre: continue
+        alt = m.mitte(t - S); jetzt = (m.bid[i] + m.ask[i]) / 2
+        if abs(jetzt - alt) >= 1.5 * PIP:
+            r = 1 if jetzt > alt else -1
+            out.append(trade(m, r, t, t + 30 * S, preis_in=m.einstieg(t, r) - r * 0.3 * PIP)); sperre = t + 60 * S
+    return out
+
+def stress_konten(m):
+    return {
+        'K8 Ehrlicher News-Trader, Broker-Feed +-1 Pip': (news_feed_abweichung(m), False),
+        'K9 Leiser Ausnutzer, nur 0,3 Pip Vorteil':      (leiser_ausnutzer(m), True),
+    }
+
 def konten(m):
     return {
         'K1 Latenz-Ausnutzer (5 s)':             (ausnutzer(m), True),
@@ -165,24 +191,37 @@ def kipp_check(m, df):
     t = pd.DataFrame(rows)
     return t, int(t.Kippt.sum()) >= MIN_TRADES_AUFFAELLIG
 
+def konto_test_v2(t):
+    """Regel v2 (Konto-Ebene, nach den Stress-Faellen ergaenzt): systematischer Preisvorteil gegenueber
+    dem Markt. Auffaellig, wenn >= 20 Trades, mittlerer Vorteil > 0,1 Pip und t-Wert > 3.
+    Zufaellige Feed-Abweichungen mitteln sich aus, ein kleiner, aber staendiger Vorteil nicht."""
+    v = t.Vorteil_ggu_Markt_Pips.values
+    if len(v) < 20: return False, 0.0, 0.0
+    mu = float(v.mean()); sd = float(v.std(ddof=1))
+    tw = mu / (sd / np.sqrt(len(v))) if sd > 0 else (np.inf if mu > 0 else 0.0)
+    return bool(mu > 0.1 and tw > 3), round(mu, 3), round(float(tw), 1)
+
 def main():
     out = Path(sys.argv[1]); out.mkdir(parents=True, exist_ok=True)
     ticks = synthetische_ticks() if '--synthetisch' in sys.argv else lade_dukascopy()
     m = Markt(ticks)
     zeilen = []
-    for name, (trades, wahr) in konten(m).items():
+    auswahl = {**konten(m), **stress_konten(m)} if '--stress' in sys.argv else konten(m)
+    for name, (trades, wahr) in auswahl.items():
         df = pd.DataFrame(trades)
-        b = baseline(df); t, k = kipp_check(m, df)
+        b = baseline(df); t, k = kipp_check(m, df); k2, mu, tw = konto_test_v2(t)
         t.to_csv(out / f"trades_{name.split()[0]}.csv", index=False)
         zeilen.append(dict(Konto=name, Trades=len(df), Wahrheit='AUSNUTZER' if wahr else 'SAUBER',
                            Baseline='AUFFAELLIG' if b else 'unauffaellig', Baseline_richtig=b == wahr,
                            Kipp_Check='AUFFAELLIG' if k else 'unauffaellig', Kipp_Check_richtig=k == wahr,
+                           Regel_v2='AUFFAELLIG' if k2 else 'unauffaellig', Regel_v2_richtig=k2 == wahr,
+                           Mittl_Vorteil_Pips=mu, t_Wert=tw,
                            Gekippte_Trades=int(t.Kippt.sum()),
                            Gewinn_Protokoll_Pips=round(t.Gewinn_Protokoll_Pips.sum(), 1),
                            Gewinn_Marktpreis_Pips=round(t.Gewinn_Marktpreis_Pips.sum(), 1)))
     z = pd.DataFrame(zeilen); z.to_csv(out / 'zusammenfassung.csv', index=False)
     txt = (f"# Ausfuehrungs-Check Demo – Ergebnis\nTicks: {len(ticks)} ({'synthetisch' if '--synthetisch' in sys.argv else 'Dukascopy EURUSD'}), Tage {TAGE[0]} bis {TAGE[-1]}, 07-18 UTC\n\n"
-           + z.to_markdown(index=False) + f"\n\nBaseline richtig: {int(z.Baseline_richtig.sum())}/{len(z)}  |  Kipp-Check richtig: {int(z.Kipp_Check_richtig.sum())}/{len(z)}\n")
+           + z.to_markdown(index=False) + f"\n\nBaseline richtig: {int(z.Baseline_richtig.sum())}/{len(z)}  |  Kipp-Check v1 richtig: {int(z.Kipp_Check_richtig.sum())}/{len(z)}  |  Regel v2 richtig: {int(z.Regel_v2_richtig.sum())}/{len(z)}\n")
     (out / 'ERGEBNIS.md').write_text(txt, encoding='utf-8'); print(txt)
 
 if __name__ == '__main__':

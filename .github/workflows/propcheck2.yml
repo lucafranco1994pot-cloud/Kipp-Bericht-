@@ -1,0 +1,20 @@
+name: Prop-Check Stresstest
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  demo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pandas numpy tabulate
+      - run: python prop-check/latenz_check.py prop-check/ergebnisse/stress_$(date --stress -u +%Y%m%dT%H%M%SZ) 2>&1 | tee prop-check/log_stress.txt
+      - if: always()
+        run: |
+          git config user.name "github-actions[bot]"; git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add prop-check && git commit -m "Prop-Check Stresstest: Ergebnis (Regeln unveraendert)" && git pull --rebase && git push
