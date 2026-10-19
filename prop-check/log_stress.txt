@@ -1,1 +1,22 @@
-Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/11h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/08h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/08h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/08h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/08h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/08h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/09h_ticks.bi5 URLError <urlopen error timed out>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/09h_ticks.bi5 URLError <urlopen error [Errno 104] Connection reset by peer>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/09h_ticks.bi5 URLError <urlopen error [Errno 104] Connection reset by peer>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/09h_ticks.bi5 URLError <urlopen error timed out>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/09h_ticks.bi5 URLError <urlopen error [Errno 104] Connection reset by peer>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/09h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/09h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/09h_ticks.bi5 URLError <urlopen error timed out>
+Traceback (most recent call last):
+  File "/home/runner/work/Kipp-Bericht-/Kipp-Bericht-/prop-check/latenz_check.py", line 228, in <module>
+    main()
+  File "/home/runner/work/Kipp-Bericht-/Kipp-Bericht-/prop-check/latenz_check.py", line 206, in main
+    ticks = synthetische_ticks() if '--synthetisch' in sys.argv else lade_dukascopy()
+                                                                     ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Kipp-Bericht-/Kipp-Bericht-/prop-check/latenz_check.py", line 38, in lade_dukascopy
+    raise RuntimeError(f'Download fehlgeschlagen: {url}')
+RuntimeError: Download fehlgeschlagen: https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/09h_ticks.bi5
