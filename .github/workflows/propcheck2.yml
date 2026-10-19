@@ -13,7 +13,7 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install pandas numpy tabulate
-      - run: python prop-check/latenz_check.py prop-check/ergebnisse/stress_$(date --stress -u +%Y%m%dT%H%M%SZ) 2>&1 | tee prop-check/log_stress.txt
+      - run: python prop-check/latenz_check.py prop-check/ergebnisse/stress_$(date -u +%Y%m%dT%H%M%SZ) --stress 2>&1 | tee prop-check/log_stress.txt
       - if: always()
         run: |
           git config user.name "github-actions[bot]"; git config user.email "github-actions[bot]@users.noreply.github.com"
