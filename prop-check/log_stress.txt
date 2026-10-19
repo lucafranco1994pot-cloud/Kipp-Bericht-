@@ -1,22 +1,79 @@
 Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/08h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
-Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/08h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
-Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/08h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
-Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/08h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
-Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/08h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
-Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/09h_ticks.bi5 URLError <urlopen error timed out>
-Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/09h_ticks.bi5 URLError <urlopen error [Errno 104] Connection reset by peer>
-Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/09h_ticks.bi5 URLError <urlopen error [Errno 104] Connection reset by peer>
-Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/09h_ticks.bi5 URLError <urlopen error timed out>
-Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/09h_ticks.bi5 URLError <urlopen error [Errno 104] Connection reset by peer>
-Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/09h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
-Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/09h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
-Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/09h_ticks.bi5 URLError <urlopen error timed out>
-Traceback (most recent call last):
-  File "/home/runner/work/Kipp-Bericht-/Kipp-Bericht-/prop-check/latenz_check.py", line 228, in <module>
-    main()
-  File "/home/runner/work/Kipp-Bericht-/Kipp-Bericht-/prop-check/latenz_check.py", line 206, in main
-    ticks = synthetische_ticks() if '--synthetisch' in sys.argv else lade_dukascopy()
-                                                                     ^^^^^^^^^^^^^^^^
-  File "/home/runner/work/Kipp-Bericht-/Kipp-Bericht-/prop-check/latenz_check.py", line 38, in lade_dukascopy
-    raise RuntimeError(f'Download fehlgeschlagen: {url}')
-RuntimeError: Download fehlgeschlagen: https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/09h_ticks.bi5
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/11h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/11h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/11h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/11h_ticks.bi5 URLError <urlopen error timed out>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/14h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/15h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/15h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/15h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/16h_ticks.bi5 URLError <urlopen error [Errno 104] Connection reset by peer>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/16h_ticks.bi5 URLError <urlopen error [Errno 104] Connection reset by peer>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/16h_ticks.bi5 URLError <urlopen error timed out>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/03/16h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/07h_ticks.bi5 URLError <urlopen error timed out>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/07h_ticks.bi5 URLError <urlopen error [Errno 104] Connection reset by peer>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/07h_ticks.bi5 URLError <urlopen error timed out>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/07h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/07h_ticks.bi5 URLError <urlopen error timed out>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/07h_ticks.bi5 URLError <urlopen error [Errno 104] Connection reset by peer>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/07h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/07h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/08h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/08h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/08h_ticks.bi5 TimeoutError The read operation timed out
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/13h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/13h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/14h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/14h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/14h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/16h_ticks.bi5 URLError <urlopen error [Errno 104] Connection reset by peer>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/16h_ticks.bi5 URLError <urlopen error [Errno 104] Connection reset by peer>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/16h_ticks.bi5 URLError <urlopen error timed out>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/16h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/04/17h_ticks.bi5 URLError <urlopen error timed out>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/05/07h_ticks.bi5 URLError <urlopen error timed out>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/05/09h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/05/10h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/05/10h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/05/10h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/05/10h_ticks.bi5 URLError <urlopen error timed out>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/05/11h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/05/14h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/05/14h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/06/10h_ticks.bi5 URLError <urlopen error timed out>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/06/11h_ticks.bi5 URLError <urlopen error timed out>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/06/12h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/06/12h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/06/12h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/06/12h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/06/13h_ticks.bi5 URLError <urlopen error [Errno 104] Connection reset by peer>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/06/14h_ticks.bi5 URLError <urlopen error timed out>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/06/16h_ticks.bi5 URLError <urlopen error [Errno 104] Connection reset by peer>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/06/16h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/06/16h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/07/07h_ticks.bi5 URLError <urlopen error timed out>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/07/09h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/07/11h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/07/11h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/07/12h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/07/13h_ticks.bi5 HTTPError HTTP Error 503: Service Unavailable
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/07/16h_ticks.bi5 URLError <urlopen error timed out>
+Wiederhole https://datafeed.dukascopy.com/datafeed/EURUSD/2025/02/07/16h_ticks.bi5 URLError <urlopen error [Errno 104] Connection reset by peer>
+# Ausfuehrungs-Check Demo – Ergebnis
+Ticks: 481736 (Dukascopy EURUSD), Tage 2025-03-03 bis 2025-03-07, 07-18 UTC
+
+| Konto                                         |   Trades | Wahrheit   | Baseline     | Baseline_richtig   | Kipp_Check   | Kipp_Check_richtig   | Regel_v2     | Regel_v2_richtig   |   Mittl_Vorteil_Pips |       t_Wert |   Gekippte_Trades |   Gewinn_Protokoll_Pips |   Gewinn_Marktpreis_Pips |
+|:----------------------------------------------|---------:|:-----------|:-------------|:-------------------|:-------------|:---------------------|:-------------|:-------------------|---------------------:|-------------:|------------------:|------------------------:|-------------------------:|
+| K1 Latenz-Ausnutzer (5 s)                     |      470 | AUSNUTZER  | AUFFAELLIG   | True               | AUFFAELLIG   | True                 | AUFFAELLIG   | True               |                2.084 | 10.4         |               286 |                   776   |                   -203.4 |
+| K2 Scalper, echte Fills                       |      387 | SAUBER     | unauffaellig | True               | unauffaellig | True                 | unauffaellig | True               |                0     |  0           |                 0 |                   -45.7 |                    -45.7 |
+| K3 Swing-Trader, echte Fills                  |       15 | SAUBER     | unauffaellig | True               | unauffaellig | True                 | unauffaellig | True               |                0     |  0           |                 0 |                    44   |                     44   |
+| K4 Swing + versteckte Ausnutzer-Trades        |       62 | AUSNUTZER  | AUFFAELLIG   | True               | AUFFAELLIG   | True                 | AUFFAELLIG   | True               |                1.342 | 12.8         |                31 |                   101.4 |                     18.2 |
+| K5 Schneller News-Trader, echte Fills         |       28 | SAUBER     | AUFFAELLIG   | False              | unauffaellig | True                 | unauffaellig | True               |                0     |  0           |                 0 |                   -21.2 |                    -21.2 |
+| K6 Swing mit Slippage-Rauschen +-0,3 Pip      |       15 | SAUBER     | unauffaellig | True               | unauffaellig | True                 | unauffaellig | True               |                0     |  0           |                 0 |                    44.4 |                     44   |
+| K7 Ausnutzer, 10 Min. halten (getarnt)        |      470 | AUSNUTZER  | unauffaellig | False              | AUFFAELLIG   | True                 | AUFFAELLIG   | True               |                2.084 | 10.4         |                41 |                   490.3 |                   -489.1 |
+| K8 Ehrlicher News-Trader, Broker-Feed +-1 Pip |       28 | SAUBER     | AUFFAELLIG   | False              | unauffaellig | True                 | unauffaellig | True               |                0.099 |  0.9         |                 1 |                   -18.4 |                    -21.2 |
+| K9 Leiser Ausnutzer, nur 0,3 Pip Vorteil      |      470 | AUSNUTZER  | AUFFAELLIG   | True               | unauffaellig | False                | AUFFAELLIG   | True               |                0.3   |  1.17038e+17 |                 0 |                   -27.5 |                   -168.5 |
+
+Baseline richtig: 6/9  |  Kipp-Check v1 richtig: 8/9  |  Regel v2 richtig: 9/9
+
