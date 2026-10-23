@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trade-Detektiv Test</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.8.0/sql-wasm.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<style>
+:root{--bg:#f7f7f5;--card:#fff;--tx:#1d1d1b;--mut:#6b6b66;--bd:#e2e2dc;--ok:#1f7a4d;--warn:#b26b00;--bad:#b3261e;--acc:#2f5bd3}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#151514;--card:#1f1f1d;--tx:#ececE8;--mut:#a3a39c;--bd:#33332f;--ok:#4fc28a;--warn:#e6a23c;--bad:#f2766d;--acc:#7ea0ff}}
+:root[data-theme="dark"]{--bg:#151514;--card:#1f1f1d;--tx:#ececE8;--mut:#a3a39c;--bd:#33332f;--ok:#4fc28a;--warn:#e6a23c;--bad:#f2766d;--acc:#7ea0ff}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font:15px/1.45 system-ui,-apple-system,Segoe UI,sans-serif}
+main{max-width:900px;margin:0 auto;padding:16px}
+h1{font-size:20px;margin:4px 0 4px}
+p.sub{color:var(--mut);margin:0 0 16px}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:14px;margin-bottom:12px}
+label{display:block;font-weight:600;margin-bottom:6px}
+input[type=file]{width:100%;margin-bottom:12px}
+button{background:var(--acc);color:#fff;border:0;border-radius:8px;padding:10px 14px;font-size:15px;cursor:pointer;margin:4px 6px 4px 0}
+button.sec{background:transparent;color:var(--acc);border:1px solid var(--acc)}
+.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.row input[type=number]{width:80px;padding:6px;border:1px solid var(--bd);border-radius:6px;background:var(--bg);color:var(--tx)}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:8px}
+.stat{border:1px solid var(--bd);border-radius:10px;padding:10px}
+.stat b{display:block;font-size:22px}
+.stat span{color:var(--mut);font-size:13px}
+.tw{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:13px}
+th,td{padding:6px 8px;border-bottom:1px solid var(--bd);text-align:left;white-space:nowrap}
+th{color:var(--mut);font-weight:600}
+.tag{display:inline-block;padding:2px 7px;border-radius:999px;font-size:12px;font-weight:600}
+.t-ok{color:var(--ok);border:1px solid var(--ok)}
+.t-warn{color:var(--warn);border:1px solid var(--warn)}
+.t-bad{color:var(--bad);border:1px solid var(--bad)}
+#msg{color:var(--mut)}
+.err{color:var(--bad)}
+.filter button{padding:6px 10px;font-size:13px}
+</style>
+</head>
+<body>
+<main>
+<h1>Trade-Detektiv (Testversion)</h1>
+<p class="sub">Freqtrade: Backtest und echte Trades nebeneinander. Alles läuft nur in deinem Browser, nichts wird hochgeladen.</p>
+
+<div class="card">
+<label>1. Backtest-Ergebnis (.json oder .zip)</label>
+<input type="file" id="fBt" accept=".json,.zip">
+<label>2. Echte Trades (tradesv3.sqlite)</label>
+<input type="file" id="fLive" accept=".sqlite,.db,.sqlite3">
+<div class="row">
+<span>Zeitfenster für Zuordnung (Minuten):</span><input type="number" id="tol" value="60" min="1">
+</div>
+<div class="row" style="margin-top:8px">
+<button id="go">Vergleichen</button>
+<button class="sec" id="demo">Beispieldaten testen</button>
+</div>
+<p id="msg"></p>
+</div>
+
+<details class="card">
+<summary style="font-weight:600;cursor:pointer">Wo finde ich die Dateien?</summary>
+<p><b>Backtest-Ergebnis:</b> im Ordner <code>user_data/backtest_results/</code>. Neuere Freqtrade-Versionen speichern dort eine <code>.zip</code>, ältere eine <code>.json</code>. Die Datei <code>.last_result.json</code> nennt die neueste. Exportiere den Backtest mit <code>--export trades</code> (Standard).</p>
+<p><b>Echte Trades:</b> die Datenbank <code>tradesv3.sqlite</code> (Live) oder <code>tradesv3.dryrun.sqlite</code> (Dry-Run), meist im Freqtrade-Hauptordner oder in <code>user_data/</code>.</p>
+<p><b>Wichtig:</b> Lass den Backtest über <b>denselben Zeitraum</b> und mit <b>derselben Strategie und Konfiguration</b> laufen wie dein Bot. Sonst vergleichst du Äpfel mit Birnen.</p>
+<p style="color:var(--mut)">Die Dateien enthalten keine Börsen-Zugangsschlüssel. Sie werden nur in deinem Browser gelesen und nirgendwohin geschickt.</p>
+</details>
+
+<div id="out"></div>
+</main>
+
+<script id="core">
+function parseDate(v){
+  if(v==null||v==="")return null;
+  if(typeof v==="number")return new Date(v>1e12?v:v*1000);
+  let s=String(v).trim().replace(" ","T");
+  s=s.replace(/(\.\d{3})\d+/,"$1");
+  if(!/[zZ]|[+-]\d\d:?\d\d$/.test(s))s+="Z";
+  const d=new Date(s);return isNaN(d)?null:d;
+}
+function parseBacktest(obj){
+  let list=[];
+  if(obj&&obj.strategy&&typeof obj.strategy==="object"){
+    for(const k of Object.keys(obj.strategy)){const t=obj.strategy[k].trades||[];t.forEach(x=>x.__s=k);list=list.concat(t);}
+  }else if(Array.isArray(obj)){list=obj}else if(obj&&Array.isArray(obj.trades)){list=obj.trades}
+  return list.map(t=>({pair:t.pair,isShort:!!t.is_short,open:parseDate(t.open_date??t.open_timestamp),close:parseDate(t.close_date??t.close_timestamp),
+    openRate:+t.open_rate,closeRate:+t.close_rate,profit:+(t.profit_ratio??t.profit_percent??0),exit:t.exit_reason??t.sell_reason??"",strategy:t.__s||""})).filter(t=>t.pair&&t.open);
+}
+function parseLiveRows(cols,rows){
+  const i=n=>cols.indexOf(n);
+  return rows.map(r=>{const g=n=>i(n)>=0?r[i(n)]:null;return{pair:g("pair"),isShort:!!g("is_short"),isOpen:!!g("is_open"),
+    open:parseDate(g("open_date")),close:parseDate(g("close_date")),openRate:+g("open_rate"),closeRate:g("close_rate")==null?null:+g("close_rate"),
+    profit:g("close_profit")==null?null:+g("close_profit"),exit:g("exit_reason")??g("sell_reason")??"",strategy:g("strategy")||""}}).filter(t=>t.pair&&t.open);
+}
+function matchTrades(bt,live,tolMin){
+  const tol=tolMin*60000;
+  if(!live.length)return{rows:bt.map(b=>({type:"bt",b})),btUsed:bt.length};
+  const lo=Math.min(...live.map(l=>+l.open))-tol, hi=Math.max(...live.map(l=>+(l.close||l.open)))+tol;
+  const btIn=bt.filter(b=>+b.open>=lo&&+b.open<=hi);
+  const edges=[];const cand=new Map();
+  live.forEach((l,li)=>btIn.forEach((b,bi)=>{
+    if(b.pair===l.pair&&b.isShort===l.isShort){const d=Math.abs(b.open-l.open);if(d<=tol){edges.push([d,li,bi]);cand.set(li,(cand.get(li)||0)+1);}}
+  }));
+  edges.sort((a,b)=>a[0]-b[0]);
+  const lu=new Set(),bu=new Set(),rows=[];
+  for(const [d,li,bi] of edges){if(lu.has(li)||bu.has(bi))continue;lu.add(li);bu.add(bi);
+    const l=live[li],b=btIn[bi];
+    const flip=l.profit!=null&&Math.sign(b.profit)!==Math.sign(l.profit)&&!(b.profit===0||l.profit===0);
+    rows.push({type:"match",b,l,dMin:(l.open-b.open)/60000,ratePct:b.openRate?(l.openRate/b.openRate-1)*100:null,flip,amb:(cand.get(li)||0)>1});}
+  live.forEach((l,li)=>{if(!lu.has(li))rows.push({type:"live",l})});
+  btIn.forEach((b,bi)=>{if(!bu.has(bi))rows.push({type:"bt",b})});
+  rows.sort((x,y)=>((x.b||x.l).open)-((y.b||y.l).open));
+  return{rows,btUsed:btIn.length};
+}
+</script>
+
+<script>
+const $=id=>document.getElementById(id);
+let SQL=null;
+async function getSQL(){if(SQL)return SQL;SQL=await initSqlJs({locateFile:f=>"https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.8.0/"+f});return SQL;}
+async function readBacktest(file){
+  if(/\.zip$/i.test(file.name)){
+    const z=await JSZip.loadAsync(await file.arrayBuffer());
+    const names=Object.keys(z.files).filter(n=>/\.json$/i.test(n)&&!/meta|config/i.test(n));
+    for(const n of names){const o=JSON.parse(await z.files[n].async("string"));const t=parseBacktest(o);if(t.length)return t;}
+    throw new Error("Im ZIP wurde keine Backtest-Datei mit Trades gefunden.");
+  }
+  return parseBacktest(JSON.parse(await file.text()));
+}
+async function readLive(file){
+  const S=await getSQL();const db=new S.Database(new Uint8Array(await file.arrayBuffer()));
+  const r=db.exec("SELECT * FROM trades");db.close();
+  if(!r.length)return[];return parseLiveRows(r[0].columns,r[0].values);
+}
+const fmt=d=>d?d.toISOString().slice(0,16).replace("T"," "):"–";
+const pct=v=>v==null||isNaN(v)?"–":(v*100).toFixed(2)+" %";
+function render(res,nBt,nLive){
+  const m=res.rows.filter(r=>r.type==="match"),ob=res.rows.filter(r=>r.type==="bt"),ol=res.rows.filter(r=>r.type==="live");
+  const fl=m.filter(r=>r.flip),am=m.filter(r=>r.amb);
+  let h=`<div class="card"><div class="stats">
+  <div class="stat"><b>${m.length}</b><span>zugeordnet</span></div>
+  <div class="stat"><b style="color:var(--bad)">${fl.length}</b><span>Ergebnis gekippt (Gewinn ↔ Verlust)</span></div>
+  <div class="stat"><b style="color:var(--warn)">${ob.length}</b><span>nur im Backtest</span></div>
+  <div class="stat"><b style="color:var(--warn)">${ol.length}</b><span>nur live</span></div>
+  <div class="stat"><b>${am.length}</b><span>Zuordnung unsicher</span></div></div>
+  <p style="color:var(--mut);margin:10px 0 0">Live: ${nLive} Trades. Backtest im selben Zeitraum: ${res.btUsed} von ${nBt}.</p></div>
+  <div class="card"><div class="row filter"><button class="sec" data-f="all">Alle</button><button class="sec" data-f="flip">Gekippt</button><button class="sec" data-f="miss">Fehlend</button></div>
+  <div class="tw"><table><thead><tr><th>Status</th><th>Paar</th><th>Einstieg Backtest</th><th>Einstieg live</th><th>Abstand</th><th>Preis-Abw.</th><th>Ergebnis BT</th><th>Ergebnis live</th><th>Ausstieg BT / live</th></tr></thead><tbody>`;
+  for(const r of res.rows){
+    let tag,cls;
+    if(r.type==="match"){tag=r.flip?"gekippt":"passt";if(r.amb)tag+=" ?";cls=r.flip?"t-bad":"t-ok"}else{tag=r.type==="bt"?"nur Backtest":"nur live";cls="t-warn"}
+    const b=r.b||{},l=r.l||{};const p=b.pair||l.pair;
+    h+=`<tr data-k="${r.type==="match"?(r.flip?"flip":"ok"):"miss"}"><td><span class="tag ${cls}">${tag}</span></td><td>${p}${(b.isShort||l.isShort)?" (short)":""}</td>
+    <td>${fmt(b.open)}</td><td>${fmt(l.open)}</td><td>${r.dMin!=null?Math.round(r.dMin)+" min":"–"}</td><td>${r.ratePct!=null?r.ratePct.toFixed(3)+" %":"–"}</td>
+    <td>${pct(b.profit)}</td><td>${l.isOpen?"offen":pct(l.profit)}</td><td>${(b.exit||"–")} / ${(l.exit||"–")}</td></tr>`;
+  }
+  h+=`</tbody></table></div><p style="color:var(--mut);font-size:13px">„?“ = mehrere Backtest-Trades kamen in Frage, Zuordnung nicht sicher. Ursachen werden in dieser Testversion noch nicht geprüft.</p></div>`;
+  $("out").innerHTML=h;
+  document.querySelectorAll(".filter button").forEach(bn=>bn.onclick=()=>{const f=bn.dataset.f;
+    document.querySelectorAll("tbody tr").forEach(tr=>tr.style.display=(f==="all"||tr.dataset.k===f)?"":"none")});
+}
+function demoData(){
+  const base=Date.UTC(2026,8,1,8,0);const H=3600000;const bt=[],live=[];
+  const pairs=["BTC/USDT","ETH/USDT","SOL/USDT"];
+  for(let i=0;i<12;i++){const p=pairs[i%3],o=new Date(base+i*7*H),pr=[.021,-.012,.015,.008,-.02,.011,.004,-.006,.018,.009,-.011,.013][i];
+    bt.push({pair:p,isShort:false,open:o,close:new Date(+o+3*H),openRate:100+i,closeRate:(100+i)*(1+pr),profit:pr,exit:pr>0?"roi":"stop_loss"});
+    if(i===4)continue;
+    let lo=new Date(+o+(i===7?45*60000:5*60000)),lp=pr-0.002;if(i===3)lp=-.004;if(i===9)lp=-.003;
+    live.push({pair:p,isShort:false,isOpen:false,open:lo,close:new Date(+lo+3*H),openRate:(100+i)*1.0006,closeRate:null,profit:lp,exit:lp>0?"roi":"stop_loss"});}
+  live.push({pair:"ETH/USDT",isShort:false,isOpen:false,open:new Date(base+40*H),close:new Date(base+42*H),openRate:120,profit:-.009,exit:"stop_loss"});
+  return{bt,live};
+}
+$("go").onclick=async()=>{
+  const fb=$("fBt").files[0],fl=$("fLive").files[0];$("msg").className="";
+  if(!fb||!fl){$("msg").textContent="Bitte beide Dateien auswählen.";return}
+  $("msg").textContent="Lese Dateien …";
+  try{const bt=await readBacktest(fb),live=await readLive(fl);
+    if(!bt.length)throw new Error("Im Backtest wurden keine Trades gefunden.");
+    if(!live.length)throw new Error("In der Datenbank wurden keine Trades gefunden.");
+    render(matchTrades(bt,live,+$("tol").value||60),bt.length,live.length);$("msg").textContent="Fertig.";}
+  catch(e){$("msg").className="err";$("msg").textContent="Fehler: "+e.message;}
+};
+$("demo").onclick=()=>{const d=demoData();render(matchTrades(d.bt,d.live,+$("tol").value||60),d.bt.length,d.live.length);$("msg").textContent="Beispieldaten: 1 fehlender Trade, 2 gekippte Ergebnisse, 1 verspäteter Einstieg, 1 zusätzlicher Live-Trade.";};
+</script>
+</body>
+</html>
